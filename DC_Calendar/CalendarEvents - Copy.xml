@@ -1,0 +1,25 @@
+ <!-- Event File v6.0 -->
+ 
+ <EventFile Repeat="Year">
+	<Variable Name="DayNumber" Select="86400"/>
+	<Event Month="{$Easter:Month}" Day="{$Easter:Day}">Easter Sunday</Event>
+	<Event Month="1" Event Day="1">New Year's Day</Event>
+	<Event Month="1" Event Day="{$ThirdMon}">Martin Luther King, Jr. Day</Event>
+	<Event Month="2" Event Day="2">Groundhog Day</Event>
+	<Event Month="2" Event Day="14">Valentines Day</Event>
+	<Event Month="3" Day="17">St. Patrick's Day</Event>
+	<Event Month="4" Event Day="1">April Fool's Day</Event>	
+	<Event Month="5" Event Day="{$SecondSun}">Mother's Day</Event>
+	<Event Month="5" Event Day="{$LastMon}">Memorial Day</Event>	
+	<Event Month="6" Event Day="{$ThirdSun}">Father's Day</Event>
+	<Event Month="7" Day="4">Independence Day</Event>
+	<Event Month="9" Event Day="{$FirstMon}">Labor Day</Event>	
+	<Event Month="9" Day="25">St. Patrick's Day</Event>
+	<Event Month="10" Event Day="31">Halloween</Event>
+	<Event Month="11" Event Day="11">Veterans Day</Event>
+	<Event Month="11" Event Day="{$FourthThu}">Thanksgiving Day</Event>
+	<Event Month="12" Event Day="24">Christmas Eve</Event>
+	<Event Month="12" Event Day="25">Christmas Day</Event>
+	<Event Month="12" Event Day="31">New Year's Eve</Event>
+	
+</EventFile>
