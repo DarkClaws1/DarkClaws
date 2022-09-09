@@ -5,16 +5,16 @@ SkinHeight = (480 * #scale#)
 
 ;Size of any input text
 InputSize = 20
-Size = 1
+Size = 85
 labelX = (#SkinWidth# * 0.05)
 startY = (#SkinHeight# * 0.02)
 lineYBuffer = (0.09)
-boxX = (#SkinWidth# * 0.425)
-boxW = (#SkinWidth# * 0.3)
+boxX = (#SkinWidth# * 0.465)
+boxW = (#SkinWidth# * 0.400)
 boxH = (#SkinHeight# * 0.08)
-inputX = (#SkinWidth# * 0.573)
-clrBoxX = (#SkinWidth# * 0.76)
-clrBoxW = (#SkinWidth# * 0.2)
+inputX = (#SkinWidth# * 0.660)
+clrBoxX = (#SkinWidth# * 0.88)
+clrBoxW = (#SkinWidth# * 0.1)
 
 [styleLabel]
 X = #labelX#

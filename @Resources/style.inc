@@ -1,13 +1,18 @@
 [Variables]
-leftSize	= (#WORKAREAWIDTH# * 0.275)
-rightSize	= (#WORKAREAWIDTH# * 0.275)
-midSize	= (#WORKAREAWIDTH# * 0.45)
+leftPercent = 27.5
+midPercent = 45.0
+rightPercent = 27.5
+
+leftSize	= (#WORKAREAWIDTH# * (#leftPercent#/100))
+midSize	= (#WORKAREAWIDTH# * (#midPercent#/100))
+rightSize	= (#WORKAREAWIDTH# * (#rightPercent#/100))
+
 leftSide	= 0
 rightSide = 1005	
 maxHeight = 680 
 font 	= Choco cooky
 stroke 	= 3
-scale 	=0.85
+scale 	=85
 openEdit 	=F9
 
 
@@ -15,7 +20,7 @@ openEdit 	=F9
 ;background color
 	bgColor =0,0,0
 ;outline color
-	olColor =77,77,77 	
+	olColor =150,150,150 	
 ;highlight color
 	hlColor =0,4,255 		
 ;text color
