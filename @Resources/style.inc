@@ -1,4 +1,6 @@
 [Variables]
+scale 	=1
+
 leftPercent = 27.5
 midPercent = 45.0
 rightPercent = 27.5
@@ -7,12 +9,16 @@ leftSize	= (#WORKAREAWIDTH# * (#leftPercent#/100))
 midSize	= (#WORKAREAWIDTH# * (#midPercent#/100))
 rightSize	= (#WORKAREAWIDTH# * (#rightPercent#/100))
 
+areaH = (#WORKAREAHEIGHT# * #scale#)
+
+;LEFTSIDE = "29.4, 41.2, 14.7, 14.7"
+;RIGHTSIDE = "23.4, 12, 19.4, 4.6, 23.7, 14.7"
+
 leftSide	= 0
 rightSide = 1005	
 maxHeight = 680 
 font 	= Choco cooky
 stroke 	= 3
-scale 	=1
 openEdit 	=F9
 
 
