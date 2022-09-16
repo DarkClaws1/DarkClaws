@@ -5,7 +5,7 @@ name0 =
 
 name1=Slack
 img1=elhna9ll.bmp
-dir1=C:\Desktop\Programs\Slack.lnk
+dir1=C:\Users\Andy\Desktop\Slack.lnk
 
 name2=Maya
 img2=h84ylqt1.bmp

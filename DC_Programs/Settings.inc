@@ -32,7 +32,7 @@ BufferX = 75
 BufferY = 15
 BoxW = (#SkinWidth# * 0.25)
 BoxH = (#SkinHeight#/3)
-Editing =4
+Editing =5
 
 ;Warning Message info
 WBoxGap = 0.08

@@ -12,7 +12,7 @@ rightSide = 1005
 maxHeight = 680 
 font 	= Choco cooky
 stroke 	= 3
-scale 	=85
+scale 	=1
 openEdit 	=F9
 
 
@@ -64,7 +64,7 @@ StringAlign = Center
 
 [styleInput]
 Text = [#[#CURRENTSECTION]]
-FontSize = #InputSize#
+FontSize = (#InputSize# * #scale#)
 StringAlign = Center
 LeftMouseUpAction=[!SetVariable "InputEdit" #CURRENTSECTION#][!SetVariable "InputVar" #CURRENTSECTION#][!CommandMeasure MeasureInput "ExecuteBatch 1"]
 
