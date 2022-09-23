@@ -1,13 +1,24 @@
 [Variables]
-leftSize	= (#WORKAREAWIDTH# * 0.275)
-rightSize	= (#WORKAREAWIDTH# * 0.275)
-midSize	= (#WORKAREAWIDTH# * 0.45)
+scale 	=1
+
+leftPercent = 27.5
+midPercent = 45.0
+rightPercent = 27.5
+
+leftSize	= (#WORKAREAWIDTH# * (#leftPercent#/100))
+midSize	= (#WORKAREAWIDTH# * (#midPercent#/100))
+rightSize	= (#WORKAREAWIDTH# * (#rightPercent#/100))
+
+areaH = (#WORKAREAHEIGHT# * #scale#)
+
+;LEFTSIDE = "29.4, 41.2, 14.7, 14.7"
+;RIGHTSIDE = "23.4, 12, 19.4, 4.6, 23.7, 14.7"
+
 leftSide	= 0
 rightSide = 1005	
 maxHeight = 680 
 font 	= Choco cooky
 stroke 	= 3
-scale 	=0.85
 openEdit 	=F9
 
 
@@ -15,7 +26,7 @@ openEdit 	=F9
 ;background color
 	bgColor =0,0,0
 ;outline color
-	olColor =77,77,77 	
+	olColor =150,150,150 	
 ;highlight color
 	hlColor =0,4,255 		
 ;text color
@@ -59,7 +70,7 @@ StringAlign = Center
 
 [styleInput]
 Text = [#[#CURRENTSECTION]]
-FontSize = #InputSize#
+FontSize = (#InputSize# * #scale#)
 StringAlign = Center
 LeftMouseUpAction=[!SetVariable "InputEdit" #CURRENTSECTION#][!SetVariable "InputVar" #CURRENTSECTION#][!CommandMeasure MeasureInput "ExecuteBatch 1"]
 

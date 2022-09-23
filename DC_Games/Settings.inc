@@ -10,6 +10,9 @@ Btn1Link 		= C:\Program Files\BlueStacks\Bluestacks.exe
 Btn2Name 		= Steam
 Btn2Link 		=  C:\Program Files (x86)\Steam\Steam.exe
 
+LEFTSIDE = "29.4, 41.2, 14.7, 14.7"
+RIGHTSIDE = "23.4, 12, 19.4, 4.6, 23.7, 14.7"
+
 
 ;Paths
 ImgDir 		= #ROOTCONFIGPATH#\#Main#\Images
