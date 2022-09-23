@@ -1,6 +1,7 @@
 [Variables]
 SkinWidth = (#leftSize# * #scale#)
-SkinHeight = (280 * #scale#)
+SkinHeight = (#areaH# * 0.412)
+Settings = #CURRENTPATH#Settings.inc
 InputSize = (20 * * #scale#)
 Latitude =40.21705750
 Longitude=-74.74294630

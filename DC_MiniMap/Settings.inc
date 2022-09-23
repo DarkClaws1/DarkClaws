@@ -1,7 +1,8 @@
 [Variables]
 @include = #@#style.inc
 SkinWidth = (#leftSize# * #scale#)
-SkinHeight = (200 * #scale#)
+SkinHeight = (#areaH# * 0.294)
+Settings = #CURRENTPATH#Settings.inc
 ;Size of any input text
 InputSize = 15
 MapX = 30

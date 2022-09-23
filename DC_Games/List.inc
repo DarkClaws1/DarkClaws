@@ -13,7 +13,7 @@ dir2=C:\Desktop\Games\World War Heroes.lnk
 
 name3=Mech Arena
 img3=8tr4vi7j.bmp
-dir3=C:\Users\Andy\Desktop\Mech Arena.lnk
+dir3=C:\Users\Andy Banks\Desktop\Mech Arena.lnk
 
 name4=
 img4=

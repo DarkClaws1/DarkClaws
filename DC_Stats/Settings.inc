@@ -2,6 +2,7 @@
 @Include1 = #@#style.inc
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (160 * #scale#)
+Settings = #CURRENTPATH#Settings.inc
 InputSize = (16 * #scale#)
 BarScale = 0.12
 
