@@ -1,0 +1,27 @@
+Problem 1
+Set the FontSize to be 13 multiplied by a variable named bird
+FontSize = (#bird# * 13)
+
+Problem 2
+Set the W to be a variable named flower multipled by 7
+W = (#flower# * 7)
+
+Problem 3
+Set the Y to be a quarter of a variable named dog
+Y = (#dog# * 0.25)
+
+Problem 4
+Set the text to be 25 multipled by a variable named pig and then subtract 10
+Text = (#pig# * 25 - 10)
+
+Problem 5
+Set the value of X to be a quarter of variable named speed plus 10
+X = (#speed# * 0.75 + 10)
+
+Problem 6
+Set the value of Y to be a variable named health multiplied by 4
+Y = (#health# * 4)
+
+Problem 7
+Set the X to be half of a variable named cat
+X = (#cat# * 0.50)
