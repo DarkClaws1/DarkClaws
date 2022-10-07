@@ -1,7 +1,7 @@
 [Variables]
 @include = #@#style.inc
-FeedNum =4
-CurrentStory =7
+FeedNum =1
+CurrentStory =1
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (131 * #scale#)
 InputSize = (18 * #scale#)

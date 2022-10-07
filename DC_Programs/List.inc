@@ -5,7 +5,7 @@ name0 =
 
 name1=Slack
 img1=elhna9ll.bmp
-dir1=C:\Users\Andy\Desktop\Slack.lnk
+dir1=C:\Users\Andy Banks\Desktop\Slack.lnk
 
 name2=Maya
 img2=h84ylqt1.bmp
@@ -27,9 +27,9 @@ name6=Notepad++
 img6=Notepad_plus_plus.png
 dir6=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Notepad++.lnk			
 
-name7=
-img7=
-dir7=			
+name7=GitHub
+img7=image.png
+dir7=C:\Users\Andy Banks\Desktop\GitHub Desktop.lnk			
 
 name8=
 img8=

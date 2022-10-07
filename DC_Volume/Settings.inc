@@ -5,6 +5,7 @@ SkinHeight = (32 * #scale#)
 ToggleKey =F4
 ScrollSpeed =10
 InputSize = (17 * #scale#)
+Settings = #CURRENTPATH#Settings.inc
 
 barStartX =(#SkinWidth# * 0.25)
 barX = (#SkinWidth# * 0.019)

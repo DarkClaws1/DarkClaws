@@ -8,10 +8,10 @@ Btn1Link 		= C:\Program Files\BlueStacks\Bluestacks.exe
 Btn2Name 		= Steam
 Btn2Link 		=  C:\Program Files (x86)\Steam\Steam.exe
 
-
 ;Paths
 ImgDir 		= #ROOTCONFIGPATH#\#Main#\Images
 ListDir 		= #ROOTCONFIGPATH#\#Main#\List.inc
+Settings = #CURRENTPATH#Settings.inc
 
 ;Size
 SkinHeight= (200 * #scale#)
@@ -32,7 +32,7 @@ BufferX = 75
 BufferY = 15
 BoxW = (#SkinWidth# * 0.25)
 BoxH = (#SkinHeight#/3)
-Editing =5
+Editing =7
 
 ;Warning Message info
 WBoxGap = 0.08
@@ -50,14 +50,14 @@ SolidColor=#bgColor#
 PreserveAspectRatio=1
 MouseOverAction  =	[!SetOption "#CURRENTSECTION#" "SolidColor" "#hlColor#"][!SetVariable Select #CURRENTSECTION#][!SetVariable LastSelect #CURRENTSECTION#]
 MouseLeaveAction =	[!SetOption "#CURRENTSECTION#" "SolidColor" "#bgColor#"][!SetVariable Select "0"]
-LeftMouseUpAction=	["[#dir[#CURRENTSECTION]]"]
+LeftMouseUpAction=	["[#dir[#CURRENTSECTION]]"][!DeactivateConfig #CURRENTCONFIG#]
 ImageName="#ImgDir#\[#img[#CURRENTSECTION]]"
 DynamicVariables=1
 Group = Icons
 
 
 [styleProgramBox]
-Shape=Rectangle 0,0,#IconWidth#,#IconHeight#| Fill Color #bgColor#,0 | Stroke Color #olColor#
+Shape=Rectangle 0,0,#IconWidth#,#IconHeight#| Fill Color #bgColor#,0 | Stroke Color #olColor# | StrokeWidth #stroke#
 X=r
 Y=r
 Group = Icons

@@ -5,7 +5,7 @@ name0 =
 
 name1=Ark
 img1=czafx5m7.bmp
-dir1=C:\Desktop\Games\ARK Survival Evolved.url
+dir1=C:\Users\Andy Banks\Desktop\ARK Survival Evolved.url
 
 name2=WWH
 img2=z8vx81t6.bmp
