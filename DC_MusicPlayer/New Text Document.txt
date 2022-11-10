@@ -1,0 +1,1363 @@
+
+[ProgressBar4]
+Meter=BAR
+MeasureName=mProgress
+BarImage=bar2.png
+X=(#MusicX#) + 55
+Y=(#MusicHeight#) + 23
+W=1
+H=500
+BarOrientation=HORIZONTAL
+////////////////////////////////////////////////
+
+
+=============Band-Bars=====================
+
+[TopBar1]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand3])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar2]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand3])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar3]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand3])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar4]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand4])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar5]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand5])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar6]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand6])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar7]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand7])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar8]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand8])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar9]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand9])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar10]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand10])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar11]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand11])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar12]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand12])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar13]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand13])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar14]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand14])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar15]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand15])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar16]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand16])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar17]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand17])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar18]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand18])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar19]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand19])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar20]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand20])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar21]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand21])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar22]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand22])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar23]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand23])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar24]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand24])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar25]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand25])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar26]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand26])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar27]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand27])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar28]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand28])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar29]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand29)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar30]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand30])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar31]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand31)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar32]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand32])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar33]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand33])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar34]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand34])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar35]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand35])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar36]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand36])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar37]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand37])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar38]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand38])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar39]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand39])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar40]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand40])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar41]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand41])*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar42]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand42)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar43]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand43)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar44]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand44)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar45]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand45)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar46]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand46)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar47]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand47)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar48]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand48)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar49]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand49)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar50]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand50)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar51]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand51)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+
+[TopBar52]
+Meter=Image
+MeterStyle=Style
+Y=(#MusicHeight#) + ((250)-([MeasureBand52)*(250))
+Hidden=[MeasureState]
+DynamicVariables=1
+==============Bars-Measure=================
+
+[MeasureAudioB]
+Measure=Plugin
+Plugin=AudioLevel
+Port=Output
+FFTSize=1024
+FFTAttack=5
+FFTDecaY=(#MusicHeight#) + 250
+Bands=52
+Disabled=0
+DynamicVariables=1
+
+[MeasureBand1B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=1
+
+[MeasureBand2B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=2
+
+[MeasureBand3B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=3
+
+[MeasureBand4B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=4
+
+[MeasureBand5B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=5
+
+[MeasureBand6B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=6
+
+[MeasureBand7B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=7
+
+[MeasureBand8B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=8
+
+[MeasureBand9B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=9
+
+[MeasureBand10B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=10
+
+[MeasureBand11B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=11
+
+[MeasureBand12B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=12
+
+[MeasureBand13B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=13
+
+[MeasureBand14B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=14
+
+[MeasureBand15B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=15
+
+[MeasureBand16B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=16
+
+[MeasureBand17B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=17
+
+[MeasureBand18B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=18
+
+[MeasureBand19B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=19
+
+[MeasureBand20B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=20
+
+[MeasureBand21B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=21
+
+[MeasureBand22B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=22
+
+[MeasureBand23B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=23
+
+[MeasureBand24B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=24
+
+[MeasureBand25B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand26B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand27B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand28B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand29B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand30B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand31B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand32B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand33B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand34B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand35B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand36B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand37B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand38B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand39B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand40B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand41B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand42B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand43B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand44B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand45B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand46B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand47B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand48B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand49B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand50B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand51B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+[MeasureBand52B]
+Measure=Plugin
+Plugin=AudioLevel
+Parent=MeasureAudioB
+Type=Band
+BandIdx=25
+
+;////////////////////////////////////Bars////////////////////////////////
+
+
+[HDD1BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand1B
+X=(#MusicX#) + 45
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD8BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand8B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD9BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand9B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD10BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand10B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD11BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand11B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD12BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand12B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD13BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand13B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD14BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand14B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD15BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand15B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD16BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand16B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD17BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand17B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD18BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand18B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD19BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand19B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD20BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand20B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD21BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand21B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD22BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand22B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD23BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand23B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD24BAR]
+Meter=Bar
+BarImage=Bar.png
+MeasureName=MeasureBand24B
+X=10r
+Y=(#MusicHeight#) + 60
+W=7
+H=80
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD25BAR]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand25B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD26BAR2]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand2B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD27BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand7B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD28BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand12B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD29BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand19B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00f9ff 
+BarOrientation=Vertical
+
+[HDD30BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand16B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00dacd
+BarOrientation=Vertical
+
+[HDD31BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand26B
+X=10r
+Y=(#MusicHeight#) + 60
+W=2
+H=1
+BarColor=00dacd
+BarOrientation=Vertical
+
+[HDD32BAR3]
+Meter=BAR
+BarImage=Bar.png
+MeasureName=MeasureBand28B
+X=10r
+Y=(#MusicHeight#) + 60
+W=250
+H=7
+BarColor=00dacd
+BarOrientation=Vertical
+UpdateDivider = .01
+
+//////////////////////////////////////////////////
+
+[MeasureAudio]
+Measure=Plugin
+Plugin=AudioLevel
+Port=Output
+FFTSize=1024
+FFTAttack=5
+FFTDecaY=(#MusicHeight#) + 600
+Bands=79
+Disabled=0
+DynamicVariables=1
+
+[MeasureAudio]
+Measure=Plugin
+Plugin=AudioLevel
+Port=Output
+FFTSize=1024
+FFTAttack=5
+FFTDecaY=(#MusicHeight#) + 600
+Bands=25
+Disabled=0
+DynamicVariables=1
+
+[mVolume]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=VOLUME
+
+~~~~~~~test~~~~~~~~~~~~~~
+
+[mPlayer]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=#player#
+PlayerType=TITLE
+PlayerPath=
+DisableLeadingZero=0
+
+[mArtist]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=ARTIST
+
+[mAlbum]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=ALBUM
+Substitute="":"N\A"
+
+[mCover]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=COVER
+Substitute="":"cover.png"
+
+[mPosition]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=POSITION
+
+[mDuration]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=DURATION
+
+[mProgress]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=PROGRESS
+
+[mRating]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=RATING
+
+[mStateButton]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=STATE
+Substitute="0":"Play.png","1":"Pause.png","2":"Play.png"
+
+[mStateButton1]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=STATE
+
+[animation]
+Measure=Calc
+Formula=[mStateButton1]
+IfEqualValue=0
+IfEqualAction=!Execute [!RainmeterHideMeterGroup details]
+IfAboveValue=0
+IfAboveAction=!Execute [!RainmeterShowMeterGroup details]
+UpdateDivider=0.0001
+DynamicVariables=1
+
+[mVolume]
+Measure=Plugin
+Plugin=NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=VOLUME
+
+~~~~~~~~~~~~~~~~~test~~~~~~~~~~~~~~~~
+
+[mPlayer]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=#Player#
+PlayerType=TITLE
+PlayerPath=
+DisableLeadingZero=0
+
+; Return value is 1 on error
+IfEqualValue=1
+IfEqualAction=!Execute [!RainmeterShowMeter ErrorMessage][!RainmeterRedraw]
+
+[mAlbum]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=
+Substitute=
+
+[mPosition]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=POSITION
+
+[mDuration]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=DURATION
+
+[mProgress]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=PROGRESS
+
+[mStateButton]
+Measure=Plugin
+Plugin=Plugins\NowPlaying.dll
+PlayerName=[mPlayer]
+PlayerType=STATE
+Substitute="0":"Play.png","1":"Pause.png","2":"Play.png"
+
+
+
+
+==================================
+--INFORMATION
+
+[Track]
+Meter=STRING
+MeasureName=mPlayer
+X=(#MusicX#) + 40
+Y=(#MusicHeight#) + 45
+W=250
+H=20
+FontFace=Choco cooky
+FontColor=ffffff 
+FontSize=12
+StringAlign=Left
+AntiAlias=1
+ClipString=1
+
+[Artist]
+Meter=STRING
+MeasureName=mArtist
+X=(#MusicX#) + 300
+Y=(#MusicHeight#) + 45
+W=200
+H=30
+FontFace=Choco cooky
+FontColor=ffffff
+FontSize=12
+StringAlign=right
+AntiAlias=1
+ClipString=1
+
+[Time]
+Meter=STRING
+MeasureName=mPosition
+MeasureName2=mDuration
+X=(#MusicX#) + 35
+Y=(#MusicHeight#) + 135
+W=260
+H=30
+FontFace=Choco cooky
+FontColor=ffffff 
+FontSize=12
+StringAlign=LEFT
+AntiAlias=1
+ClipString=1
+Text="%1/%2"
+
+;===================================
+;----------Track Actions------------
+;===================================
+
+[Previous]
+Meter= STRING
+FontFace= Wingdings 3
+FontColor= 255, 255, 255
+FontSize=18
+FontWeight = 900
+StringAlign=Center
+text = "^"
+X=(#MusicX#) + 150
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction=!Execute [!RainmeterPluginBang "mPlayer Previous"]
+MouseOverAction = [!SetOption Previous FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption Previous FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=Previous
+
+[Play]
+Meter=STRING
+FontFace= Wingdings 3
+FontColor= 255, 255, 255
+FontSize=18
+FontWeight = 900
+StringAlign=Center
+text = "w"
+X=(#MusicX#) + 175
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction=!Execute[!RainmeterPluginBang "mPlayer OpenPlayer"][!RainmeterPluginBang "mPlayer PlayPause"][!SetOption Play Hidden 1][!SetOption Pause Hidden 0]
+MouseOverAction = [!SetOption Play FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption Play FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=PLAY
+Hidden = 0
+
+[Pause]
+Meter=STRING
+FontFace= Webdings
+FontColor= 255, 255, 255
+FontSize=18
+FontWeight = 900
+StringAlign=Center
+text = ";"
+X=(#MusicX#) + 175
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction=!Execute[!RainmeterPluginBang "mPlayer PlayPause"][!SetOption Play Hidden 0][!SetOption Pause Hidden 1]
+MouseOverAction = [!SetOption Pause FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption Pause FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=PAUSE
+Hidden = 1
+
+
+[Next]
+Meter= STRING
+FontFace= Wingdings 3
+FontColor= 255, 255, 255
+FontSize=18
+FontWeight = 900
+StringAlign=Center
+text = "_"
+X=(#MusicX#) + 197
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction=!Execute [!RainmeterPluginBang "mPlayer Next"]
+MouseOverAction = [!SetOption Next FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption Next FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=Next
+
+[Stop]
+Meter=STRING
+FontFace=Choco Cooky
+FontColor= 255, 255, 255
+FontSize=15
+FontWeight = 700
+StringAlign=LEFT
+text = "PLAYER"
+X=(#MusicX#) + 265
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction=!Execute[!RainmeterPluginBang "mPlayer ClosePlayer"]
+MouseOverAction = [!SetOption Stop FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption Stop FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=Close Player
+; =======================================
+; PLAYER ACTIONS
+
+[OpenPlayer]
+Meter=STRING
+FontFace=WingDings
+FontColor= 255, 255, 255
+FontSize=16
+FontWeight = 700
+StringAlign=LEFT
+AntiAlias=1
+text = "1"
+X=(#MusicX#) + 225
+Y=(#MusicHeight#) + 155
+LeftMouseUpAction= !Execute ["#FolderPath#"]
+MouseOverAction = [!SetOption OpenPlayer FontColor #0,0,255#][!Redraw]
+MouseLeaveAction = [!SetOption OpenPlayer FontColor #255#][!Redraw]
+DynamicVariables=1
+ToolTipText=Open
+
+
+///////////////////////////////////////////////////////////////
+

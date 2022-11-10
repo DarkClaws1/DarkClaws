@@ -8,8 +8,8 @@ img1=czafx5m7.bmp
 dir1=C:\Users\Andy Banks\Desktop\ARK Survival Evolved.url
 
 name2=WWH
-img2=z8vx81t6.bmp
-dir2=C:\Desktop\Games\World War Heroes.lnk	
+img2=v15mjyem.bmp
+dir2=C:\Users\Andy Banks\Desktop\World War Heroes.lnk	
 
 name3=Mech Arena
 img3=8tr4vi7j.bmp
