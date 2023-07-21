@@ -1,0 +1,37 @@
+Music skin tasks:
+
+	
+3. MAKE THE METER SHOW THE TIMES
+	Find the Meter I made that shows the Times on your skin
+	It will have two fields: MeasureName and MeasureName2
+	MeasureName is the Measure that says how much time has passed
+	MeasureName2 is the Measure that shows the length of the song
+	
+	
+HINTS FOR SETTING THE METER UP
+	Do NOT put [brackets] around the measurenames in the meter
+	The measures you use here will be the same ones you JUST made
+	When you test, it will show SECONDS, not times. 
+	I will fix that later
+	So instead of 1:00/2:00 it will say 60/120
+	I will FIX THIS LATER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

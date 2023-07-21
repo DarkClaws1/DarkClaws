@@ -3,7 +3,7 @@
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (32 * #scale#)
 ToggleKey =F4
-ScrollSpeed =10
+ScrollSpeed =50
 InputSize = (17 * #scale#)
 Settings = #CURRENTPATH#Settings.inc
 

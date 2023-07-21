@@ -15,9 +15,9 @@ name3=Mech Arena
 img3=8tr4vi7j.bmp
 dir3=C:\Users\Andy Banks\Desktop\Mech Arena.lnk
 
-name4=
+name4=bah bah bah
 img4=
-dir4=			
+dir4=D:\World of Warcraft\World of Warcraft Launcher.exe			
 
 name5=
 img5=

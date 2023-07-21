@@ -1,6 +1,8 @@
 [Variables]
 @Include = Settings.inc
 @Include2 = List.inc
+folderW = (#SkinWidth# * 0.07)
+folderH = (#SkinHeight# * 0.1)
 
 [Background]
 Meter = Shape
@@ -78,33 +80,57 @@ LeftMouseUpAction=!Execute [!ActivateConfig "#CURRENTCONFIG#" "Editor_Icon.ini"]
 ;------------------------------------------------
 ;	RIGHT SIDE
 ;------------------------------------------------
-[ButtonClose]
-Meter=String
-MeterStyle=styleText | textHighlight
-X=(#CURRENTCONFIGWIDTH#) - (#BufferX#)
-Y=(#BoxH# * 0 + #BufferY#)
-Text = Close
-StringAlign = Center
-LeftMouseUpAction=!Execute [!ActivateConfig #CURRENTCONFIG# "#Main#.ini"]
+[MeterCloseInside]
+Meter = Image
+ImageName = "#@#X Inside.png"
+ImageTint = #bgColor#
+X = (#SkinWidth# * 0.83)
+Y = (#SkinHeight# * 0.03)
+W = (#SkinWidth# * 0.10)
+H = (#SkinHeight# * 0.25)
 DynamicVariables = 1
 
-[Button_Folder]
-Meter=String
-MeterStyle=styleText | textHighlight
-X=r
-Y=(#BoxH# * 1 + #BufferY#)
-Text="Folder"
-StringAlign = Center
-LeftMouseUpAction= ["#FolderPath#"]
+[MeterCloseOutline]
+Meter = Image
+ImageName = "#@#X Outline.png"
+ImageTint = #olColor#
+X = r
+Y = r
+W = (#SkinWidth# * 0.10)
+H = (#SkinHeight# * 0.25)
+MouseOverAction=[!SetOption MeterCloseInside ImageTint #hlColor#]
+MouseLeaveAction=[!SetOption MeterCloseInside ImageTint #bgColor#]
+LeftMouseDownAction = [!SetOption MeterCloseInside ImageTint #clColor#]
+LeftMouseUpAction= [!ActivateConfig #CURRENTCONFIG# "#Main#.ini"]
+DynamicVariables = 1
+
+[MeterFolderBox]
+Meter = Shape
+Shape = Rectangle 0, 0, #folderW#, #folderH# | Stroke Color #olColor# | StrokeWidth 2 | Extend Color
+Shape2 = Rectangle (#folderW# * 0.0), (#folderH# * -0.3), (#folderW# * 0.5), (#folderH# * 0.3) | Stroke Color #olColor# | StrokeWidth 2 | Extend Color
+X = (#SkinWidth# * 0.85)
+Y = (#SkinHeight# * 0.47)
+Color = Fill Color #bgColor#
+MouseOverAction  =[!SetOption #CURRENTSECTION# Color "Fill Color #hlColor#"]
+MouseLeaveAction  =[!SetOption #CURRENTSECTION# Color "Fill Color #bgColor#"]
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# Color "Fill Color #clColor#"]
+LeftMouseUpAction = [!SetOption #CURRENTSECTION# Color "Fill Color #bgColor#"]["#FolderPath#"]
 Hidden = (#Current# = 1) ? 1 : 0
 
 [Button_Next]
 Meter=String
 MeterStyle=styleText | textHighlight
-X=r
-Y=(#BoxH# * 2 + #BufferY#)
-Text = "Next"
+X = (#SkinWidth# * 0.88)
+Y = (#SkinHeight# * 0.69)
+FontSize = (40 * #scale#)
+FontFace = Webdings
+FontColor = #bgColor#
+StringEffect = Border
+FontEffectColor = 255,255,255
+Text = 8
 StringAlign = Center
+MouseLeaveAction = [!SetOption #CURRENTSECTION# FontColor "#bgColor#"]
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# FontColor "#clColor#"]
 LeftMouseUpAction=[!ActivateConfig "#CURRENTCONFIG#" "#NextPath#"]
 
 

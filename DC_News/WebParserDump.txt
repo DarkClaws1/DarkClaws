@@ -1,998 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<docs>http://www.rssboard.org/rss-specification</docs>
-<atom:link rel="self" type="application/rss+xml" href="http://www.anandtech.com/rss/" />
-<title>AnandTech</title>
-<description>This channel features the latest computer hardware related articles.</description>
-<link>http://www.anandtech.com</link>
-<language>en-us</language>
-<copyright>Copyright 2022 AnandTech</copyright>
-<dc:creator>Anand Lal Shimpi</dc:creator>
-<image>
-    <url>http://www.anandtech.com/content/images/rss_logo.png</url>
-    <title>AnandTech</title>
-    <link>http://www.anandtech.com</link>
-</image>
+	<title>The Animal Rescue Site News</title>
+	<atom:link href="http://blog.theanimalrescuesite.greatergood.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.theanimalrescuesite.greatergood.com/</link>
+	<description>Famous stories of cats, dogs, &#38; furry friends. New posts daily of animal rescue stories, trending videos, pet health tips, recall alerts &#38; pets.</description>
+	<lastBuildDate>Fri, 21 Jul 2023 19:42:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<copyright>2023 The Animal Rescue Site News and GreaterGood. All rights reserved. Owned and operated by CharityUSA.com, LLC. Funds are paid by Greater Good Charities to benefiting organizations as a grant. Repurposing or representing this content without permission from The Animal Rescue Site News is strictly prohibited.</copyright>		<item>
+		<title>Truck Driver Rescues Three Stray Cats, And Now They Travel The Country Together</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/truck-driver-cats/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 18:20:22 +0000</pubDate>
+				<category><![CDATA[Cat Rescues]]></category>
+		<category><![CDATA[Cats & Kittens]]></category>
+		<category><![CDATA[Rescue Stories]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425433</guid>
 
-    
-<item>
-    <title>Intel Demos Sapphire Rapids Hardware Accelerator Blocks In Action At Innovation 2022</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>With Intel&rsquo;s annual Innovation event taking place this week in San Jose, the company is looking to recapture a lot of technical momentum that has slowly been lost over the past couple of years. While Intel has remained hard at work releasing new products over the time, the combination of schedule slips and an inability to show off their wares to in-person audiences has taken some of the luster off the company and its products. So for their biggest in-person technical event since prior to the pandemic, the company is showing off as much silicon as they can, to convince press, partners, and customers alike that CEO Pat Gelsinger&rsquo;s efforts have put the company back on track.</p>
-
-<p>Of all of Intel&rsquo;s struggles over the past couple of years, there is no better poster child than their Sapphire Rapids server/workstation CPU. A true next-generation product from Intel that brings everything from PCIe 5 and DDR5 to CXL and a slew of hardware accelerators, there&rsquo;s really nothing to write about Sapphire Rapids&rsquo; delays that hasn&rsquo;t already been said &ndash; it&rsquo;s going to end up over a year late.</p>
-
-<p>But Sapphire Rapids is coming. And Intel is finally able to see the light at the end of the tunnel on those development efforts. With general availability slated for Q1 of 2023, just over a quarter from now, Intel is finally in a position to show off Sapphire Rapids to a wider audience &ndash; or at least, members of the press. Or to take a more pragmatic read on matters, Intel now needs to start seriously promoting Sapphire Rapids ahead of its launch, and that of its competition.</p>
-
-<p>For this year&rsquo;s show, Intel invited members of the press to see a live demo of pre-production Sapphire Rapids silicon in action. The purpose of the demos, besides to give the press the ability to say &ldquo;we saw it; it exists!&rdquo; is to start showing off one of the more unique features of Sapphire Rapids: its collection of dedicated accelerator blocks.</p>
-
-<p>Along with delivering a much-needed update to the CPU&rsquo;s processor cores, Sapphire Rapids is also adding/integrating dedicated accelerator blocks for several common CPU-critical server/workstation workloads. The idea, simply put, is that fixed function silicon can do the task as quickly or better than CPU cores for a fraction of the power, and for only a fractional increase in die size. And with hyperscalers and other server operators looking for big improvements in compute density and energy efficiency, domain specific accelerators such as these are a good way for Intel to deliver that kind of edge to their customers. And it doesn&rsquo;t hurt either that rival AMD isn&rsquo;t expected to have similar accelerator blocks.</p>
-<p align="center"><a href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=a1f2f01f&amp;cb=910818000' target='_blank'><img src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=24&amp;cb=910818000&amp;n=a1f2f01f' border='0' alt='' /></a><img src="http://toptenreviews.122.2o7.net/b/ss/tmn-test/1/H.27.3--NS/0" height="1" width="1" border="0" alt="" /></p>]]></description>
-    <link>https://www.anandtech.com/show/17596/intel-demos-sapphire-rapids-accelerators-at-innovation-2022</link>
- 	<pubDate>Wed, 28 Sep 2022 19:20:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17596:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>NZXT Unveils N7 Z790 Motherboard for Intel 13th Gen Core Series</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17591/nzxt-unveils-n7-z790-motherboard-for-intel-13th-gen-core-series"><img src="https://images.anandtech.com/doci/17591/06_MB-Z790_White_close up1_575px.jpg" alt="" /></a></p><p><p>With a lot of news and info dropping on Intel&#39;s latest Z790 chipset using the LGA1700 socket, NZXT has pulled the trigger and announced its N7 Z790 motherboard. Available in either white or black, it features a 2.5 GbE controller, Wi-Fi 6E CNVi,&nbsp;benefits from support for PCIe 5.0, and includes three M.2 slots.</p>
-
-<p>In addition to the announcement of Intel&#39;s 13th Gen Core series processors, codenamed Raptor Lake, NZXT has announced its plans to launch the N7 for Z790. As we&#39;ve seen from <a href="https://www.anandtech.com/show/16033/the-nzxt-n7-z490-motherboard-review-">NZXT motherboards in the past</a>, the N7 Z790 has a large swathe of armor covering the board and is available in both back and white color schemes. It should be noted that neither the black nor white model includes any integrated RGB LED lighting. Typical with an NZXT product, the N7 Z790 comes with support with their CAM software.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17591/nzxt-unveils-n7-z790-motherboard-for-intel-13th-gen-core-series"><img alt="" src="https://images.anandtech.com/doci/17591/02%20MBZ790%20black%20upright1_575px.jpg" /></a></p>
-
-<p><span style="color: rgb(68, 68, 68);">Some of the NZXT N7 Z790&#39;s main features include one full-length PCIe 5.0 x16 slot, two full-length PCIe 4.0 slots operating at x4/x4, and two PCIe 3.0 x1 slots. Also present on the NZXT N7 Z790 are three M.2 slots, two with support for PCIe 4.0 x4 NVMe drives and one with support for both PCIe 4.0 x4 and SATA. NZXT also includes four SATA ports with support for RAID 0, 1, 5, and 10 arrays for more conventional storage. NZXT is also advertising support for DDR5-6000 memory, with a combined total of 128 GB supported across four slots.</span></p>
-
-<p>NZXT is also advertising a 16+1+2-phase power delivery, with one 8-pin EPS 12 V and one 4-pin 12 V power connector pairing to deliver power to the CPU. Powering the rest of the board&#39;s components is a 24-pin 12V power connector.</p>
-
-<p>The rear I/O is modest yet practical, with two USB 3.2 G2 Type-A and three USB 3.2 G1 Type-A; interestingly, NZXT doesn&#39;t include any rear panel Type-C connectivity. Also on the rear panel are five 3.5 mm audio jacks and one S/PDIF optical output powered by a Realtek ALC1220 HD audio codec, with two antenna ports for an unspecified Wi-Fi 6E CNVi. Finishing off the rear panel is a single HDMI TM video output, with one Realtek RTL8125BG 2.5 GbE controller.</p>
-
-<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/8190" target="_blank">NZXT Unveils N7 Z790 Motherboard for Intel 13th Gen Core</a><div><a href="https://www.anandtech.com/Gallery/Album/8190#1" target="_blank"><img src="https://images.anandtech.com/galleries/8190/01_MB-Z790_black_front_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8190#2" target="_blank"><img src="https://images.anandtech.com/galleries/8190/01_MB-Z790_black_front_575px_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8190#3" target="_blank"><img src="https://images.anandtech.com/galleries/8190/01_MB-Z790_White_front_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8190#4" target="_blank"><img src="https://images.anandtech.com/galleries/8190/01_MB-Z790_White_front_575px_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8190#5" target="_blank"><img src="https://images.anandtech.com/galleries/8190/02_MB-Z790_black_upright_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8190#6" target="_blank"><img src="https://images.anandtech.com/galleries/8190/02_MB-Z790_black_upright_575px_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
-
-<p>The NZXT N7 Z790 is scheduled to release with an MSRP of $300 and will be available in Q4 2022 in the USA. NZXT hasn&#39;t shared whether or not this will be released in other regions.</p>
-
-<p>Source: <a href="https://nzxt.com/en-GB">NZXT</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17591/nzxt-unveils-n7-z790-motherboard-for-intel-13th-gen-core-series</link>
- 	<pubDate>Tue, 27 Sep 2022 15:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17591:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Intel Innovation 2022 Keynote: Live Blog (9am PT, 4pm UTC)</title>
-    <dc:creator>Gavin Bonshor &amp; Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>It&#39;s time again for another Intel event, Intel Innovation 2022. With plenty of tech things to reveal to the world ranging from AI, client computing, and data center/cloud computing. Intel is also expected to showcase the&nbsp;generation of products for consumers.</p>
-
-<p>With AMD&#39;s big Ryzen 7000&nbsp;launch having only taken&nbsp;place just yesterday,&nbsp;<span style="color: rgb(68, 68, 68);">Intel is expected to showcase its next</span><span style="color: rgb(68, 68, 68);">&nbsp;generation of products for consumers. Leading the keynote will be visionary Intel CEO Pat Gelsinger.</span></p>
-
-<p>The live blog will start with the opening keynote from Intel Innovation at 9am PT / 16:00 UTC / 18:00 CEST.</p>
+					<description><![CDATA[<p>Wang rescued the cats back in 2020, and they haven't left his side since! </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/truck-driver-cats/">Truck Driver Rescues Three Stray Cats, And Now They Travel The Country Together</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17594/intel-innovation-2022-keynote-live-blog-9am-pt-4pm-utc</link>
- 	<pubDate>Tue, 27 Sep 2022 10:16:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17594:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Netgear Introduces Wi-Fi 6 / 6E Access Points and Services for Residential Installers</title>
-    <dc:creator>Ganesh T S</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17592/netgear-introduces-wifi-6-6e-access-points-and-services-for-residential-installers"><img src="https://images.anandtech.com/doci/17592/ntgr-cedia-carousel_575px.png" alt="" /></a></p><p><p>Netgear has been at the forefront of the SDVoE (Software-Defined Video over Ethernet) initiative with multiple AV switches serving the growing market. The ProAV lineup of managed switches have been sold primarily in a B2B setting by the Netgear Business division. These switches are increasingly becoming part of luxury residential installations requiring an AV-over-IP solution. As part of the CEDIA Expo 2022, Netgear is announcing a new &#39;Netgear Home Solutions&#39; push. The intention is to take the same lineup of Netgear AV products sold by Netgear Business and target it towards both commercial and residential installations.</p>
-
-<p>As part of this initiative, Netgear will be selling ProAV Managed Switches and ProWiFi Access Points to residential installers, along with the Pro version of Insight Remote Management and Pro Support. While the ProAV Managed Switches are already in the market, the new WAX628 and WAX638E APs are complementary to the currently existing <a href="https://www.anandtech.com/show/17272">members of the Insight Access Point Portfolio</a>.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17592/netgear-introduces-wifi-6-6e-access-points-and-services-for-residential-installers"><img alt="" src="https://images.anandtech.com/doci/17592/ntgr-cedia-00_575px.png" /></a></p>
-
-<p>The WAX628 (already available for residential installers) slots in-between the dual-band AX3600 WAX620 and the tri-band AX6000 WAX630. This AX5400 dual-band solution supports 160 MHz channel bandwidth, and is accompanied by the AX7800 WAX638E which adds 6 GHz band support to the mix. The Wi-Fi 6E AP is slated to come to the market in the next few months.</p>
-
-<p>Netgear is promising margin protection for installers by selling the ProAV and ProWiFi products only through the channel and not via Amazon or other e-tailers. Since these products are going to reach end-consumers through custom installers who have their own cost structures, the lack of any pricing information from Netgear is not surprising.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17592/netgear-introduces-wifi-6-6e-access-points-and-services-for-residential-installers"><img alt="" src="https://images.anandtech.com/doci/17592/ntgr-cedia-01_575px.png" /></a></p>
-
-<p>Netgear&#39;s traditional consumer Wi-Fi router market has evolved rapidly over the last few years. Despite the success of Orbi (in both the consumer and SMB markets), new entrants like eero have gained significant mind and market share. In this context, Netgear has to look towards services and expand into new markets in order to maintain and build upon their technical leadership. Forays into lucrative niches like the residential installer market are not surprising.</p>
-
-<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/8191" target="_blank">Netgear Introduces Wi-Fi 6 / 6E Access Points and Services for Residential Installers</a><div><a href="https://www.anandtech.com/Gallery/Album/8191#1" target="_blank"><img src="https://images.anandtech.com/galleries/8191/ntgr-cedia-00_carousel_thumb.png" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8191#2" target="_blank"><img src="https://images.anandtech.com/galleries/8191/ntgr-cedia-01_carousel_thumb.png" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8191#3" target="_blank"><img src="https://images.anandtech.com/galleries/8191/ntgr-cedia-carousel_thumb.png" width="85" height="85" border="0"/></a></div></div></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17592/netgear-introduces-wifi-6-6e-access-points-and-services-for-residential-installers</link>
- 	<pubDate>Tue, 27 Sep 2022 08:30:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17592:news</guid>
- 	<category><![CDATA[ Networking]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Zen 4 Ryzen 9 7950X and Ryzen 5 7600X Review: Retaking The High-End</title>
-    <dc:creator>Ryan Smith &amp; Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>During AMD&rsquo;s &lsquo;<em>together we advance_PCs</em>&rsquo; event at the end of August, the company unveiled its Ryzen 7000 series of desktop processors, with four SKUs aimed at the mid-range and high-end market segments. After whetting the audience&#39;s appetites with that announcement, tomorrow AMD will be officially releasing their long-awaited next-generation CPUs.</p>
-
-<p>The launch of the Ryzen 7000 series brings a lot to digest, for casual fans and hardcore hardware enthusiasts alike. For their newest lineup of chips, AMD has given their desktop CPU platform a top-to-bottom update, not only releasing new CPUs, but releasing an entirely new platform, socket AM5 around it. As a result, for the first time in a few generations these chips are not drop-in compatible with existing AMD motherboards. But at the same time it has allowed AMD to deliver on a collection of platform improvements, ranging from DDR5 and PCIe 5.0 support to improved power management capabilities. AMD has even managed to sneak an entry-level Radeon RDNA2 architecture-based iGPU into the chip.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/17585/amd-zen-4-ryzen-9-7950x-and-ryzen-5-7600x-review-retaking-the-high-end</link>
- 	<pubDate>Mon, 26 Sep 2022 09:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17585:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Intel Announces Serpent Canyon: Alder Lake and Arc Amalgamate in NUC12 Enthusiast</title>
-    <dc:creator>Ganesh T S</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17587/intel-announces-serpent-canyon-alder-lake-and-arc-amalgamate-in-nuc12-enthusiast"><img src="https://images.anandtech.com/doci/17587/sercan-carousel-b_575px.jpg" alt="" /></a></p><p><p>Intel officially unveiled the final member of their Alder Lake-based NUC12 family earlier this week. The NUC12 Enthusiast (like the three previous Enthusiast NUCs) caters to the gaming / creators market looking for a small form-factor machine with a discrete GPU.</p>
-
-<p>As a refresher, Intel created the NUC Enthusiast category back in 2016 with the introduction of the Skull Canyon NUC (NUC6i7KYK). With a 4&quot; x 5&quot; motherboard, it had a slightly larger footprint compared to the traditional NUCs. However, the increased size allowed the incorporation of a 45W TDP processor with increased graphics flex. The second generation Hades Canyon moved to a slightly larger board (5.5&quot; x 8&quot;), while retaining the industrial design of the Skull Canyon NUC. It used the Kaby Lake-G processors with a Kaby Lake processor and an AMD GPU packaged together (with a total TDP budget between 65W and 100W). The NUC11 Enthusiast (Phantom Canyon) went for a more traditional gaming notebook-type architecture with a Tiger Lake-U Core i7-1165G7 and a NVIDIA RTX 2060 laptop GPU.</p>
-
-<p>The NUC12 Enthusiast retains a similar architecture. The key difference lies in the fact that this is first NUC to utilize Intel&#39;s Arc discrete GPU. The specifications of the GPU are much more powerful than the NVIDIA RTX2060, and this has resulted in a redesign of the cooling solution as well as the chassis dimensions compared to the NUC11 Enthusiast.</p>
-
-<p>Similar to the Phantom Canyon family, Serpent Canyon will also come in two varieties - a barebones version, and another with a 1TB SSD / 16GB of DDR4-3200 RAM / Windows 11 Home pre-installed. The SKUs utilize the Intel Core i7-12700H notebook processor and the Intel Arc A770M discrete GPU with 16GB of VRAM.</p>
-
-<p>The NUC12 Enthusiast sports a rich set of I/Os. There are two Thunderbolt 4 ports (one in the front and one in the rear) that also carry the display output from the Intel Iris Xe Graphics in the Core i7-12700H. Two USB 3.2 Gen 2 Type-A ports and a SDXC UHS-II slot, along with an audio jack and a quad-microphone array round out the front panel. On the rear, we have an audio output jack (supporting TOSLINK), a single 2.5 Gbps LAN port, four USB 3.2 Gen 2 Type-A ports (with a hub chip behind), and the display outputs (1x HDMI 2.1 4Kp60 and 2x Display Port 2.0 (1.4 certified)) from the Intel Arc A770M.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17587/intel-announces-serpent-canyon-alder-lake-and-arc-amalgamate-in-nuc12-enthusiast"><img alt="" src="https://images.anandtech.com/doci/17587/sercan-io_575px.jpg" /></a></p>
-
-<p>The table below compares the specifications of the flagships in the last three generations of Enthusiast NUCs.</p>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr class="tgrey">
-			<td align="center" colspan="5" style="vertical-align: middle;">Intel Enthusiast NUCs</td>
-		</tr>
-		<tr align="center" class="tlblue">
-			<td colspan="2" style="vertical-align: middle;">Model</td>
-			<td rowspan="1" style="vertical-align: middle; width: 27%;">Serpent Canyon<br />
-			(NUC12SNKi72)</td>
-			<td colspan="1" rowspan="1" style="vertical-align: middle; width: 27%;">Phantom Canyon<br />
-			(NUC11PHKi7C)</td>
-			<td rowspan="1" style="vertical-align: middle; width: 27%;">Hades Canyon<br />
-			(NUC8i7HVK)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">CPU</td>
-			<td align="center" rowspan="1" style="vertical-align: middle;">Intel Core i7-12700H<br />
-			<strong>Alder Lake</strong>, 6P + 8E / 20T<br />
-			4.7 GHz (P) / 3.5 GHz (E)<br />
-			45W TDP (Up to 115W)</td>
-			<td align="center" rowspan="1" style="vertical-align: middle;">Intel Core i7-1165G7<br />
-			<strong>Tiger Lake-U</strong>, 4C/8T<br />
-			2.8 - 4.7 GHz<br />
-			28W TDP</td>
-			<td align="center" rowspan="1" style="vertical-align: middle;">Intel Core i7-8809G<br />
-			<strong>Kaby Lake</strong>, 4C/8T<br />
-			3.1 - 4.2 GHz<br />
-			100W Package TDP</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">GPU</td>
-			<td align="center" colspan="1" rowspan="1" style="vertical-align: middle;"><span class="value" data-key="ProcessorGraphicsModelId">Intel&reg; <strong>Intel Arc A770M</strong> 16GB GDDR6 @ 1.65 GHz (Discrete)</span></td>
-			<td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">NVIDIA GeForce <strong>RTX 2060</strong> 6GB GDDR6 (N18E-G1-B Notebook Class 115W) @ 1.285 GHz (Discrete)<br />
-			Intel&reg; Iris&reg; Xe Graphics (96EU) @ 1.3 GHz (Integrated / On-Die)</td>
-			<td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">Radeon <strong>RX Vega M GH</strong> 4GB HBM2 @ 1.19 GHz (Discrete / On-Package)<br />
-			Intel&reg; HD Graphics 630 @ 1.1 GHz (Integrated / On-Die)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" rowspan="1" style="vertical-align: middle;">Memory</td>
-			<td align="center" colspan="2" rowspan="1" style="vertical-align: middle;">2x DDR4-<strong>3200</strong> SODIMMs<br />
-			1.2V, <strong>64GB</strong> max.</td>
-			<td align="center" colspan="1" rowspan="1" style="vertical-align: middle;">2x DDR4-2400+ SODIMMs<br />
-			1.2V, 32GB max.</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Motherboard</td>
-			<td align="center" colspan="1" rowspan="1">7&quot; x 8&quot;(Custom)</td>
-			<td align="center" colspan="2" rowspan="1">5.5&quot; x 8&quot; (Custom)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Storage</td>
-			<td align="center" colspan="1" rowspan="1">2x <strong>M.2 22x80</strong> (key M) PCIe 4.0 x4 NVMe SSD (CPU-attached)<br />
-			1x M.2 22x80 (key M) SATA3 or PCIe 3.0 x4 NVMe SSD (via PCH)</td>
-			<td align="center" colspan="1" rowspan="1">1x <strong>M.2 22x80/110</strong> (key M) PCIe 3.0 x4 NVMe/AHCI SSD<br />
-			1x M.2 2280 (key M) SATA3 or PCIe 3.0 x4 NVMe/AHCI SSD</td>
-			<td align="center" colspan="1" rowspan="1">2x M.2 <strong>22x42/80</strong> (key M) SATA3 or PCIe 3.0 x4 NVMe/AHCI SSD</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">I/O Ports</td>
-			<td align="center" colspan="2" rowspan="1"><strong>2x Thunderbolt 4</strong> Fast-Charging (front + rear)<br />
-			1x USB 3.2 Gen 2 Type-A (front)<br />
-			1x USB 3.2 Gen 2 Type-A Fast-Charging (front)<br />
-			4x USB 3.2 Gen 2 Type-A (rear)<br />
-			1x SDXC UHS-II Card Slot (front)<br />
-			CIR (front)<br />
-			1x SATA III Power + Data Internal Header<br />
-			2x USB 2.0 Internal Header</td>
-			<td align="center" colspan="1" rowspan="1">2x Thunderbolt 3 (rear)<br />
-			4x USB 3.2 Gen 1 Type-A (rear)<br />
-			1x USB 3.2 Gen 2 Type-A (front)<br />
-			1x USB 3.2 Gen 2 Type-C (front)<br />
-			1x USB 3.2 Gen 1 Type-A Fast-Charging (front)<br />
-			1x SDXC UHS-I Card Slot (front)<br />
-			CIR (front)<br />
-			1x SATA III Power + Data Internal Header<br />
-			2x USB 2.0 Internal Header</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Networking</td>
-			<td align="center" colspan="1" rowspan="1"><strong>Intel Killer Wi-Fi 6E AX1690i</strong><br />
-			(2x2 802.11ax Wi-Fi inc. 6 GHz + Bluetooth 5.2 module)<br />
-			<strong>1 &times; 2.5 GbE ports (Intel I225-LM)</strong></td>
-			<td align="center" colspan="1" rowspan="1"><strong>Intel Wi-Fi 6 AX201</strong><br />
-			(2x2 802.11ax Wi-Fi + Bluetooth 5.1 module)<br />
-			<strong>1 &times; 2.5 GbE port (Intel I225-LM)</strong></td>
-			<td align="center" colspan="1" rowspan="1"><strong>Intel Dual Band Wireless-AC 8265</strong><br />
-			(2x2 802.11ac Wi-Fi + Bluetooth 4.2 module)<br />
-			<strong>2 &times; GbE ports (Intel I219-LM + Intel I210-AT)</strong></td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Display Outputs</td>
-			<td align="center" colspan="1" rowspan="1">2x <strong>DP 2.0</strong> (1.4 certified) (via Thunderbolt 4 Type-C, iGPU)<br />
-			1x <strong>HDMI 2.1</strong> (up to 4Kp60) (rear, dGPU)<br />
-			2x <strong>DP 2.0</strong> (1.4 certified, dGPU)</td>
-			<td align="center" colspan="1" rowspan="1">2x <strong>DP 1.4a</strong> (via Thunderbolt 4 Type-C ports, iGPU Display Pipe)<br />
-			1x <strong>mini-DP 1.4a</strong> (rear, dGPU, up to 8Kp60, MST)<br />
-			1x HDMI 2.0b (rear, dGPU, up to 4Kp60)</td>
-			<td align="center" colspan="1" rowspan="1">1x <strong>HDMI 2.0a</strong> (front, dGPU)<br />
-			1x <strong>HDMI 2.0a</strong> (rear, dGPU)<br />
-			2x <strong>mini-DP 1.3</strong> (rear, dGPU)<br />
-			2x <strong>DP 1.3</strong> (via Thunderbolt 3 Type-C ports, dGPU)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Audio</td>
-			<td align="center" colspan="3" rowspan="1">7.1 digital (over HDMI and DisplayPort)<br />
-			L+R+mic (front)<br />
-			L+R+TOSLINK (rear)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Audio Codec</td>
-			<td align="center" colspan="1" rowspan="1"><strong>Realtek ALC274</strong></td>
-			<td align="center" colspan="2" rowspan="1"><strong>Realtek ALC700</strong></td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Enclosure</td>
-			<td align="center" colspan="3" rowspan="1">Metal and plastic<br />
-			Kensington lock with base security</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Power Supply</td>
-			<td align="center" colspan="1" rowspan="1"><strong>330W</strong> (19V @ 16.9A) Adapter</td>
-			<td align="center" colspan="2" rowspan="1"><strong>230W</strong> (19V @ 12.1A) Adapter</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" style="vertical-align: middle;">Dimensions</td>
-			<td align="center" colspan="1" rowspan="1">230mm x 180mm x 60mm / <strong>2.5L</strong></td>
-			<td align="center" colspan="1" rowspan="1">221mm x 142mm x 42mm / <strong>1.3L</strong></td>
-			<td align="center" colspan="1" rowspan="1">221mm x 142mm x 39mm / <strong>1.2L</strong></td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="2" rowspan="2" style="vertical-align: middle;">Miscellaneous Features</td>
-			<td align="center" colspan="1">Vertical stand included</td>
-			<td align="center" colspan="1">Vertical stand and VESA mount included</td>
-			<td align="center" colspan="1">VESA mount included</td>
-		</tr>
-		<tr>
-			<td align="center" colspan="3" rowspan="1">Lid with customizable RGB LED illumination behind user-replaceable mask<br />
-			CEC support for HDMI ports<br />
-			Front-panel CIR support for IR remotes<br />
-			Status LEDs in front panel<br />
-			Beam-forming microphone array<br />
-			3-year warranty</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>The block diagram below gives some insights into the design of the system in relation to the I/O capabilities.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17587/intel-announces-serpent-canyon-alder-lake-and-arc-amalgamate-in-nuc12-enthusiast"><img alt="" src="https://images.anandtech.com/doci/17587/sercan-bd_575px.png" /></a></p>
-
-<p>Despite the Arc A770M supporting a PCIe 4.0 x16 link to the host processor, the Serpent Canyon configuration keeps the connection at x8. Both PCIe 4.0 M.2 2280 slots are CPU-attached ones. The SD card slot is connected via a PCIe lane instead of USB - this should allow maximum possible performance for different SD cards. While the official specifications indicate that the slot is UHS-II, the technical product specifications document also indicates SD Express support. This depends on the exact SD controller being used in the board, and we have reached out to Intel for clarification. Three of the four Type-A ports in the rear are enabled by a 1:4 Gen 2 hub, which is not ideal in terms of bandwidth sharing. However, the availability of additional ports is always welcome. On the display front, the front Thunderbolt 4 port can support a display bandwidth of around 17 Gbps, while the rear port can support up to 35 Gbps.&nbsp; With multi-stream support on the Type-C port, the system can drive a total of six diifferent displays - five at 4Kp144 (DP/Alt-DP) and one at 4Kp60 (HDMI). Two 8Kp60 displays can also be driven using a multi-cable / -port solution.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17587/intel-announces-serpent-canyon-alder-lake-and-arc-amalgamate-in-nuc12-enthusiast"><img alt="" src="https://images.anandtech.com/doci/17587/sercan-teardown_575px.jpg" /></a></p>
-
-<p>Intel also provided a complete teardown picture along with the press release. The combined cooling solution for the CPU and dGPU with the thermal shroud and heat pipes is clearly seen. Whether this solution aids in / enables performance tuning via the <a href="https://www.intel.com/content/www/us/en/support/articles/000090047/graphics/intel-arc-dedicated-graphics-family.html">Intel Deep Link Dynamic Power Share</a> feature remains to be seen in hands-on evaluation.</p>
-
-<p>Overall, the Serpent Canyon NUC is a huge step-up for Intel. Moving to a fully in-house solution for both the CPU and dGPU in a small form-factor portable machine will enable the company to gain a larger share of the gaming / creator systems / eSports total addressable market. Based on paper specifications, the level of integration and gaming prowess in the NUC12 Enthusiast should be well beyond what has traditionally been possible in this form factor. On the pricing front, the Mini-PC version with pre-installed OS will come in at $1350, while the barebones version can be purchased for $1180 later this month. These numbers roughly track the introductory pricing for previous-generation Enthusiast NUCs.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17587/intel-announces-serpent-canyon-alder-lake-and-arc-amalgamate-in-nuc12-enthusiast</link>
- 	<pubDate>Thu, 22 Sep 2022 07:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17587:news</guid>
- 	<category><![CDATA[ Systems]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Launches Mendocino APUs: Zen 2-based Ryzen and Athlon 7020 Series with RDNA 2 Graphics</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17584/amd-launches-mendocino-apus-zen-2-ryzen-and-athlon-7020-series-with-rdna-2-graphics"><img src="https://images.anandtech.com/doci/17584/AMD_Mendocino_Crop_575px.jpg" alt="" /></a></p><p><p>Even though the main focus this month has been on AMD&#39;s upcoming launch of its Ryzen 7000 desktop series processors based on the Zen 4 architecture, AMD is also in the process of launching its 7020 series of processors designed for entry-level mobile, codenamed Mendocino. It has launched four new SKUs for mobile, including two Ryzen series models and two Athlon&nbsp;variants, all based on its Zen 2 architecture.</p>
-
-<p>As we <a href="https://www.anandtech.com/show/17400/amd-announces-mendocino-apu-6nm-mainstream-mobile-zen-2-laptop-chip-coming-in-q4">learned in May</a>, AMD&#39;s Zen 2 based &#39;Mendocino&#39; APUs are designed as part of its lower-end mobile processor stack for entry-level thin notebook and laptop solutions. The affordable APUs incorporate up to 4 Zen 2 CPU cores, as well as AMD&#39;s integrated Radeon 610M graphics, all with a maximum TDP of 15W.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17584/amd-launches-mendocino-apus-zen-2-ryzen-and-athlon-7020-series-with-rdna-2-graphics"><img alt="" src="https://images.anandtech.com/doci/17584/AMD_Mendocino_Slide_575px_575px.jpg" /></a></p>
-
-<p>Focusing specifically on the AMD 7020 series APUs announced today, the top SKU is the Ryzen 5 7520U.&nbsp;Using&nbsp;<a href="https://www.anandtech.com/show/17561/amd-updates-ryzen-mobile-cpu-numbering-ahead-of-mendocino-launch">AMD&#39;s new Ryzen Mobile CPU numbering system</a>, the 7520U is a model year 2023 chip under the Ryzen 5 series banner using its Zen 2 core architecture. The U suffix technically means 15-28W, but in this case AMD has confirmed that all of the current chips have a max TDP of 15W.</p>
-
-<p>The AMD Ryzen 5 7520U benefits from a 2.8 GHz base frequency across its four cores, with a 1T boost frequency of up to 4.3 GHz. It also includes a total of 6MB of cache, split between 4MB of L3 and 2MB of L2 (512KB per core).</p>
-
-<table border="0" style="text-align: center;" width="90%">
-	<tbody>
-		<tr class="tgrey">
-			<td colspan="7">AMD Ryzen 7020 Series (Mendocino) Lineup</td>
-		</tr>
-		<tr class="tlblue">
-			<td style="width: 80.2431px;">SKU</td>
-			<td style="width: 80.2431px;">Cores/Threads</td>
-			<td style="width: 80.2431px;">CPU Frequency<br />
-			(Base)</td>
-			<td style="width: 80.2431px;">CPU Frequency<br />
-			(1T Boost)</td>
-			<td style="width: 80.2431px;">Cache</td>
-			<td style="width: 80.2431px;">iGPU</td>
-			<td style="width: 80.2431px;">TDP</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" style="vertical-align: middle;"><strong>Ryzen 5 7520U</strong></td>
-			<td style="vertical-align: middle;">4C / 8T</td>
-			<td style="vertical-align: middle;">2.8 GHz</td>
-			<td style="vertical-align: middle;">4.3 GHz</td>
-			<td style="vertical-align: middle;">2MB L2 + 4MB L3</td>
-			<td style="vertical-align: middle;">Radeon 610M</td>
-			<td style="vertical-align: middle;">15 W</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" style="vertical-align: middle;"><strong>Ryzen 3 7320U</strong></td>
-			<td style="vertical-align: middle;">4C / 8T</td>
-			<td style="vertical-align: middle;">2.4 GHz</td>
-			<td style="vertical-align: middle;">4.1 GHz</td>
-			<td style="vertical-align: middle;">2MB L2 + 4MB L3</td>
-			<td style="vertical-align: middle;">Radeon 610M</td>
-			<td style="vertical-align: middle;">15 W</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" style="vertical-align: middle;"><strong>Athlon Gold 7220U</strong></td>
-			<td style="vertical-align: middle;">2C / 4T</td>
-			<td style="vertical-align: middle;">2.4 GHz</td>
-			<td style="vertical-align: middle;">3.7 GHz</td>
-			<td style="vertical-align: middle;">1MB L2 + 4MB L3</td>
-			<td style="vertical-align: middle;">Radeon 610M</td>
-			<td style="vertical-align: middle;">15 W</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" style="vertical-align: middle;"><strong style="text-align: center; color: rgb(0, 0, 0) !important;">Athlon Silver 7120U</strong>&nbsp;</td>
-			<td style="vertical-align: middle;">2C / 4T</td>
-			<td style="vertical-align: middle;">2.4 GHz</td>
-			<td style="vertical-align: middle;">3.5 GHz</td>
-			<td style="vertical-align: middle;">1MB L2 + 2MB L3</td>
-			<td style="vertical-align: middle;">Radeon 610M</td>
-			<td style="vertical-align: middle;">15 W</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>Moving down the stack is the Ryzen 3 7320U, which has four cores and eight threads but a base core clock speed of 2.4 GHz and a single core boost frequency of up to 4.1 GHz. Like the Ryzen 5 7520U, it also benefits from a combined cache of 6 MB across its L2/L3 cache structure.</p>
-
-<p>Looking at the Athlon-branded 7020 series chips, the Athlon Gold 7220U offers two cores and four threads, with a base frequency of 2.4 GHz, a single core boost frequency of up to 3.7 GHz, and 5 MB of shared L2/L3 cache. The Athlon Silver 7120U is pretty much&nbsp;the Athlon Gold 7220U, but it has a slightly lower 1T boost frequency of 3.5 GHz and half as much L3 cache (for a total of 3MB instead of 5MB)</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17584/amd-launches-mendocino-apus-zen-2-ryzen-and-athlon-7020-series-with-rdna-2-graphics"><img alt="" src="https://images.anandtech.com/doci/17584/1581613-laptop-ocean-reef-1260x709_575px.jpg" /></a><br />
-<em>AMD Radeon 610M with two graphics cores for performance at the entry-level</em></p>
-
-<p>All of today&#39;s&nbsp;announced AMD&#39;s Zen 2 Ryzen and Athlon 7020 series will support up to 32 GB of LPDDR5 memory in a dual-channel (64-bit) configuration, and feature two graphics cores/CUs based on&nbsp;its RNDA 2 technology, which AMD is branding the Radeon 610M integrated graphics chip. All four mobile APUs will also include a TDP of up to 15 W.&nbsp;</p>
-
-<p>At the time of writing, AMD hasn&#39;t revealed specific pricing aside from a total laptop price range of between $399 and $699.&nbsp;However, it has announced that its AMD Ryzen 7020 Series Ecosystem partners are Acer, HP, Lenovo, and Microsoft, with notebooks featuring these chips&nbsp;expected to start appearing on retail shelves sometime in&nbsp;Q4 2022.&nbsp;</p>
-
-<p>Source: <a href="https://www.amd.com/en/press-releases/2022-09-20-amd-ryzen-7020-series-processors-for-mobile-bring-high-end-performance">AMD</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17584/amd-launches-mendocino-apus-zen-2-ryzen-and-athlon-7020-series-with-rdna-2-graphics</link>
- 	<pubDate>Tue, 20 Sep 2022 15:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17584:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>NVIDIA: H100 Hopper Accelerator Now in Full Production, DGX Shipping In Q1’23</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17581/nvidia-h100-hopper-accelerator-now-in-full-production-dgx-shipping-in-q1-23"><img src="https://images.anandtech.com/doci/17581/SXM5-White-4-NEW-FINAL_575px.jpg" alt="" /></a></p><p><p>With NVIDIA&rsquo;s fall GTC event in full swing, the company touched upon the bulk of its core business in one way or another in this morning&rsquo;s keynote. On the enterprise side of matters, one of the longest-awaited updates was the shipment status of NVIDIA&rsquo;s H100 &ldquo;Hopper&rdquo; accelerator, which at introduction was slated to land in Q3 of this year. As it turns out, with Q3 already nearly over H100 is not going to make its Q3 availability date. But, according to NVIDIA the accelerator is in full production, and the first systems will be shipping from OEMs in October.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17581/nvidia-h100-hopper-accelerator-now-in-full-production-dgx-shipping-in-q1-23</link>
- 	<pubDate>Tue, 20 Sep 2022 12:18:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17581:news</guid>
- 	<category><![CDATA[ GPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>NVIDIA Drops DRIVE Atlan SoC, Introduces 2 PFLOPS DRIVE Thor for 2025 Autos</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17582/nvidia-drops-drive-atlan-soc-introduces-2-pflops-drive-thor-for-2025-autos"><img src="https://images.anandtech.com/doci/17582/DRIVE Thor - GTC Fall 22_575px.jpg" alt="" /></a></p><p><p>Among the spate of announcements from NVIDIA today as part of their fall GTC 2022 event, the company is delivering a surprising shake-up to their DRIVE automotive SoC plans. Effective immediately, NVIDIA has cancelled Atlan, their planned post-Orin SoC for 2025 automobiles. In its place, NVIDIA is announcing Thor, an even more powerful SoC set to launch in the same 2025 timeframe.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17582/nvidia-drops-drive-atlan-soc-introduces-2-pflops-drive-thor-for-2025-autos</link>
- 	<pubDate>Tue, 20 Sep 2022 11:45:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17582:news</guid>
- 	<category><![CDATA[ SoCs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The NVIDIA GeForce Project Beyond and GTC Fall 2022 Keynote Live Blog (Starts at 8am PT/15:00 UTC)</title>
-    <dc:creator>Ryan Smith &amp; Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>Kicking off a bit later this morning will be NVIDIA&rsquo;s GTC 2022 fall keynote, which should prove to be a very interesting event.</p>
-
-<p>Besides NVIDIA&rsquo;s usual run-through of business announcements, the first part of this GTC&rsquo;s keynote will be focused on NVIDIA&rsquo;s GeForce products, making for a very rare appearance at NVIDIA&rsquo;s increasingly enterprise-focused event. NVIDIA has been teasing the GeForce portion of the event as &ldquo;Project Beyond&rdquo; for about the past month, and in traditional secretive NVIDIA fashion, that&rsquo;s all we officially know ahead of the show.</p>
-
-<p>Given the timing of this event, the announcement of NVIDIA&rsquo;s next-generation of consumer video cards (GeForce RTX 40 series?) and associated GPUs is a very safe bet. The GeForce RTX 30 series premiered just over two years ago, which is right in line with NVIDIA&rsquo;s usual bi-yearly architecture cadence.</p>
-
-<p>Significant performance improvements are (hopefully) in the cards, but it will be interesting to see what NVIDIA does in light of the current cypto hangover, which hit a fevered pitch last week with the long-awaited completion of the Ethereum Merge &ndash; eliminating the need for video cards to mine the popular cryptocoin. The market for video cards is almost certain to be saturated for the next several months, especially as the performance levels covered by the current RTX 30 series cards. Which means it&rsquo;s cards that would be faster than the RTX 3090 and its ilk that are the most likely to succeed in the current climate.</p>
-
-<p>At the same time, from a graphics feature standpoint NVIDIA has been relatively stagnant since the release of the Turing architecture (RTX 20 series) in 2018, when NVIDIA first added DirectX 12 Ultimate (FL 12_2) support. As a result, a more feature-focused release would not be unusual for NVIDIA, but at the same time we&rsquo;re not immediately aware of any new features under development for DirectX.</p>
-
-<p>Following CEO Jensen Huang&rsquo;s GeForce presentation, we&rsquo;re expecting the GTC keynote to then dovetail into a more traditional enterprise presentation. NVIDIA&rsquo;s H100 Hopper accelerator will no doubt be a big focus, as it&rsquo;s slated to ship soon. As well, NVIDIA has been ever-increasingly focused on robotics, medical, automotive, and of course their omniverse simulation environment. So there should be no shortage of other things to talk about &ndash; even if we&rsquo;re here first and foremost for the gaming cards.</p>
-
-<p>NVIDIA&#39;s keynote starts at 8am Pacific (15:00 UTC), so please join us for our live blog coverage of the green machine&rsquo;s latest announcements.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/17583/the-nvidia-geforce-project-beyond-and-gtc-fall-2022-keynote-live-blog-starts-at-8am-pt1500-utc</link>
- 	<pubDate>Tue, 20 Sep 2022 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17583:news</guid>
- 	<category><![CDATA[ GPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Intel to Drop Celeron and Pentium Branding From Laptop Parts In 2023</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17579/intel-to-drop-celeron-and-pentium-branding-from-laptop-parts-in-2023"><img src="https://images.anandtech.com/doci/17579/Intel_Inside_575px.jpg" alt="" /></a></p><p><p>While we&rsquo;re still over a quarter out from the end of 2022, Intel already has its eyes aimed at 2023 and its eventual refresh of its mobile processors. To that end, today the company has announced that they are making some branding changes for the low-end.</p>
-
-<p>Starting in 2023, Intel will be retiring the Pentium and Celeron brands for laptop processors. In its place, Intel will have a singular &ldquo;Intel Processor&rdquo; brand for the low end of the market, while the Core branding (with its multiple tiers) will remain in place for the rest of Intel&rsquo;s mobile product stack.</p>
-
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">
-<p><em>&ldquo;Whether for work or play, the importance of the PC has only become more apparent as the torrid pace of technological development continues to shape the world. Intel is committed to driving innovation to benefit users, and our entry-level processor families have been crucial for raising the PC standard across all price points. The new Intel Processor branding will simplify our offerings so users can focus on choosing the right processor for their needs.&rdquo;</em></p>
-
-<p>-Josh Newman, Intel vice president and interim general manager of Mobile Client Platforms</p>
+										<content:encoded><![CDATA[<p>A truck driver in China has gone viral for his three rescue cats who ride around the country with him while he works. </p>
+<p>According to the <a href="https://www.scmp.com/news/people-culture/trending-china/article/3204127/they-sleep-mini-bunk-bed-truck-drivers-adventures-road-china-3-stray-cats-charm-social-media" rel="noopener" target="_blank">South China Morning Post</a>, the 56-year-old long-distance truck driver named Wang adopted the three cats after finding them as strays while working on the road. </p>
+<figure id="attachment_425434" aria-describedby="caption-attachment-425434" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570.png" alt="" width="1000" height="813" class="size-full wp-image-425434" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111347.570-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425434" class="wp-caption-text">Photo: <a href="https://www.facebook.com/watch/?v=1000530977757989" rel="noopener" target="_blank">Facebook/9GAG</a></figcaption></figure>
+<p>That was back in 2020, and the cats haven&#8217;t left his side since! </p>
+<p>As shared in a video by <a href="https://www.facebook.com/watch/?v=1000530977757989" rel="noopener" target="_blank">9GAG</a>, Wang didn&#8217;t just adopt the cats and let them hang out in the passenger seat. He created them an entire bunk bed to relax on! </p>
+<figure id="attachment_425435" aria-describedby="caption-attachment-425435" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853.png" alt="" width="1000" height="813" class="size-full wp-image-425435" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111437.853-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425435" class="wp-caption-text">Photo: <a href="https://www.facebook.com/watch/?v=1000530977757989" rel="noopener" target="_blank">Facebook/9GAG</a></figcaption></figure>
+<p>The three-tier bunk bed features a comfy cat haven for each rescue feline to sleep in while they drive. On stops, the cats get out of the truck and stretch their legs. They use the restroom outside and come back to the truck when it&#8217;s time to keep going. </p>
+<p>It may be unconventional, but it&#8217;s pretty incredible, and the cats seem so happy! </p>
+<figure id="attachment_425436" aria-describedby="caption-attachment-425436" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949.png" alt="" width="1000" height="813" class="size-full wp-image-425436" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T111532.949-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425436" class="wp-caption-text">Photo: <a href="https://www.facebook.com/watch/?v=1000530977757989" rel="noopener" target="_blank">Facebook/9GAG</a></figcaption></figure>
+<p>Life as a stray cat is tough, and seeing these three cats have the care and companionship they need to thrive is truly something special. Plus, the cats offer Wang some company on the road while he&#8217;s away from home. </p>
+<p>Check out the video below:</p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v17.0" nonce="dOwCe0fA"></script></p>
+<div class="fb-video" data-href="https://www.facebook.com/watch/?v=1000530977757989" data-width="500">
+<blockquote cite="https://www.facebook.com/9gag/videos/1000530977757989/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/9gag/videos/1000530977757989/">truck driver adopts 3 cats who chill on a customized bunk bed</a></p>
+<p>3 rescued cats travel with their truck driver hooman.</p>
+<p>Posted by <a href="https://facebook.com/9gag">9GAG</a> on Saturday, June 17, 2023</p></blockquote>
 </div>
+<p>It may not be common to have pets accompany truck drivers, but Wang isn&#8217;t the first person to rescue a cat on the road. Paul Robertson of Minnesota found a stray cat while working as a truck driver too! He adopted the cat, and now the two of them <a href="https://blog.theanimalrescuesite.greatergood.com/truck-driver-sdopts-stray-cat/?gg_medium=content&amp;gg_source=ars&amp;gg_term=5214805&amp;gg_campaign=truck-driver-cats&amp;gg_content=blog-link" rel="noopener" target="_blank">travel the country together</a>. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/truck-driver-cats/">Truck Driver Rescues Three Stray Cats, And Now They Travel The Country Together</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425437/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Rescue Dog in Texas Covered in 3lbs of Matted Fur &#038; Stickers Gets Second Chance at Life</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/matted-texas-dog/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 18:03:59 +0000</pubDate>
+				<category><![CDATA[Dog Rescues]]></category>
+		<category><![CDATA[Dogs & Puppies]]></category>
+		<category><![CDATA[Inspire]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Pet Buddies]]></category>
+		<category><![CDATA[Rescue Stories]]></category>
+		<category><![CDATA[animal abuse]]></category>
+		<category><![CDATA[animal neglect]]></category>
+		<category><![CDATA[animal rescue stories]]></category>
+		<category><![CDATA[Dogs]]></category>
+		<category><![CDATA[matted dog]]></category>
+		<category><![CDATA[matted fur]]></category>
+		<category><![CDATA[SPCA]]></category>
+		<category><![CDATA[Texas]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425404</guid>
 
-<p>Notably, this change only applies to future laptop parts. At this point Intel is not announcing a change for desktop parts or embedded parts. But with that said, I would not be the least bit surprised if these change ultimately came to desktops as well, as mobile is effectively Intel&rsquo;s leading consumer market segment these days. So technology and names tend to percolate up to the desktop segment, keeping the two in sync.</p>
-
-<p>Intel&rsquo;s current generation Pentium and Celeron offerings are both based on Alder Lake-U processors with a single performance core and four (one block of) efficiency cores. The only differences between these SKUs, besides price, is clockspeeds &ndash; specifically, that the Celeron parts lack turbo. So if Intel is going to pursue a similar strategy in future generations, then it&rsquo;s not outlandish to fold two similar products under a single brand. Though the decision to forgo any kind of specific branding is an unusual one for Intel.</p>
-
-<p>With that said, there&rsquo;s also been a notable absence of &ldquo;pure&rdquo; Atom parts in this segment in this generation. Intel has yet to produce a true entry-level part using its Gracemont Atom cores; so everything below the Alder Lake Pentiums/Celerons has been the last-generation Tremont Atoms. So larger changes may be afoot for Intel&rsquo;s cheapest laptop product segment.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17579/intel-to-drop-celeron-and-pentium-branding-from-laptop-parts-in-2023</link>
- 	<pubDate>Fri, 16 Sep 2022 21:15:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17579:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>EVGA and NVIDIA To Split: EVGA Won’t Make Next-Gen NVIDIA Cards</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>In a move that will have significant repercussions for the video card industry in North America and Europe, EVGA today has announced that the company is parting ways from NVIDIA. As a result, the company will not be producing video cards based on NVIDIA&rsquo;s next-generation of GPUs &ndash; and won&rsquo;t be immediately switching allegiance to AMD or Intel, either. Consequently, NVIDIA is losing their largest add-in board (AIB) in North America, and the broader North American video card market is losing one of its biggest and best-known vendors.</p>
-
-<p>In a brief announcement posted on EVGA&rsquo;s forums, the company outlined their parting from NVIDIA, while underscoring that this affects the next-generation of video cards, and that EVGA will continue to provide current-gen products and support existing customers.</p>
+					<description><![CDATA[<p>"There was a leash embedded throughout the hair and that led to a collar embedded to the neck. We were able to cut the collar/leash out in segments."</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/matted-texas-dog/">Rescue Dog in Texas Covered in 3lbs of Matted Fur &amp; Stickers Gets Second Chance at Life</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17578/evga-and-nvidia-to-split-evga-wont-make-nextgen-nvidia-cards</link>
- 	<pubDate>Fri, 16 Sep 2022 20:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17578:news</guid>
- 	<category><![CDATA[ GPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The FSP Dagger Pro SFX 850W PSU Review: Awesome Power in a Small Shell</title>
-    <dc:creator>E. Fylladitakis</dc:creator>    
-    <description><![CDATA[ <p>In today&#39;s review, we are taking a look at a tiny beast, the FSP Dagger Pro 850W power supply. Although reduced to standard SFX proportions and forced to use a low-profile 92 mm fan, FSP&#39;s engineers managed to pull 850 Watts out of this miniature power plant.</p>
+										<content:encoded><![CDATA[<p>A sweet little dog discovered in a Texas cornfield has been rescued from a life of pain and misery after who knows how long when the South Plains Society for the Prevention of Cruelty to Animals (SPCA) stepped in and came to his aid. </p>
+<figure id="attachment_425419" aria-describedby="caption-attachment-425419" style="width: 1170px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2.jpeg" alt="matted dog" width="1170" height="1367" class="size-full wp-image-425419" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2.jpeg 1170w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2-289x338.jpeg 289w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2-578x675.jpeg 578w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2-145x169.jpeg 145w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-2-768x897.jpeg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425419" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>&#8220;When I first got the call, these people had found this dog behind their house in a cornfield, and I got a call by my president [Kim Moyers] to go pick this dog up,&#8221; Tori Houston, a foster mom and volunteer with the South Plains SPCA, told <em><a href="https://people.com/matted-texas-rescue-dog-gets-makeover-removes-pounds-of-fur-7563638" rel="noopener" target="_blank">PEOPLE</a></em>. </p>
+<figure id="attachment_425417" aria-describedby="caption-attachment-425417" style="width: 1170px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1.jpeg" alt="Matted dog" width="1170" height="1193" class="size-full wp-image-425417" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1.jpeg 1170w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1-331x338.jpeg 331w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1-662x675.jpeg 662w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1-166x169.jpeg 166w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-dog-1-768x783.jpeg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425417" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>&#8220;And when I arrived, the condition of this dog was probably the worst I had ever seen in any dog, ever. He had so much hair you didn&#8217;t know which was the front, which was the back. He was covered in goat heads (stickers). He stunk so bad,&#8221; she noted. &#8220;You couldn&#8217;t see any part of his body. He looked like a pile of sheep wool.&#8221;</p>
+<p>Referring to him as Matt now (for obvious reasons), Moyers went on to say that his hair growth was about five years of matting!</p>
+<figure id="attachment_425423" aria-describedby="caption-attachment-425423" style="width: 1006px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0.jpg" alt="matted dog being groomed" width="1006" height="1193" class="size-full wp-image-425423" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0.jpg 1006w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0-285x338.jpg 285w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0-569x675.jpg 569w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0-143x169.jpg 143w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-3.0-768x911.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425423" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>According to the <a href="https://www.facebook.com/SouthPlainsSpca/posts/pfbid02YpWcDUpcgw9XBe8Z2grqTifb3WX38fnoQVBxu52oZqK29eQGbccsYEV6yZrhYbZBl" rel="noopener" target="_blank">South Plains SPCA</a>, &#8220;Matt went to Ark Hospital for Pets around 7:15 Monday morning with his foster, Tori Houston. Kayla Thurmon, with Kayla&#8217;s Grooming Service, came to the vet office, and after Matt was sedated, Kayla performed her grooming magic! Matt&#8217;s total hair shaved off weighed in around 3 lbs. There were thousands of goat head stickers, sticks, grass, and even beetles matted in his fur. </p>
+<figure id="attachment_425424" aria-describedby="caption-attachment-425424" style="width: 999px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0.jpg" alt="Matted fur" width="999" height="1201" class="size-full wp-image-425424" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0.jpg 999w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0-281x338.jpg 281w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0-561x675.jpg 561w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0-141x169.jpg 141w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/matted-fur-on-floor-1.0-768x923.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425424" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>&#8220;He has severe bruises on his body from his fur being tight on his skin. Blood work has been done, and he is anemic and on medication. He is heartworm negative and tick-disease-negative. There is NO way ticks and fleas could have crawled through his matted fur. Matt will need a dental once his blood work indicates it&#8217;s safe. He is also on eye drops several times a day, as his eyes are extremely irritated. After his groom and him waking up, he is such a sweet boy. His age is estimated 6 years old.  His care will be lengthy, but he will be up for adoption once he has healed and all vetting done.&#8221;</p>
+<figure id="attachment_425425" aria-describedby="caption-attachment-425425" style="width: 1008px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0.jpg" alt="rescue dog after being groomed" width="1008" height="1190" class="size-full wp-image-425425" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0.jpg 1008w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0-286x338.jpg 286w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0-572x675.jpg 572w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0-143x169.jpg 143w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-2.0-768x907.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425425" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>Prior to his grooming, one of their Facebook posts also noted that &#8220;there was a leash embedded throughout the hair and that led to a collar embedded to the neck. We were able to cut the collar/leash out in segments. If you can, please donate towards the care of this dog.&#8221; They also added &#8220;You can call Ark Hospital for Pets between 7:00 am &#8211; 1 pm to donate (806-745-2955), donate via Venmo, or donations can be brought by our facility.&#8221;</p>
+<figure id="attachment_425426" aria-describedby="caption-attachment-425426" style="width: 1039px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0.jpg" alt="adoptable dog" width="1039" height="1155" class="size-full wp-image-425426" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0.jpg 1039w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0-304x338.jpg 304w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0-607x675.jpg 607w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0-152x169.jpg 152w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Matt-1.0-768x854.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425426" class="wp-caption-text"><a href="https://www.facebook.com/SouthPlainsSpca" rel="noopener" target="_blank">Photo: Facebook/South Plains SPCA</a></figcaption></figure>
+<p>Once Matt is available for adoption, the South Plains SPCA will post the announcement on Facebook, so stay tuned to their page if you&#8217;re interested in providing this adorable cutie patootie with a loving forever home.</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/matted-texas-dog/">Rescue Dog in Texas Covered in 3lbs of Matted Fur &amp; Stickers Gets Second Chance at Life</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425414/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Cane Corso &#8216;Yells&#8217; At Mom When She Brings A Newborn Baby Home</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/meatball-cane-corso/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 17:20:24 +0000</pubDate>
+				<category><![CDATA[Dogs & Puppies]]></category>
+		<category><![CDATA[Hilarious Pets]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425410</guid>
+
+					<description><![CDATA[<p>The sassy pup makes sure his mama knows that he doesn't approve of the tiny human. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/meatball-cane-corso/">Cane Corso &#8216;Yells&#8217; At Mom When She Brings A Newborn Baby Home</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17544/the-fsp-dagger-pro-sfx-850w-psu-review-awesome-power-small-shell</link>
- 	<pubDate>Fri, 16 Sep 2022 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17544:news</guid>
- 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Arm Announces Neoverse V2 and E2: The Next Generation of Arm Server CPU Cores</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>Just under four years ago, Arm announced their Neoverse family of infrastructure CPU designs. Deciding to double-down on the server and edge computing markets by designing Arm CPU cores specifically for those markets &ndash; and not just recycling the consumer-focused Cortex-A designs &ndash; Arm set about tackling the infrastructure market in a far more aggressive manner. Those efforts, in turn, have increasingly paid off handsomely for Arm and its partners, whom thanks to the likes of products like Amazon&rsquo;s Graviton and Ampere Altra CPUs have at long last been able take a meaningful piece of the server CPU market.</p>
+										<content:encoded><![CDATA[<p>When you have pets in the home, you never quite know how they&#8217;ll react to bringing a newborn baby home. Some pets become <a href="https://blog.theanimalrescuesite.greatergood.com/dog-checks-on-baby-brother/?gg_medium=content&amp;gg_source=ars&amp;gg_term=1657968&amp;gg_campaign=meatball-cane-corso&amp;gg_content=blog-link" rel="noopener" target="_blank">protective of the baby</a> and <a href="https://blog.theanimalrescuesite.greatergood.com/cat-meets-newborn/?gg_medium=content&amp;gg_source=ars&amp;gg_term=3917013&amp;gg_campaign=meatball-cane-corso&amp;gg_content=blog-link" rel="noopener" target="_blank">fall in love at first sight</a>. </p>
+<p>Others, however, aren&#8217;t a fan of having a newborn baby steal the show. They want all the attention, and they don&#8217;t want to share! </p>
+<figure id="attachment_425411" aria-describedby="caption-attachment-425411" style="width: 2560px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-scaled.jpg" alt="" width="2560" height="1572" class="size-full wp-image-425411" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-scaled.jpg 2560w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-550x338.jpg 550w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-1099x675.jpg 1099w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-275x169.jpg 275w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-768x472.jpg 768w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-1536x943.jpg 1536w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/pexels-laura-garcia-3398674-1-2048x1257.jpg 2048w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425411" class="wp-caption-text">Photo: <a href="https://www.pexels.com/photo/mother-carrying-baby-3398674/" rel="noopener" target="_blank">Pexels/Laura Garcia</a></figcaption></figure>
+<p>It seems that&#8217;s how a Cane Corso dog named Meatball felt when his mama brought home a newborn baby. </p>
+<p>Meatball&#8217;s owner shared <a href="https://www.tiktok.com/@cutelittleidiots/video/7253806811650854187" rel="noopener" target="_blank">a video</a> of him &#8220;yelling&#8221; at her over the little baby, and it&#8217;s too cute! The sassy pup makes sure his mama knows that he doesn&#8217;t approve of the tiny human and she should do something about it. </p>
+<figure id="attachment_425412" aria-describedby="caption-attachment-425412" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700.png" alt="" width="1000" height="813" class="size-full wp-image-425412" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101600.700-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425412" class="wp-caption-text">Photo: <a href="https://www.tiktok.com/@cutelittleidiots/video/7253806811650854187" rel="noopener" target="_blank">TikTok/@cutelittleidiots</a></figcaption></figure>
+<p>The mom captioned the post, &#8220;2.5 months later, and we&#8217;re still at a stalemate.&#8221; </p>
+<p>In a <a href="https://www.tiktok.com/@cutelittleidiots/video/7230810141325528363" rel="noopener" target="_blank">separate video</a>, she added, &#8220;Meatball really isn&#8217;t handling the new baby very well.&#8221;</p>
+<p>Since being shared online, the video has racked up over 5 million views and counting! </p>
+<p>&#8220;He made some serious counterpoints here,&#8221; one person commented. &#8220;Meatball said, &#8216;I&#8217;m finding a new home asap &#8211; I&#8217;m tired of the disrespect,&#8217; lmao! Get a lawyer, Meatball lmao!&#8221; another person added. </p>
+<figure id="attachment_425413" aria-describedby="caption-attachment-425413" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769.png" alt="" width="1000" height="813" class="size-full wp-image-425413" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-21T101652.769-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425413" class="wp-caption-text">Photo: <a href="https://www.tiktok.com/@cutelittleidiots/video/7253806811650854187" rel="noopener" target="_blank">TikTok/@cutelittleidiots</a></figcaption></figure>
+<p>Someone else chimed in, &#8220;Meatball still isn&#8217;t fond of his little sister, I see &#8211; the side eye is HYSTERICAL.&#8221; The mom replied, &#8220;Oh, you know it. Lol. He sniffs her feet here and there. That’s about it.&#8221;  </p>
+<p>Hopefully Meatball will make amends with his baby sister when she&#8217;s a little older. It&#8217;s hard to adjust to not being the baby anymore! </p>
+<p>Check out the hilarious clip below:</p>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cutelittleidiots/video/7253806811650854187" data-video-id="7253806811650854187" data-embed-from="oembed" style="max-width: 605px;min-width: 325px;" >
+<section> <a target="_blank" title="@cutelittleidiots" href="https://www.tiktok.com/@cutelittleidiots?refer=embed">@cutelittleidiots</a> </p>
+<p>2.5 months later and were still at a stalemate. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a title="dogsoftiktok" target="_blank" href="https://www.tiktok.com/tag/dogsoftiktok?refer=embed">#dogsoftiktok</a> <a title="petsoftiktok" target="_blank" href="https://www.tiktok.com/tag/petsoftiktok?refer=embed">#petsoftiktok</a> <a title="canecorso" target="_blank" href="https://www.tiktok.com/tag/canecorso?refer=embed">#canecorso</a> </p>
+<p> <a target="_blank" title="♬ original sound - Meatball &#038; Jax &#x1f43e;" href="https://www.tiktok.com/music/original-sound-7253806863035304750?refer=embed">♬ original sound &#8211; Meatball &#038; Jax <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f43e.png" alt="🐾" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a> </section>
+</blockquote>
+<p> <script async src="https://www.tiktok.com/embed.js"></script></p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/meatball-cane-corso/">Cane Corso &#8216;Yells&#8217; At Mom When She Brings A Newborn Baby Home</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425415/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Heroic Dog Helps Save Baby Girl Dumped In Trash Bag In Lebanon</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/dog-dump-baby/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 16:55:18 +0000</pubDate>
+				<category><![CDATA[Dogs & Puppies]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rescue Stories]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425402</guid>
 
-<p>But as Arm CPUs finally achieve the market penetration that eluded them in the previous decade, Arm needs to make sure it isn&rsquo;t resting on its laurels. Of the company&rsquo;s three lines of Neoverse core designs &ndash;the efficient E, flexible N, and high-performance V &ndash; the company is already on its second generation of N cores, aptly dubbed the <a href="https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh">N2</a>. Now, the company is preparing to update the rest of the Neoverse lineup with the next generation of V and E cores as well, announcing today the Neoverse V2 and Neoverse E2 cores. Both of these designs are slated to bring the Armv9 architecture to HPC and other server customers, as well as significant performance improvements.</p>
+					<description><![CDATA[<p>The stray dog was carrying the girl in the trash bag when a bystander noticed her cries. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/dog-dump-baby/">Heroic Dog Helps Save Baby Girl Dumped In Trash Bag In Lebanon</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17575/arm-announces-neoverse-v2-and-e2-the-next-generation-of-arm-server-cpu-cores</link>
- 	<pubDate>Thu, 15 Sep 2022 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17575:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Micron Breaks Ground on Its $15 Billion EUV DRAM Fab in the U.S.</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17573/micron-breaks-ground-on-its-15-billion-euv-dram-fab-in-the-us"><img src="https://images.anandtech.com/doci/17573/micron-fab-idaho_575px.png" alt="" /></a></p><p><p>Micron this week broke ground on its leading-edge memory production facility near Boise, Idaho. The company will invest $15 billion in its new fab as a part of its ambitious plan to invest&nbsp;<a href="https://investors.micron.com/news-releases/news-release-details/micron-announces-40-billion-investment-leading-edge-memory">$40 billion</a>&nbsp;in its U.S.-based manufacturing capacities by the end of this decade as well as spend&nbsp;<a href="https://investors.micron.com/news-releases/news-release-details/micron-announces-over-150-billion-global-manufacturing-and-rd">$150 billion on new fabs by 2030</a>&nbsp;globally.</p>
+										<content:encoded><![CDATA[<p>A baby girl was given a second chance at life after a heroic dog pulled her from the dump and brought attention to her.</p>
+<p>According to the <a href="https://www.thenationalnews.com/mena/lebanon/2023/07/19/tripoli-baby-found-in-bin-bag-being-carried-by-stray-dog/" rel="noopener" target="_blank">National News</a>, a baby girl was dumped in a black plastic trash bag near the city of Tripoli.</p>
+<figure id="attachment_425406" aria-describedby="caption-attachment-425406" style="width: 1200px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli.jpg" alt="" width="1200" height="900" class="size-full wp-image-425406" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli.jpg 1200w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli-451x338.jpg 451w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli-900x675.jpg 900w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli-225x169.jpg 225w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/1200px-OldTripoli-768x576.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425406" class="wp-caption-text">Photo: <a href="https://commons.wikimedia.org/wiki/File:OldTripoli.jpg" rel="noopener" target="_blank">Wikimedia Commons/Tadmouri</a> License: <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a></figcaption></figure>
+<p>A stray dog noticed the baby and scooped up the trash bag in his mouth and started carrying her around. </p>
+<p>Thankfully, a Good Samaritan heard the baby crying from the bag in the stray dog&#8217;s mouth and immediately sprung into action. While it&#8217;s unclear how old the baby is, estimates range from hours old to four months. </p>
+<p>Photos circulating social media show the poor baby covered in bruises on her body and face. </p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="ar" dir="rtl">يقول البعض أن الكلب حيوانٌ نجس وطبعاً هذا غير صحيح، الكلب فيه إنسانية ولطف ودهاء وذكاء أكثر بكثير من بعض المسوخ الشيطانية بأشكال بشر<br />هذه الطفلة الرضيعة التي وجدت مرمية في <a href="https://twitter.com/hashtag/%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3?src=hash&amp;ref_src=twsrc%5Etfw">#طرابلس</a> اليوم انقذها كلب ولو كان هذا الكلب في <a href="https://twitter.com/hashtag/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83?src=hash&amp;ref_src=twsrc%5Etfw">#نيويورك</a> كانو سيكرمونه أتمنى ان يتم تبني هذه الطفلة من عائلة ما <a href="https://t.co/CSirT9iTOC">pic.twitter.com/CSirT9iTOC</a></p>
+<p>&mdash; Farid (@Farid_1986_fm) <a href="https://twitter.com/Farid_1986_fm/status/1681640229508366336?ref_src=twsrc%5Etfw">July 19, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The Good Samaritan brought the baby to the Islamic Hospital. She was later transferred to the Tripoli Government Hospital. She&#8217;s reportedly in serious but stable condition. </p>
+<p>Sahar AlAtrash shared photos of the baby girl on Twitter, writing (translated): &#8220;A newborn girl was placed inside a black bag in Tripoli, a dog was dragging the bag when a person passed by who heard a crying sound coming from the bag<br />
+What crime is this! The dog has more humanity than its criminals!&#8221;</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="ar" dir="rtl">طفلة حديثة الولادة كانت موضوعة داخل كيس أسود في طرابلس، كان كلبًا يجرّ الكيس عند مرور أحد الاشخاص الذي سمع صوت بكاء صادر من الكيس<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f494.png" alt="💔" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />أي إجرام هذا!<br />الكلب عنده إنسانية أكتر من أهلها المجرمين! <a href="https://t.co/Klfgp0HVYq">pic.twitter.com/Klfgp0HVYq</a></p>
+<p>&mdash; Sahar®AlAtrash سَحَرْ (@SahaR_bei) <a href="https://twitter.com/SahaR_bei/status/1681618714012033024?ref_src=twsrc%5Etfw">July 19, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>According to <a href="https://safiralchamal.com/2023/07/20/370225/" rel="noopener" target="_blank">safiralchamal.com</a>, a journalist in Tripoli, Lebanon, Ghassan Rifi, also commended the dog for being more humane than the humans in the baby&#8217;s life. They said (translated), &#8220;It was not known whether the &#8216;wild lady&#8217; who threw the child and fled to an unknown destination had intended to throw her in the area so that the dogs would finish her off and eat her corpse or to draw attention to her. But in all cases, the dog that dragged her was more humane in the face of the brutality and criminality of the one who threw her.&#8221;</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/dog-dump-baby/">Heroic Dog Helps Save Baby Girl Dumped In Trash Bag In Lebanon</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425407/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Pup with a Cleft Palate and Missing Toes Barely Notices His Differences</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/rescue-story-delta/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 07:42:35 +0000</pubDate>
+				<category><![CDATA[Rescue Stories]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425383</guid>
 
-<p>Micron&#39;s upcoming leading-edge fab will produce DRAM and will be a rather colossal manufacturing facility. At build-out, when the fab is fully equipped with tools, its cleanroom space will reach 600,000 feet<sup>2</sup>&nbsp;(55,700 meters<sup>2</sup>), which is about two times larger compared to cleanroom space at GlobalFoundries&#39; Fab 8 and which is comparable to cleanroom space at giant fabs operated by Micron&#39;s rivals Samsung and SK Hynix is South Korea. Essentially, Micron will operate one of the largest semiconductor production facilities in the U.S.</p>
-
-<p>The new fab will be located adjacent to Micron&#39;s R&amp;D center and headquarters near Boise, Idaho, which will bring together scientists, process technology developers, and manufacturing engineers in one location, something that promises to speed up time-to-yield and time-to-market for advanced DRAMs.&nbsp;</p>
-
-<p>&quot;With this facility, Micron will closely couple R&amp;D and manufacturing, providing synergies that will enable us to accelerate the production ramp of advanced memory technology,&quot;&nbsp;said Sanjay Mehrotra, president and CEO&nbsp;of Micron.</p>
-
-<p>Micron is currently prepping the site for the new fab and plans to begin construction in early 2023 in a bid to start bringing cleanroom space online gradually starting in 2025. The facility will be equipped with modern deep ultraviolet (DUV) and extreme ultraviolet (EUV) lithography tools and will make memory using one of Micron&#39;s advanced EUV-enabled production nodes. The company intends to start fabbing DRAMs at its new facility sometimes in 2025 and then ramp up production to the fu<span style="-webkit-text-stroke-color: transparent;">ll capacity in the following years.&nbsp;</span></p>
-
-<p><a href="https://www.anandtech.com/show/17573/micron-breaks-ground-on-its-15-billion-euv-dram-fab-in-the-us"><img alt="" src="https://images.anandtech.com/doci/17573/micron-dram-roadmap_575px.png" style="color: rgb(52, 52, 52); -webkit-text-stroke-color: transparent;" /></a></p>
-
-<p>At present it is hard to guess which fabrication process will be adopted at the new fab. Considering the fact that Micron is expected to start DRAM production using its&nbsp;<a href="https://investors.micron.com/static-files/8d23a61f-0c3d-46bf-81a1-c466525afd82">first EUV-enabled manufacturing technology (1&gamma;)</a>&nbsp;sometimes in mid-2023 &ndash; early-2024, it is likely that the fab near Boise, Idaho, will adopt the company&#39;s second EUV-enabled process (1&delta;). Yet, this is an educated guess (based on habitual introduction of new DRAM nodes every 18 months or so) at this point.</p>
-
-<p>Micron intends to make 40% of its global DRAM output in America in 2030s, a rebalance that the company has not done in decades. Therefore, in addition to Micron&#39;s new fab near Boise, Idaho, the company plans to build a yet another DRAM facility in the U.S. Currently the company is in the final stages of its selection process for another site in America.&nbsp;</p>
-
-<p>Micron will invest $15 billion in the new manufacturing facility near Boise, Idaho. The company also plans to get incentives from the local and state authorities and support from the federal government enabled by the CHIPS and Science act signed into law last month.</p>
-
-<p>&quot;The investment, made possible by the anticipated grants and credits provided by the CHIPS and Science Act, also enhances Micron&#39;s supply chain resilience and will establish a new strategic capability for the U.S.,&quot; said the head of Micron.</p>
-
-<p>It is noteworthy that Micron is not the only DRAM maker to start building new memory fabs when demand for both 3D NAND and DRAM is down. Last week SK Hynix&nbsp;<a href="https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab">began to expand its M15 site</a>&nbsp;with its new M15X building as the company is preparing for increased DRAM demand starting in 2025.</p>
-
-<p>Source:&nbsp;<a href="https://investors.micron.com/news-releases/news-release-details/micron-breaks-ground-leading-edge-manufacturing-fab-boise-idaho">Micron</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17573/micron-breaks-ground-on-its-15-billion-euv-dram-fab-in-the-us</link>
- 	<pubDate>Wed, 14 Sep 2022 09:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17573:news</guid>
- 	<category><![CDATA[ Memory]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>ASRock Announces New AM5 BIOS Design, Promises Faster Booting Times</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17568/asrock-announces-new-am5-bios-design-promises-faster-booting-times"><img src="https://images.anandtech.com/doci/17568/X670E Taichi Carrara Jpg_575px.jpg" alt="" /></a></p><p><p>In preparation for AMD&#39;s Ryzen 7000 series processors, which will launch on September 27th, ASRock has announced that it has developed a new BIOS for its AM5 motherboards. ASRock states that its new firmware has been built to decrease booting times on its motherboards.</p>
-
-<p>With every new platform, chipset, and processor launch, firmware is one of the focal points surrounding motherboards. Over the last couple of years, leading vendors such as ASUS, GIGABYTE, and MSI have kept their firmware consistent, regardless of whether the board is designed for AMD or Intel. ASRock has announced that it has developed a new BIOS specifically for its AM5 motherboards, which are designed to support the upcoming AMD Ryzen 7000 series Zen 4 processors based on TSMC&#39;s 5 nm process node.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17568/asrock-announces-new-am5-bios-design-promises-faster-booting-times"><img alt="" src="https://images.anandtech.com/doci/17568/211012015142_575px.jpg" /></a><br />
-<em>ASRock X570S PG Riptide motherboard firmware</em></p>
-
-<p>ASRock claims that their new BIOS for AM5 will provide better compatibility, although it doesn&#39;t expressly state what, as well as quicker booting or POST times into Windows. As it stands, ASRock has announced five X670E models currently, including the X670E Taichi and Taichi Carrara models, the X670E Steel Legend, the X670E Pro RS, and the X670E PG Lightning. ASRock also hasn&#39;t stated whether or not the layout or core GUI has changed compared with previous generations such as X570 or B550.</p>
-
-<p>Another thing ASRock has announced is that all of its X670E and X670 models will support BIOS Flashback, with users able to update their motherboard to the latest firmware with just a USB flash drive and 24-pin power connected to the power supply.&nbsp;</p>
-
-<p>ASRock&#39;s new firmware for its X670E and X670 motherboards will be available to download from the appropriate product pages on the ASRock website after September 27th. At the time of writing, it hasn&#39;t confirmed any information regarding the pricing of its new AM5 motherboards.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17568/asrock-announces-new-am5-bios-design-promises-faster-booting-times</link>
- 	<pubDate>Fri, 09 Sep 2022 16:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17568:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>MSI Unveils X670 Pricing Ahead of AMD Ryzen 7000 Launch, Starting at $290</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17566/msi-unveils-x670-pricing-ahead-of-amd-ryzen-7000-launch-starting-at-290"><img src="https://images.anandtech.com/doci/17566/X670EGODLIKE-1-1024x1024 GODLIKE_575px.jpg" alt="" /></a></p><p><p>Ahead of the launch of AMD&#39;s latest Ryzen 7000 processors, which will hit retail shelves on September 27th, MSI unveiled pricing on four of its X670/X670E motherboards. Given the world&#39;s current financial climate and features such as PCIe 5.0 connectivity to M.2 storage drives and at least one PCIe x16 slot, the writing has been on the wall for a while regarding pricing.</p>
-
-<p>Currently listed in their US store, MSI has two premium (MEG), one mid-range (MPG), and one entry-level regular X670&nbsp;(Pro) model, with prices ranging from $290 (Pro X670-P WIFI) up to $1300 (MEG X670E Godlike).&nbsp;</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17566/msi-unveils-x670-pricing-ahead-of-amd-ryzen-7000-launch-starting-at-290"><img alt="" src="https://images.anandtech.com/doci/17566/X670ECARBWIFI-3-1024x1024_575px.jpg" /></a><br />
-<em>MSI MPG X670E Carbon WIFI ($480) ATX motherboard</em></p>
-
-<p>As we&#39;ve seen with previous generations on both Intel and AMD platforms,&nbsp;MSI&#39;s flagship for Ryzen 7000 is the MEG X670E Godlike ($1300). MSI is advertising a 24+2+1 power delivery, with up to six M.2 slots, 10 GbE, 2.5 GbE, Wi-Fi 6E, and a touchscreen 4.5&quot; M-Vision dashboard panel.</p>
-
-<p>Sitting just behind the Godlike is the MSI MEG X670E Ace ($700), with support for up to six M.2 drives, an advertised 22+2+1 power delivery, and 10 GbE/Wi-Fi 6E networking to sweeten the deal. Both models benefit from PCIe 5.0 PEG slots and one PCIe 5.0 x4 M.2 slot for the latest PCIe Gen 5 SSDs due sometime in November.</p>
-
-<h3>X670E Mid-Range Model for $480, X670 Entry-Level at $290</h3>
-
-<p>The MPG X670E Carbon ($480) represents MSI&#39;s mid-range MPG offerings with advertised 18+2+1-phase power delivery, an 8-layer PCB, and Wi-Fi 6E connectivity. Despite costing nearly $500, MSI offers a 2.5 GbE NIC considering this has been offering this&nbsp;on entry-level models for the last couple of generations. Importantly, however, this is the cheapest MSI X670E motherboard &ndash; meaning it&#39;s the cheapest board MSI will be offering at launch with PCIe 5.0 slots.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/17566/msi-unveils-x670-pricing-ahead-of-amd-ryzen-7000-launch-starting-at-290"><img alt="" src="https://images.anandtech.com/doci/17566/MSI%20X670E%20and%20X670%20Pricing_575px.jpg" /></a></p>
-
-<p>Coincidentally, we just reviewed MSI&#39;s <a href="https://www.anandtech.com/show/17548/the-msi-mpg-z690-carbon-wifi-ddr5-motherboard-review">MPG Z690 Carbon WIFI</a>, which is MSI&#39;s equivalent motherboard for the Intel LGA1700/Z690 market.That board has an MSRP of $400 and a current selling price of $350 on Amazon. So there is a significant premium right now for the AM5 board, on top of what&#39;s already a relatively high price for a mid-range Intel motherboard.</p>
-
-<p>Finally, the entry-level MSI Pro X670-P WIFI&nbsp;(non-E) model has 2.5 GbE, an advertised 14+2+1-phase power delivery, and supports up to four M.2 slots. Despite dropping PCIe 5.0 in favor of PCIe 4.0, the MSRP is sitting at $290, which is very surreal pricing for an entry-level model.</p>
-
-<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/8186" target="_blank">MSI Unveils X670E Pricing Ahead of AMD Ryzen 7000 Launch, Starting at $290</a><div><a href="https://www.anandtech.com/Gallery/Album/8186#1" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670EACE-1-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8186#2" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670EACE-2-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8186#3" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670EACE-3-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8186#4" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670EACE-4-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8186#5" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670EACE-5-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8186#6" target="_blank"><img src="https://images.anandtech.com/galleries/8186/X670ECARBWIFI-1-1024x1024_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
-
-<p>Despite not agreeing with MSI&#39;s current X670E/X670 MSRP pricing, things could change over the coming weeks and months as more vendors announce its offerings to the market. The introduction of B650/B650E boards should also offer a cheaper alternative, though those boards won&#39;t be arriving for at least another month. As it stands, the MSI MEG X670E Godlike will cost $1300, the MEG X670E Ace will cost $700, the MPG X670E Carbon WIFI has a price tag of $480, and the Pro X670-P WIFI will cost $290.</p>
-
-<p>All four&nbsp;models are expected to launch on September 27th, along with AMD&#39;s Ryzen 7000 series processors.</p>
-
-<p>Source: <a href="https://us-store.msi.com/Motherboards/AMD-Platform-Motherboard/AMD-X670">MSI</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17566/msi-unveils-x670-pricing-ahead-of-amd-ryzen-7000-launch-starting-at-290</link>
- 	<pubDate>Thu, 08 Sep 2022 18:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17566:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>SK Hynix Starts Prepping for Next Semiconductor Boom with $11 Billion Memory Fab</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab"><img src="https://images.anandtech.com/doci/17565/sk_hynix_3d_nand_1_575px.jpg" alt="" /></a></p><p><p>When a major South Korean memory firm invests over&nbsp;<a href="https://news.skhynix.com/sk-hynix-to-build-m15x-fab-in-cheongju-in-october/">$11 billion in a fab</a>, that raises a couple of eyebrows. But when it comes within a major&nbsp;<a href="https://www.anandtech.com/show/16595/sk-hynix-to-build-106-billion-fab-cluster-800000-wafer-starts-a-month">$100+ billion capital expenditure (CapEx) package</a>, it certainly warrants some attention.</p>
-
-<p>Semiconductor business in general and memory business in particular are very cyclical in their nature. Just a year ago almost all chips were in short supply and prices of commodities like memory or display drivers were high, but now that sales of PCs are declining, memory prices are declining too. But several years down the road demand for PCs and other client devices will rise once again, and so will demand for memory. Which is why SK Hynix is already preparing for this with its Fab M15X expansion plan.</p>
-
-<p>SK Hynix&rsquo;s Fab M15X will be a two-story building occupying 60,000 m<sup>2</sup>&nbsp;of land and will be located adjacent to existing Fab M15 in the Cheongju Technopolis industrial complex. The fab will produce 3D NAND (which means more chemical vapor deposition and etching tools in the cleanroom) and/or DRAM (which is more lithography-intensive, so more DUV and EUV equipment in the cleanroom) memory chips, depending on demand by the time it comes online sometimes in 2025. Since at present it is unclear/undecided what the fab will produce, the company cannot disclose planned production capacity of the upcoming manufacturing facility.</p>
-
-<p>At a planned size roughly equal to combined space of SK Hynix&rsquo;s existing <a href="https://www.anandtech.com/show/13129/sk-hynix-set-to-build-a-new-memory-fab">Fab M11 and Fab M12</a>, the company&rsquo;s Fab M15X expansion looks more like an entirely new fab built adjacent to existing Fab M15 than an expansion project of the existing fab. Yet since the two manufacturing facilities share infrastructure and various facilities, the maker prefers to call it Fab M15X.&nbsp;</p>
-
-<p>&quot;Looking back on the past 10 years, SK hynix could grow into a global company as it boldly carried out investment during crisis,&quot;&nbsp;said Park Jung-ho, vice&nbsp;chairman and&nbsp;co-chief&nbsp;executive&nbsp;of SK Hynix. &quot;As we look to prepare for the next 10 years now, I believe starting the M15X will be a first step to lay foundation for a solid future growth.&quot;</p>
-
-<p>Source:&nbsp;<a href="https://news.skhynix.com/sk-hynix-to-build-m15x-fab-in-cheongju-in-october/">SK Hynix</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab</link>
- 	<pubDate>Thu, 08 Sep 2022 13:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17565:news</guid>
- 	<category><![CDATA[ Semiconductors]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The MSI MPG Z690 Carbon WIFI (DDR5) Motherboard Review: A Decent Mid-Ranged Z690</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>As we near the end of Intel&#39;s 12th Gen (Alder Lake) life cycle, its 13th Gen Core series is expected to be due by the end of the year; we&#39;re looking at a premium model from the Z690 chipset. As we already know, Intel&#39;s Z690 chipset (LGA 1700)&nbsp;will offer support for the impending 13th Gen Core series, so it does offer a viable upgrade path for users looking to build a 12th Gen Core series system today and potentially upgrade at a later date.</p>
-
-<p>Today&#39;s model on the test bench is the MSI MPG Z690 Carbon WIFI with a solid feature set that includes 2.5 GbE and Wi-Fi 6E networking, two full-length PCIe 5.0 capable slots, four PCIe 4.0 x4 M.2 slots, as well as a large 19-phase power delivery. The MPG Z690 Carbon WIFI is positioned in the mid-range segment of the market, but at the $350-400 price point, MSI does have some stiff competition. It&#39;s time to see how the Z690 Carbon WIFI stacks up and if its gaming-focused model below its enthusiast-level MEG series can deliver the goods.</p>
+					<description><![CDATA[<p>Delta had some surgeries to address his health issues, but his fur mom says he "kept that cute little lip smile."</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/rescue-story-delta/">Pup with a Cleft Palate and Missing Toes Barely Notices His Differences</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17548/the-msi-mpg-z690-carbon-wifi-ddr5-motherboard-review</link>
- 	<pubDate>Thu, 08 Sep 2022 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17548:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The Apple 2022 Fall iPhone Event Live Blog 10am PT (17:00 UTC)</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>It&#39;s that time of the year again - Apple&#39;s fall iPhone event, where we expect the Cupertino company to unveil its newest generation family of iPhones - what should be the iPhone 14 series.</p>
+										<content:encoded><![CDATA[<p><em>The following story was submitted in the <a href="https://www.shelterchallenge.com/shelterchallenge/contest/match/36474/3204" rel="noopener" target="_blank">Pawsitively Picture Perfect</a> photo contest. The top three finishers received $500 in cash, as well as $2,000 in cash and supplies for their favorite shelter. To read more stories, click <a href="https://www.shelterchallenge.com/shelterchallenge/contest/match/36474/3204" rel="noopener" target="_blank">here</a>!</em></p>
+<p>Delta was born into this world missing some toes on his right side, both front and back. To make it more interesting, he even had a cleft palate. </p>
+<figure id="attachment_425385" aria-describedby="caption-attachment-425385" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1.jpg" alt="" width="1000" height="1228" class="size-full wp-image-425385" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1-275x338.jpg 275w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1-550x675.jpg 550w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1-138x169.jpg 138w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta1-768x943.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425385" class="wp-caption-text">PHOTO: SHEILAH GRAHAM</figcaption></figure>
+<p>In the beginning, this caused a couple of challenges. With the surgeries he underwent to correct this, Delta never looked back, though he kept that cute little lip smile.</p>
+<hr/>
+<p><a href="https://blog.theanimalrescuesite.greatergood.com/share-your-rescue-story/?gg_medium=content&#038;gg_source=ars&#038;gg_campaign=rescue-story&#038;gg_content=local" target="_blank" rel="noopener"><strong><center>SHARE YOUR OWN RESCUE STORY</center></strong></a></p>
+<hr/>
+<p>With the difference in his paws, he never lets it bother him. One would never know it when he is running around the yard chasing after his favorite toys. </p>
+<figure id="attachment_425386" aria-describedby="caption-attachment-425386" style="width: 1200px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2.jpg" alt="" width="1200" height="1476" class="size-full wp-image-425386" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2.jpg 1200w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2-275x338.jpg 275w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2-549x675.jpg 549w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2-137x169.jpg 137w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta2-768x945.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425386" class="wp-caption-text">PHOTO: SHEILAH GRAHAM</figcaption></figure>
+<p>It was barely even noticeable when he would be walking and sniffing around the yard, or jumping up on the sofa to secure his window view to observe all the activities outside his home. Another fun fact is, Delta might have been the runt of his litter, but he rules the roost and he outgrew his dad. </p>
+<p>Delta also enjoys being a huge snuggle monster, while being a fearless protector. Belgian Malinois are not for everyone, and he is no exception. With guidance over the years, he grew into an awesome pup.</p>
+<figure id="attachment_425387" aria-describedby="caption-attachment-425387" style="width: 1200px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3.jpg" alt="" width="1200" height="1636" class="size-full wp-image-425387" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3.jpg 1200w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3-248x338.jpg 248w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3-495x675.jpg 495w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3-124x169.jpg 124w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3-768x1047.jpg 768w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/delta3-1127x1536.jpg 1127w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425387" class="wp-caption-text">PHOTO: SHEILAH GRAHAM</figcaption></figure>
+<p><em>This story was submitted by Sheilah Graham in support of American Belgian Malinois Rescue. To read other stories from the <a href="https://www.shelterchallenge.com/shelterchallenge/contest/match/36474/3204" rel="noopener" target="_blank">Pawsitively Picture Perfect</a> photo contest, click <a href="https://www.shelterchallenge.com/shelterchallenge/contest/match/36474/3204" rel="noopener" target="_blank">here</a>!</em></p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/rescue-story-delta/">Pup with a Cleft Palate and Missing Toes Barely Notices His Differences</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425384/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>New CDC Report Shows Harmful Algal Blooms Are Making People and Animals Sick</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/harmful-algal-blooms-illness/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 06:59:48 +0000</pubDate>
+				<category><![CDATA[Pet Health]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425377</guid>
 
-<p>With Apple seemingly satisfied with its current industrial design as embodied by the iPhone 13 lineup, it will be interesting to see what the company does to iterate on its flagship phones this year &ndash; especially the high-end Pro designs. In which case, this year may be all about the guts, and what Apple does to update things like the cameras and displays.</p>
-
-<p>Meanwhile, it&#39;s all but assured that Apple will introduce a new generation processor in the form of the A16. Apple&#39;s latest iterations of SoC silicon have been ground-breaking and industry leading, and we expect the new chip to once again push the envelope in performance and efficiency, as Apple is wont to do.</p>
-
-<p>The live blog will start along with the event at 10am PT / 17:00 UTC / 19:00 CEST.</p>
+					<description><![CDATA[<p>The blooms are caused by algae overgrowth and can impact the health of people, animals, and the water. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/harmful-algal-blooms-illness/">New CDC Report Shows Harmful Algal Blooms Are Making People and Animals Sick</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17563/the-apple-2022-fall-iphone-event-live-blog-10am-pt-1700-utc</link>
- 	<pubDate>Wed, 07 Sep 2022 11:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17563:news</guid>
- 	<category><![CDATA[ Mobile]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Updates Ryzen Mobile CPU Numbering System Ahead of Mendocino APU Launch</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17561/amd-updates-ryzen-mobile-cpu-numbering-ahead-of-mendocino-launch"><img src="https://images.anandtech.com/doci/17561/Ryzen-Wheel-2_575px.jpg" alt="" /></a></p><p><p>While all eyes are on the impending launch of AMD&rsquo;s new Ryzen 7000 desktop processors, the chipmaker also has its wheels in motion for the future of its mobile product lineup. And while we&rsquo;re still quite a bit away from the first Zen 4 mobile parts, more immediate on AMD&rsquo;s roadmap is their Zen 2-based <a href="https://www.anandtech.com/show/17400/amd-announces-mendocino-apu-6nm-mainstream-mobile-zen-2-laptop-chip-coming-in-q4">Mendocino SoC</a>, which is aimed at mainstream laptops. Mendocino APUs are set to launch next quarter, and to prepare for that launch, AMD today is updating their mobile processor numbering scheme to accommodate those future products.</p>
+										<content:encoded><![CDATA[<p>Harmful algal blooms occur when there’s algae overgrowth in water. They can produce dangerous toxins that can make people and animals ill, or create dead zones in the water. A new report from the U.S. Centers for Disease Control and Prevention shines some light on the blooms’ health impacts.</p>
+<p>The CDC recently <a href="https://www.cdc.gov/habs/data/2021-ohhabs-data-summary.html" rel="noopener" target="_blank">shared a report</a> on harmful algal blooms throughout the country in 2021, which showed, among other things, that 117 human illnesses and more than 2,700 animal illnesses were reported across 368 blooms in 16 states. </p>
+<figure id="attachment_425379" aria-describedby="caption-attachment-425379" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom3.jpg" alt="Aerial view of algal bloom" width="1000" height="662" class="size-full wp-image-425379" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom3.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom3-511x338.jpg 511w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom3-255x169.jpg 255w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom3-768x508.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425379" class="wp-caption-text"><a href="https://stock.adobe.com/images/blooming-algae-on-the-surface-of-the-lake-background-texture/311599263?asset_id=311599263" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / ANDREI310</a></figcaption></figure>
+<p>The report <a href="https://www.cdc.gov/habs/data/2021-ohhabs-data-summary.html" rel="noopener" target="_blank">says</a>, “The findings from this annual data summary indicate that HAB events and associated illnesses occur throughout the United States… Affected people primarily reported gastrointestinal, generalized, and dermatologic signs and symptoms, while affected animals—specifically dogs—presented with generalized, gastrointestinal, and neurologic signs.”</p>
+<p>The agency added that in one particular event, at least 2,000 bats died, as well.</p>
+<p>The blooms, which were voluntarily reported by public health agencies and their environmental health or animal health partners, were found to be most common during the summer and in freshwater bodies. Twenty-five percent of the blooms occurred in August, which was also when animal illnesses were most often reported, while the human illnesses were at their peak in June. For wildlife, the most common symptoms were urinary issues, while pets most commonly experienced gastrointestinal and general health issues.</p>
+<figure id="attachment_425380" aria-describedby="caption-attachment-425380" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom2.jpg" alt="Freshwater algal bloom" width="1000" height="667" class="size-full wp-image-425380" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom2.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom2-507x338.jpg 507w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom2-253x169.jpg 253w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom2-768x512.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425380" class="wp-caption-text"><a href="https://stock.adobe.com/images/closeup-photograph-of-an-algal-bloom-in-a-body-of-freshwater-suffering-from-severe-eutrophication/228839592?asset_id=228839592" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / TRIXCIS</a></figcaption></figure>
+<p>Harmful algal blooms are often intensified by human-related nutrient pollution, as well as warmer water temperatures. The U.S. Environmental Protection Agency <a href="https://www.epa.gov/nutrientpollution/harmful-algal-blooms" rel="noopener" target="_blank">says</a> if you’d like to do your part to help minimize the impacts of the blooms, you can volunteer to monitor waterbodies, report suspected blooms to your state, and help prevent nutrient pollution. </p>
+<p>You can also take action by <a href="https://therainforestsite.greatergood.com/clicktogive/trs/petition/toxic-algae-blooms?gg_medium=content&#038;gg_source=trs&#038;gg_term=9170674&#038;gg_campaign=harmful-algal-blooms-illness&#038;gg_content=petition-link" rel="noopener" target="_blank">signing this pledge</a> to help prevent toxic algal blooms.</p>
+<figure id="attachment_425381" aria-describedby="caption-attachment-425381" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom4.jpg" alt="Blue green algal bloom" width="1000" height="667" class="size-full wp-image-425381" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom4.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom4-507x338.jpg 507w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom4-253x169.jpg 253w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/harmfulalgalbloom4-768x512.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425381" class="wp-caption-text"><a href="https://stock.adobe.com/images/blue-green-algae-bloom-in-the-water/276820696?asset_id=276820696" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / SUPRATCHAI</a></figcaption></figure>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/harmful-algal-blooms-illness/">New CDC Report Shows Harmful Algal Blooms Are Making People and Animals Sick</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425378/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>&#8216;It&#8217;s Like a Joke, Really,&#8217; Crows and Magpies Steal Anti-Bird Spikes to Make Their Nests</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/anti-bird-spike-nests/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 06:24:44 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425360</guid>
 
-<p>The short version of matters is that while the new numbering system is quite similar to AMD&rsquo;s previous system (e.g. Ryzen Mobile 6000), the company is now dedicating a digit to represent the version of the Zen architecture used. With AMD set to have Zen 2 (Mendocino), Zen 3 (Rembrandt), and eventually Zen 4 (Phoenix) mobile APUs all on the market at the same time, AMD has decided that they need to better disclose the architecture used underneath &ndash; a &ldquo;necessary evil&rdquo;, as former AnandTech CPU editor Dr. Ian Cutress put it, to avoid any improprieties (perceived or otherwise) that AMD is misleading customers by offering multiple versions of the Zen architecture.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17561/amd-updates-ryzen-mobile-cpu-numbering-ahead-of-mendocino-launch</link>
- 	<pubDate>Wed, 07 Sep 2022 09:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17561:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Qualcomm Unveils Snapdragon 6 Gen 1 and 4 Gen 1 SoCs: Updating Mid-Range and Entry-Level Phones</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17560/qualcomm-unveils-snapdragon-6-gen-1-and-4-gen-1-socs"><img src="https://images.anandtech.com/doci/17560/Snapdragon-6-Gen-1-and-4-Gen-1-Car_575px.jpg" alt="" /></a></p><p><p>Qualcomm this morning is taking the wraps off a pair of new SoCs for the mid-range and entry-level smartphone markets. Refreshing the company&rsquo;s longstanding 600 and 400 series of chips, Qualcomm is announcing the Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1. Both SoCs are receiving similar spec bumps, incorporating newer and faster IP blocks from Qualcomm &ndash; such as Arm Cortex-A78 derived CPU cores &ndash; as well as moving to newer, more contemporary manufacturing processes.</p>
-
-<p>The Snapdragon 600/400 lineups were last updated in mid and early 2021 respectively, so as Qualcomm is already preparing for 2023, the time has finally come to update the bottom half of their product stack. Following Qualcomm&rsquo;s broad cascading IP strategy, this generation of parts sees both SoC lineups migrate to Cortax-A78 CPUs for their main CPU cores, and in the case of the 6 Gen 1, doubling the number of high-performance CPU cores. Both SoCs also come with faster Adreno GPUs, though in traditional Qualcomm fashion, the company isn&rsquo;t offering much in the way of details on the underlying hardware there.</p>
-
-<p>Notably, however, Qualcomm&rsquo;s 2023 mid-range/low-end parts aren&rsquo;t making the jump to the Armv9 architecture. Unlike the 8 Gen 1 and 7 Gen 1, which incorporated Arm&rsquo;s new Armv9 cores, Qualcomm&rsquo;s cascading development strategy means that the 6 and 4 series will remain a bit farther behind the curve. For end users this should have little significance for the moment, but for smartphone vendors and software developers, it does mean Qualcomm won&rsquo;t complete the Armv9 transition for at least another generation.</p>
-
-<p>Meanwhile, coming up on nearly a year since Qualcomm announced their initial <a href="https://www.anandtech.com/show/17091/qualcomm-announces-snapdragon-8-gen-1-flagship-soc-for-2022-devices">Snapdragon 8 Gen 1 SoC</a>, today&rsquo;s announcement from Qualcomm brings their remaining smartphone SoC families in alignment with their new product branding strategy. The 6 and 4 series pick up from where the 600 and 400 series left off, respectively, resetting the counted with the inaugural Gen 1 parts. Like the rest of simplified &ldquo;Gen&rdquo; series, this also means that Qualcomm is doing away with individual model numbers for its Kyro/Hexagon/Adreno/Spectra blocks, obfuscating a bit what generation of IP Qualcomm is using there.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17560/qualcomm-unveils-snapdragon-6-gen-1-and-4-gen-1-socs</link>
- 	<pubDate>Tue, 06 Sep 2022 11:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17560:news</guid>
- 	<category><![CDATA[ Mobile]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The MSI Titan GT77 Review: Desktop-Class Core i9-12900HX Tested</title>
-    <dc:creator>Brett Howse</dc:creator>    
-    <description><![CDATA[ <p>MSI is synonymous with gaming notebooks and the company&rsquo;s Raider lineup is one of the top gaming platforms on the market. But, MSI has always kept a tiny bit back, reserving their most interesting ideas and most powerful configurations for their Titan lineup.</p>
-
-<p>MSI&rsquo;s Titan series always offers something special. Something different. Something unique. Look back to the insane <a href="https://www.anandtech.com/show/9401/the-msi-gt80-titan-review">MSI GT80 Titan from 2015</a> which featured a full desktop keyboard melded onto an 18.4-inch notebook computer. The MSI GT76 Titan packed in a full desktop Core i9-9900K processor into a more traditional 17-inch form factor.</p>
-
-<p>Today we are looking at the latest iteration from MSI; the Titan GT77. Featuring a desktop-inspired Core i9-12900HX processor and an NVIDIA RTX 3080 Ti Laptop GPU, the GT77 is one of the most powerful notebooks on the market today.</p>
+					<description><![CDATA[<p>Researchers in the Netherlands have found multiple nests made with the spikes, which they say shows how inventive these birds are.</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/anti-bird-spike-nests/">&#8216;It&#8217;s Like a Joke, Really,&#8217; Crows and Magpies Steal Anti-Bird Spikes to Make Their Nests</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17549/the-msi-titan-gt77-review-desktopclass-core-i912900hx-tested</link>
- 	<pubDate>Thu, 01 Sep 2022 10:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17549:news</guid>
- 	<category><![CDATA[ Laptops]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD EXPO Memory Technology: One Click Overclocking Profiles For Ryzen 7000</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17556/amd-expo-memory-one-click-overclocking-profiles-for-ryzen-7000-feat-gskill-and-corsair"><img src="https://images.anandtech.com/doci/17556/01-gskill-ddr5-series-memory-ft-amd-expo_575px.jpg" alt="" /></a></p><p><p>During <a href="https://www.anandtech.com/show/17550/amd-ryzen-7000-live-blog-7pm-et2300-utc">AMD&#39;s &#39;together we advance_PCs event</a>, the company unveiled its <a href="https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7950x-coming-sept-27">latest Zen 4-based Ryzen 7000 processors</a> to the world, as well as&nbsp;its AM5 platforms, including X670E, X670, B650E, and B650. AMD also announced what it calls AMD EXPO, a new&nbsp;technology for overclocking DDR5 memory. In conjunction with this announcement, AMD has partnered with memory manufacturers including ADATA, Corsair, G.Skill, GeIL, and Kingston Technology to bring AMD Ryzen 7000 optimized kits of DDR5 memory to the market, with 15 (or more) of these set to be available on launch day on September 27th.</p>
+										<content:encoded><![CDATA[<p>Crows typically make nests with items like branches and twigs, but new research finds they’re using something else to make them, something scientists say shows how clever they are.</p>
+<p>Researchers from Naturalis Biodiversity Center and the Natural History Museum Rotterdam <a href="https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins" rel="noopener" target="_blank">recently shared the findings</a> on some “crazy” crow and magpie nests they’ve collected. The nests in question were made from anti-bird spikes, a widely used deterrent to discourage nest building. </p>
+<figure id="attachment_425368" aria-describedby="caption-attachment-425368" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests1.jpg" alt="Bird deterrent spikes on railing" width="1000" height="667" class="size-full wp-image-425368" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests1.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests1-507x338.jpg 507w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests1-253x169.jpg 253w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests1-768x512.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425368" class="wp-caption-text"><a href="https://stock.adobe.com/images/steel-spikes-on-metal-structures-such-as-awnings-cornices-and-building-elements-for-the-control-of-pigeons-and-other-birds/450922968?asset_id=450922968" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / CHEMARI</a></figcaption></figure>
+<p>Auke-Florian Hiemstra, study co-author and biologist from Naturalis, <a href="https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins" rel="noopener" target="_blank">says</a>, &#8220;It&#8217;s like a joke, really. Even for me as a nest researcher, these are the craziest bird nests I&#8217;ve ever seen.&#8221;</p>
+<p>The first nest they collected was built by magpies up high in a tree in a hospital courtyard. This mammoth, which is currently on display in the LiveScience room at Naturalis, had up to 1,500 of these spikes, which the magpies had pulled from the eaves. The researchers say the birds appeared to have chosen these materials to keep other birds at bay. This is something they do in nature, anyway, looking for sharp objects like thorny plants to keep their nest safer from intruders looking to eat the eggs. </p>
+<figure id="attachment_425370" aria-describedby="caption-attachment-425370" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests5.jpg" alt="Magpie looking around in grass" width="1000" height="667" class="size-full wp-image-425370" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests5.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests5-507x338.jpg 507w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests5-253x169.jpg 253w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests5-768x512.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425370" class="wp-caption-text"><a href="https://stock.adobe.com/images/closeup-portrait-of-australian-magpie/279805514?asset_id=279805514" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / ANDREW</a></figcaption></figure>
+<p>It&#8217;s not just this set of magpies that has displayed this sort of behavior, though. Other magpie nests, which are further detailed by the researchers in <em><a href="https://www.hetnatuurhistorisch.nl/organisatie/publicaties/deinsea/deinsea-21/" rel="noopener" target="_blank">Deinsea</a></em>, have been found with anti-bird spikes, and not just in the Netherlands. Belgian and Scottish magpies have been up to the same thing. Crows in the Netherlands have, as well, though that’s the only country in which this species has been observed doing so. This resourcefulness is even impressive to the researchers. </p>
+<p>Kees Moeliker, study co-author and director of the Natural History Museum Rotterdam, <a href="https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins" rel="noopener" target="_blank">says</a>, &#8220;Just when you think you&#8217;ve seen it all after half a century of studying natural history, these inventive crows and magpies really surprise me again.”</p>
+<figure id="attachment_425373" aria-describedby="caption-attachment-425373" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests2.jpg" alt="Crow looking around on pavement" width="1000" height="667" class="size-full wp-image-425373" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests2.jpg 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests2-507x338.jpg 507w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests2-253x169.jpg 253w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/antibirdnests2-768x512.jpg 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425373" class="wp-caption-text"><a href="https://stock.adobe.com/images/crow/145894859?asset_id=145894859" rel="noopener" target="_blank">PHOTO: ADOBE STOCK / MATTHEWADOBE</a></figcaption></figure>
+<p>This isn’t the only recent study chronicling the use of non-natural nest building materials. Other research has found that birds across the world are also <a href="https://blog.therainforestsite.greatergood.com/bird-nests-litter/?gg_medium=content&#038;gg_source=trs&#038;gg_term=6616844&#038;gg_campaign=anti-bird-spike-nests&#038;gg_content=blog-link" rel="noopener" target="_blank">using litter to make their nests</a>. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/anti-bird-spike-nests/">&#8216;It&#8217;s Like a Joke, Really,&#8217; Crows and Magpies Steal Anti-Bird Spikes to Make Their Nests</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425366/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Hilarious Compilation Video Shows Cats Interrupting Work-From-Home News Reporters</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/cats-interrupt-news/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 06:23:19 +0000</pubDate>
+				<category><![CDATA[Cats & Kittens]]></category>
+		<category><![CDATA[Hilarious Pets]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425343</guid>
 
-<p>AMD EXPO stands for EXtended Profiles for Overclocking and is designed to provide users with high-end memory overclocking when used in conjunction with AMD&#39;s Ryzen 7000 series processors. Similar to Intel&#39;s preexisting X.M.P (Extreme Memory Profile) technology found on most consumer-level memory kits designed for desktop Intel platforms, AMD&#39;s EXPO technology aims to do the same, but as an open standard with an emphasis on providing the best settings for AMD platforms.</p>
-
-<h2>AMD EXPO Technology: Like X.M.P, but Optimized for Ryzen 7000</h2>
-
-<p>The premise of AMD EXPO is that it will be a one-click DDR5 overclocking function for AM5 motherboards, and AMD claims that EXPO overclocked memory kits will offer up to 11% higher gaming performance at 1080p, although it hasn&#39;t quantified how it came to this figure. AMD did, however, state that it is expecting (at least) 15 kits of DDR5 memory with AMD EXPO at launch on September 27th, with rates of up to DDR5-6400.</p>
-
-<p>AMD EXPO, on the surface, is essentially an X.M.P profile specifically designed for AMD&#39;s Ryzen 7000 (Zen 4) processors. Although AMD hasn&#39;t gone into finer details on how it differs from X.M.P, beyond the fact that it will be royalty and licensing fee free.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17556/amd-expo-memory-one-click-overclocking-profiles-for-ryzen-7000-feat-gskill-and-corsair"><img alt="" src="https://images.anandtech.com/doci/17556/04-trident-z5-neo-2_575px.jpg" /></a><br />
-<em>G.Skill Trident Z5 Neo DDR5 memory with AMD EXPO certification</em></p>
-
-<p>It is worth noting that DDR5 memory with X.M.P profiles will be supported on Ryzen 7000 platforms. Still, AMD EXPO adds an additional layer of &#39;compatibility&#39; with AMD systems, as EXPO DIMMs will be optimized for use on AMD platforms (as opposed to X.M.P. kits chiefly being optimized for Intel platforms).</p>
-
-<p>AMD EXPO&nbsp;does have one&nbsp;caveat associated with it; AMD EXPO is classed as overclocking in AMD&#39;s own eyes, and according to its footnotes, it does void the warranty.</p>
-
-<p>The footnote on the <a href="https://www.amd.com/en/technologies/expo">AMD EXPO landing page</a> states as follows:</p>
-
-<p><em>Overclocking and/or undervolting AMD processors and memory, including without limitation, altering clock frequencies / multipliers or memory timing / voltage, to operate outside of AMD&#39;s published specifications will void any applicable AMD product warranty, even when enabled via AMD hardware and/or software. This may also void warranties offered by the system manufacturer or retailer. Users assume all risks and liabilities that may arise out of overclocking and/or undervolting AMD processors, including, without limitation, failure of or damage to hardware, reduced system performance and/or data loss, corruption or vulnerability. GD-106</em></p>
-
-<p>Similar to how Intel operates with X.M.P profiles being applied, using AMD EXPO will technically void the warranty, which seems odd given this is AMD&#39;s technology designed to offer adopters of Ryzen 7000 and AM5 an additional boost to performance through certification. When overclocking, doing so is always at the user&#39;s risk. Still, with a certification such as&nbsp;AMD EXPO offers, it seems a little odd that AMD is recommending optimized memory for its platform but also voids the processor&#39;s warranty.</p>
-
-<h3>AMD EXPO: 15 Different DDR5 Kits Available At Launch</h3>
-
-<p>As we previously mentioned, AMD says that there should be 15&nbsp;kits of DDR5 with support for AMD EXPO ready to launch when Ryzen 7000 is released on September 27th. Some of these kits include ADATA Caster RGB and Lancer RGB models, with GeiL EVO V models and Kingston Technology Fury Beast and RGB enabled models.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/17556/amd-expo-memory-one-click-overclocking-profiles-for-ryzen-7000-feat-gskill-and-corsair"><img alt="" src="https://images.anandtech.com/doci/17556/05-flare-x5-4_575px.jpg" /></a><br />
-<em>G.Skill Flare X5 Memory in black with AMD EXPO certification</em></p>
-
-<p>Corsair and G.Skill&nbsp;sent us information on what it is launching alongside Ryzen 7000 on September 27th. Starting with G.Skill, it announced three new kits of DDR5 for Ryzen 7000,&nbsp;including its Trident Z5 Neo RGB, regular Trident Z5 Neo, and the Flare X5 series. The flagship for its AMD EXPO memory is the Trident Z Neo, with four different varieties of DDR5-6000 set for launch, each with different latencies and capacities, as outlined in the table below.</p>
-
-<table border="0" style="text-align:center" width="100%">
-	<tbody>
-		<tr>
-			<td class="contentwhite" colspan="4">G.Skill AMD EXPO DDR5 Memory (as of 08/30)</td>
-		</tr>
-		<tr class="tgrey">
-			<td>Memory</td>
-			<td>Frequency</td>
-			<td>CL Timing</td>
-			<td>Capacity</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="1" rowspan="4">Trident Z5 Neo + RGB Neo</td>
-			<td colspan="1" rowspan="4">DDR5-6000</td>
-			<td>30-38-38-96</td>
-			<td>2 x 16 GB</td>
-		</tr>
-		<tr>
-			<td>30-40-40-96</td>
-			<td>2 x 32 GB</td>
-		</tr>
-		<tr>
-			<td>32-38-38-96</td>
-			<td>2 x 16 / 2 x 32 GB</td>
-		</tr>
-		<tr>
-			<td>36-36-36-96</td>
-			<td>2 x 16 GB</td>
-		</tr>
-		<tr>
-			<td class="tlgrey" colspan="1" rowspan="3">Flare X5</td>
-			<td colspan="1" rowspan="3">DDR5-5600</td>
-			<td>28-34-34-89</td>
-			<td colspan="1" rowspan="3">2 x 16 / 2 x 32 GB</td>
-		</tr>
-		<tr>
-			<td>30-36-36-89</td>
-		</tr>
-		<tr>
-			<td>36-36-36-89</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>The Trident Z5 Neo and RGB Neo share the same specifications, but the RGB version includes a customizable LED lightbar. The top SKU from G.Skill with AMD EXPO at launch will be the DDR5-6000 CL30-38-38-96 kit, which is available in capacities of 2 x 16 GB (32 GB). The Flare X5 replaces the older Flare X series for DDR4 and features a lower profile heatsink at just 33 mm tall; this makes it more compatible for users with space restrictions of large tower coolers that restrict larger and more aggressive heatsink designs such as the Trident Z5 Neo.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/17556/amd-expo-memory-one-click-overclocking-profiles-for-ryzen-7000-feat-gskill-and-corsair"><img alt="" src="https://images.anandtech.com/doci/17556/DOMINATOR_RGB_PLATINUM_GREY_DDR5_AMD_RENDER_08_575px.jpg" /></a><br />
-<em>New Corsair Dominator Platinum RGB DDR5 for AMD Ryzen 7000</em></p>
-
-<p>Focusing on what Corsair has announced for its AMD EXPO certified memory, it has two new varieties of DDR5 memory. This includes new premium Dominator Platinum RGB DDR5,&nbsp;Vengeance DDR5, and non-RGB enabled Vengeance DDR5, all designed specifically for AMD and Ryzen 7000. The top SKU from Corsair is the Dominator Platinum RGB 32 GB (2 x 16 GB) kit with speeds of DDR5-6000 and latencies of CL30-36-36-76. The Dominator Platinum RGB DDR5 memory for AMD EXPO will also be available in 64 GB (2 x 32 GB) kits, with speeds of DDR5-5600 CL36 and DDR5-5200 CL40 varieties.&nbsp;</p>
-
-<p>The Corsair Vengeance RGB with AMD EXPO profiles will reach up to DDR5-6000 CL30 but will also be available in&nbsp;DDR5-5600 CL36 and DDR5-5200 CL40. At the time of writing, the non-RGB enabled Vengeance for AM5 will max out at DDR5-5600 CL36, with options also available in DDR5-5200 CL40 in both 2 x 16 GB (32 GB) and 2 x 32 GB (64 GB) kits.</p>
-
-<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/8185" target="_blank">AMD EXPO Memory Kits</a><div><a href="https://www.anandtech.com/Gallery/Album/8185#1" target="_blank"><img src="https://images.anandtech.com/galleries/8185/01-gskill-ddr5-series-memory-ft-amd-expo_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8185#2" target="_blank"><img src="https://images.anandtech.com/galleries/8185/02-trident-z5-neo-rgb_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8185#3" target="_blank"><img src="https://images.anandtech.com/galleries/8185/03-trident-z5-neo-rgb-4_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8185#4" target="_blank"><img src="https://images.anandtech.com/galleries/8185/04-trident-z5-neo-2_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8185#5" target="_blank"><img src="https://images.anandtech.com/galleries/8185/05-flare-x5-4_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/8185#6" target="_blank"><img src="https://images.anandtech.com/galleries/8185/06-flare-x5-2_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
-
-<p>The AMD EXPO DDR5 memory kits will launch at the same time as AMD&#39;s Ryzen 7000 desktop processors and AMD X670E and X670 motherboards: September 27th. None of the memory vendors have provided us with any pricing at the time of writing.</p>
-
-<p>Source: <a href="https://www.amd.com/en/technologies/expo">AMD</a>, <a href="https://www.corsair.com/us/en/Categories/Products/Memory/c/Cor_Products_Memory?q=%3Afeatured%3AmemoryCompatibility%3AAMD%2B600%2BSeries%3AmemoryModel%3AVENGEANCE%2BDDR5&amp;text=&amp;pageSize=12#rotatingText">Corsair</a>, &amp;&nbsp;<a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3A4cx-PqdSw&amp;source=gmail-imap&amp;ust=1662427926000000&amp;usg=AOvVaw0SbxsPINUwgylXtohKApNB">G.Skill</a></p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17556/amd-expo-memory-one-click-overclocking-profiles-for-ryzen-7000-feat-gskill-and-corsair</link>
- 	<pubDate>Tue, 30 Aug 2022 15:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17556:news</guid>
- 	<category><![CDATA[ Memory]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Announces B650 Extreme Chipset for Ryzen 7000: PCIe 5.0 For Mainstream</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17554/amd-announces-b650e-chipset-for-ryzen-7000-pcie-5-0-for-mainstream"><img src="https://images.anandtech.com/doci/17554/AMD AM5 Socket Image_575px.JPG" alt="" /></a></p><p><p>Over the last couple of months, the rumor mill surrounding AMD&#39;s impending Ryzen 7000 processors for desktops has been in overdrive. Although&nbsp;Lisa Su unveiled Zen 4 back at CES 2022, it&#39;s been anticipated that the new AM5 platform would include multiple chipsets, much like AM4 has over 500+ motherboard lifespan from X370, X470, X570, and every chipset in between.</p>
-
-<p><a href="https://www.anandtech.com/show/17399/amd-ryzen-7000-announced-zen4-pcie5-ddr5-am5-coming-fall">AMD&nbsp;announced its X670E, X670, and B650 chipsets during the AMD Keynote at Computex 2022</a>, and this evening, AMD&nbsp;has announced a fourth chipset for Ryzen 7000, the&nbsp;B650E chipset. The B650E chipset will run alongside the already announced B650 chipset, but as it&#39;s part of AMD&#39;s &#39;Extreme&#39; series of chipsets, it will benefit from PCIe 5.0 lanes to at least one M.2 slot, as well as optional support for PCIe 5.0 to a PCIe graphics slot, features not available with standard B650 boards.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/17554/amd-announces-b650e-chipset-for-ryzen-7000-pcie-5-0-for-mainstream"><img alt="" src="https://images.anandtech.com/doci/17554/AMD%20AM5%20Socket_575px.JPG" /></a></p>
-
-<p>During<a href="https://www.anandtech.com/show/17399/amd-ryzen-7000-announced-zen4-pcie5-ddr5-am5-coming-fall">&nbsp;AMD&#39;s Keynote at Computex 2022, AMD&#39;s CEO Lisa Su unveiled three AM5 chipsets</a> designed to harness the power of its 5 nm Zen 4 cores within the Ryzen 7000 processors. We already knew the AM5 socket was based around a Lane Grid Array (LGA) socket with 1718 pins, aptly named LGA1718. Some of the significant benefits coming to AM5 include native PCIe 5.0 support from the CPU, not just for use with the PCIe slots, but also in the way of PCIe 5.0 storage, where the first consumer drives are expected to start rolling out in November 2022.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/17554/amd-announces-b650e-chipset-for-ryzen-7000-pcie-5-0-for-mainstream"><img alt="" src="https://images.anandtech.com/doci/17554/AMD%20AM5%20Socket%20B650%20Extreme_575px.JPG" /></a></p>
-
-<p>AMD&#39;s latest announcement of the B650E (Extreme) chipset gives motherboard vendors and users the option of a lower-cost platform but without sacrificing the longevity and expansion support of PCIe 5.0. The X670E chipset is reserved for its most premium models, such as the flagship <a href="https://www.anandtech.com/show/17407/computex-2022-asus-unveils-rog-crosshair-x670e-extreme-motherboard-for-ryzen-7000">ASUS ROG Crosshair X670E Extreme motherboard, unveiled at Computex 2022</a>.</p>
-
-<table border="0" style="text-align:center" width="90%">
-	<tbody>
-		<tr class="tgrey">
-			<td colspan="5">AMD AM5 Chipset Comparison</td>
-		</tr>
-		<tr class="tlblue">
-			<td width="34%">Feature</td>
-			<td width="22%">X670E</td>
-			<td width="22%">X670</td>
-			<td width="22%">B650E</td>
-			<td width="22%">B650</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">CPU PCIe (PCIe)</td>
-			<td>5.0 (Mandatory)<br />
-			2 x16 Slots</td>
-			<td>4.0<br />
-			(5.0 Optional)</td>
-			<td>5.0 (Highly Suggested)</td>
-			<td>4.0<br />
-			(5.0 Optional)</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">CPU PCIe (M.2 Slots)</td>
-			<td colspan="4">At Least 1 PCIe 5.0 Slot</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Total CPU PCIe Lanes</td>
-			<td colspan="4">24</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">SuperSpeed USB 20Gbps<br />
-			(USB 3.2 Gen 2x2)</td>
-			<td colspan="4">Up To 14</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">DDR5 Support</td>
-			<td colspan="4">Quad Channel (128-bit bus)<br />
-			Speeds TBD</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Wi-Fi 6E</td>
-			<td colspan="4">Yes</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">CPU Overclocking Support</td>
-			<td>Y</td>
-			<td>Y</td>
-			<td>Y</td>
-			<td>Y</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Memory Overclocking Support</td>
-			<td>Y</td>
-			<td>Y</td>
-			<td>Y</td>
-			<td>Y</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Available</td>
-			<td colspan="2">September 2022</td>
-			<td colspan="2">October 2022</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><em><strong>Update 08/31:</strong> We received a note from AMD PR this morning confirming that the B650/B650E series boards will support CPU overclocking. Our table has been updated accordingly</em></p>
-
-<p>Using PCIe 5.0 lanes requires a more premium PCB, usually with more layers which allows the tracks to keep signal integrity, but this typically adds cost. The existence of the B650E chipset will enable vendors to use more expensive PCIe 5.0 laning with more modest controller sets, which allow vendors to offset&nbsp;the cost.&nbsp;Ideally, it gives users a broader and more future-proof platform to upgrade with, but without breaking the bank on unnecessary&nbsp;controller sets; users wanting the best controller sets should opt for X670 or X670E.</p>
-
-<p>This ultimately means that AMD will have a mainstream platform that has PCIe 5.0 by default (B650E) and a lower-cost alternative with just PCIe 4.0 lanes to the PEG and M.2 slots. AMD is strongly prodding motherboard vendors to offer at least one PCIe 5.0 M.2 slot for storage on most of their boards, as this is one of the main benefits of AMD&#39;s AM5 platform.</p>
-
-<p><a href="https://www.anandtech.com/show/17550/amd-ryzen-7000-live-blog-7pm-et2300-utc#comments">As announced by AMD during its&nbsp;together we advance_PCs event</a>, the Ryzen 7000 processors for&nbsp;desktop will launch on September 27th, with both motherboards from the X670E and X670 chipsets. The motherboards featuring the B650E and B650 chipsets will be available to purchase at a later date in October.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17554/amd-announces-b650e-chipset-for-ryzen-7000-pcie-5-0-for-mainstream</link>
- 	<pubDate>Mon, 29 Aug 2022 19:35:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17554:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Details Ryzen 7000 Launch: Ryzen 7950X and More, Coming Sept. 27th</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>AMD&rsquo;s &quot;together we advance_PCs&rdquo;l ivestream presentation just wrapped up moments ago, where AMD CEO Dr. Lisa Su set the stage for the release of the next generation of AMD Ryzen desktop CPUs. Building off of AMD&rsquo;s Ryzen 7000 announcement back at Computex 2022, the eagerly anticipated presentation laid out AMD&rsquo;s launch plans for their first family of Zen 4 architecture-based CPUs, which will see AMD kick things off with a quartet of enthusiast-focused chips. Topping out with the 16 core Ryzen 9 7950X, AMD&rsquo;s Ryzen 7000 chips will be launching in just over 4 weeks&rsquo; time, on September 27<sup>th</sup>, with AMD expecting to handily retake the performance crown across virtually all categories of the PC CPU space, from gaming to content creation.</p>
-
-<p>Driving AMD&rsquo;s gains in this newest generation of desktop CPUs is a combination of architectural improvements underpinning the Zen 4 architecture, as well as moving production of the CPU core chiplets to TSMC&rsquo;s leading-edge 5nm process. The combination of which will allow AMD to deliver what they are saying is now a 13% increase in IPC over their Zen 3 architecture &ndash; up from an 11% claim as of Computex &ndash; as well as a sizable increase in CPU clockspeeds. The top-end Ryzen 9 7950X will have a maximum turbo clockspeed of 5.7GHz, 800MHz (16%) higher than the equivalent Ryzen 9 5950X. As a result, AMD expects to deliver a 29% generational increase in single-threaded performance, and even more in multi-threaded workloads.</p>
+					<description><![CDATA[<p>Some of the reporters are visibly caught off guard by their cats showing up at "work," while others play it off with ease. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/cats-interrupt-news/">Hilarious Compilation Video Shows Cats Interrupting Work-From-Home News Reporters</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7950x-coming-sept-27</link>
- 	<pubDate>Mon, 29 Aug 2022 19:30:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17552:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Ryzen 7000 &quot;together we advance_PCs” Live Blog (7pm ET/23:00 UTC)</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>At long last the date is here. AMD this evening will be broadcasting their &quot;together we advance_PCs&rdquo; event, which will be focused around the upcoming launch of their next-generation Ryzen 7000 processors.</p>
+										<content:encoded><![CDATA[<p>When the COVID-19 pandemic shut down the world back in 2020, companies and entire industries shifted to accommodate that. A large part of the changes that took place involved switching from working in person to working remotely from home. </p>
+<p>During the heat of the pandemic, even news reporters were forced to report from home. As you can imagine, they experienced some interruptions during their reports at times. </p>
+<figure id="attachment_425372" aria-describedby="caption-attachment-425372" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948.png" alt="" width="1000" height="813" class="size-full wp-image-425372" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231926.948-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425372" class="wp-caption-text">Photo: YouTube/News Be Funny</figcaption></figure>
+<p>People set up work spaces at home, but those with pets quickly learned that their furry friends <a href="https://blog.theanimalrescuesite.greatergood.com/twitter-pet-co-workers/?gg_medium=content&amp;gg_source=ars&amp;gg_term=612725&amp;gg_campaign=cats-interrupt-news&amp;gg_content=blog-link" rel="noopener" target="_blank">transformed from pets to co-workers</a>. One cat even got a playful <a href="https://blog.theanimalrescuesite.greatergood.com/hr-letter-to-cat/?gg_medium=content&amp;gg_source=ars&amp;gg_term=4028354&amp;gg_campaign=cats-interrupt-news&amp;gg_content=blog-link" rel="noopener" target="_blank">letter from HR for being disruptive</a>! </p>
+<p>While some people experienced animal-related disruptions that their co-workers had to witness, those in the news space got to share their interruptions with the public. </p>
+<figure id="attachment_425369" aria-describedby="caption-attachment-425369" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340.png" alt="" width="1000" height="813" class="size-full wp-image-425369" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231744.340-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425369" class="wp-caption-text">Photo: YouTube/News Be Funny</figcaption></figure>
+<p>In a hilarious <a href="https://www.youtube.com/watch?v=R6EFebizEKs" rel="noopener" target="_blank">compilation video</a>, you can see the best &#8220;work from home news cat bloopers.&#8221; </p>
+<p>In the video, you can see a variety of different clips from news segments where the reporters are stuck at home. In the clips, their pet cats make timely interruptions. Sometimes they even slyly photobomb in the background without being noticed (at least, not right away). </p>
+<p>Some of the reporters are visibly caught off guard by their cats showing up at &#8220;work,&#8221; while others play it off with ease. </p>
+<figure id="attachment_425371" aria-describedby="caption-attachment-425371" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359.png" alt="" width="1000" height="813" class="size-full wp-image-425371" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T231855.359-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425371" class="wp-caption-text">Photo: YouTube/News Be Funny</figcaption></figure>
+<p>Either way, I think it&#8217;s safe to say that the viewers at home enjoyed the unexpected feline guest stars on the news! </p>
+<p>Check out the video below:</p>
+<p><iframe loading="lazy" title="Best Cats Work From Home News Bloopers" width="500" height="281" src="https://www.youtube.com/embed/R6EFebizEKs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>Have you ever seen a pet interrupt news before? Let us know!</p>
+<p>Pledge to support National Adopt a Cat Month throughout June, July and beyond! <a href="https://theanimalrescuesite.greatergood.com/clicktogive/ars/petition/national-adopt-cat-month?gg_medium=content&amp;gg_source=ars&amp;gg_term=2838353&amp;gg_campaign=cats-interrupt-news&amp;gg_content=petition-link" rel="noopener" target="_blank">Pledge to Adopt and Change Cat Lives</a>!</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/cats-interrupt-news/">Hilarious Compilation Video Shows Cats Interrupting Work-From-Home News Reporters</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425374/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Gorgeous Tortoiseshell Cat Searching for Her Soulmate</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/tortoiseshell-emmy/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Thu, 20 Jul 2023 22:32:50 +0000</pubDate>
+				<category><![CDATA[Cat Rescues]]></category>
+		<category><![CDATA[Cats & Kittens]]></category>
+		<category><![CDATA[Inspire]]></category>
+		<category><![CDATA[Pet Buddies]]></category>
+		<category><![CDATA[Rescue Stories]]></category>
+		<category><![CDATA[adoptable pets]]></category>
+		<category><![CDATA[Cats]]></category>
+		<category><![CDATA[rescue cat]]></category>
+		<category><![CDATA[rescue pets]]></category>
+		<category><![CDATA[shelter pets]]></category>
+		<category><![CDATA[torties]]></category>
+		<category><![CDATA[tortoiseshell cats]]></category>
+		<category><![CDATA[Tucson]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425344</guid>
 
-<p>AMD first <a href="https://www.anandtech.com/show/17399/amd-ryzen-7000-announced-zen4-pcie5-ddr5-am5-coming-fall">unveiled their Ryzen 7000 platform and branding</a> back at Computex 2022, offering quite a few high-level details on the forthcoming consumer processor platform while stating it would be launching in the fall. The new CPU family will feature up to 16 Zen 4 cores using TSMC&#39;s optimized 5 nm manufacturing process for the Core Complex Die (CCD), and TSMC&rsquo;s 6nm process for the I/O Die (IOD). AMD has not disclosed a great deal about the Zen 4 architecture itself, though their Computex presentation has indicated we should expect a several percent increase in IPC, along with a further several percent increase in peak clockspeeds, allowing for a 15%+ increase in single-threaded performance.</p>
-
-<p>The Ryzen 7000 series is also notable for being the first of AMD&rsquo;s chiplet-based CPUs to integrate a GPU &ndash; in this case embedding it in the IOD. The modest GPU allows for AMD&rsquo;s CPUs to supply their own graphics, eliminating the need for a discrete GPU just to boot a system while, we expect, providing enough performance for basic desktop work.</p>
-
-<p>Tonight&#39;s presentation, in turn, should finally see AMD moving on to talking about launch details for the Ryzen 7000 CPUs and the associated AM5 platform. That should include performance expectations and a bit more on the motherboards. And, of course, information on the specific chip SKUs that will be hitting the market, including core configurations, clockspeeds, and prices. With any luck we may get a bit more on the Zen 4 architecture as well, as alongside CEO Dr. Lisa Su, CTO Mark Papermaster is slated to present part of the event.</p>
-
-<p>The event is set to kick off tonight, August 29<sup>th</sup>, at 7pm ET (23:00 UTC). So be sure to join us for our live blog coverage around the announcement of the next generation of AMD desktop CPUs.</p>
+					<description><![CDATA[<p>When Emmy is tuckered out, you can often find her sleeping just about anywhere, anytime, and in just about any position. It's just too darn cute!</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/tortoiseshell-emmy/">Gorgeous Tortoiseshell Cat Searching for Her Soulmate</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17550/amd-ryzen-7000-live-blog-7pm-et2300-utc</link>
- 	<pubDate>Mon, 29 Aug 2022 13:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17550:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The Cooler Master XG850 Plus Platinum PSU Review: Quality Plus RGB</title>
-    <dc:creator>E. Fylladitakis</dc:creator>    
-    <description><![CDATA[ <p>Today we are having a look at the new XG Plus Platinum series, the latest power supply family from prolific PC peripherals producer Cooler Master. Designed to offer a quality PSU with an extra dash of flair, the RGB fan (and RGB display) equipped XG Plus Platinum is a PSU that&#39;s not quite like anything else on the market. The XG family ranges from 650 to 850 Watts, and today we&#39;re evaluating the most powerful unit in the series, the 850W XG850 Plus Platinum.</p>
+										<content:encoded><![CDATA[<p>Meet Emmy, a super sweet feline who is now luxuriating in being an indoor kitty without a care in the world. The only problem is that her current accommodations are in a foster situation and she needs a forever home. While they have nothing but nice things to say about darling Emmy, they can&#8217;t keep her forever.</p>
+<h2>Rescue Cats</h2>
+<p>This petite young lady is 1.5 years old and is permanently finished with her mama duties and ready to be spoiled forever! Emmy is super sweet once she is trusting of you. She likes to be held, rubbed, get back scratches, and neck rubs. She is very loyal and has soulful eyes that speak directly to you. She also enjoys a good treat and meal, but what kitty doesn&#8217;t?! </p>
+<figure id="attachment_425351" aria-describedby="caption-attachment-425351" style="width: 563px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-2.jpeg" alt="adoptable cat" width="563" height="1000" class="size-full wp-image-425351" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-2.jpeg 563w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-2-190x338.jpeg 190w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-2-380x675.jpeg 380w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-2-95x169.jpeg 95w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425351" class="wp-caption-text"><a href="https://petlover.petstablished.com/pets/public/1715780?awo=Southern+Arizona+Cat+Rescue+&amp;widget=false" rel="noopener" target="_blank">Photo: SACatRescue</a></figcaption></figure>
+<h2>Adopting Shelter Pets</h2>
+<p>When Emmy is tuckered out, you can often find her sleeping just about anywhere, anytime, and in just about any position. It&#8217;s just too darn cute! And so is her distinctive tortoiseshell coat that makes her look like a little wild cat on the prowl. </p>
+<figure id="attachment_425353" aria-describedby="caption-attachment-425353" style="width: 564px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-1.0.jpg" alt="adoptable tortoiseshell cat" width="564" height="996" class="size-full wp-image-425353" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-1.0.jpg 564w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-1.0-191x338.jpg 191w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-1.0-382x675.jpg 382w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-1.0-96x169.jpg 96w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425353" class="wp-caption-text"><a href="https://petlover.petstablished.com/pets/public/1715780?awo=Southern+Arizona+Cat+Rescue+&amp;widget=false" rel="noopener" target="_blank">Photo: SACatRescue</a></figcaption></figure>
+<h2>Tortie Cats</h2>
+<p>What she needs now is a home of her own to sploot or curl up in and receive all the scritchies, treats, and love you can shower her with. Tortoiseshell cats can very much be attention seekers, so she might be perfect for anyone looking for a Velcro kitty. To date, Emmy has done well around others once in a routine. She can adapt to many lifestyles with slow, proper introductions, patience, and a safe smaller space to start her adaption to a new environment.</p>
+<figure id="attachment_425355" aria-describedby="caption-attachment-425355" style="width: 604px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-3.00.jpg" alt="adoptable tortoiseshell cat" width="604" height="1000" class="size-full wp-image-425355" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-3.00.jpg 604w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-3.00-204x338.jpg 204w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-3.00-408x675.jpg 408w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Emmy-3.00-102x169.jpg 102w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425355" class="wp-caption-text"><a href="https://petlover.petstablished.com/pets/public/1715780?awo=Southern+Arizona+Cat+Rescue+&amp;widget=false" rel="noopener" target="_blank">Photo: SACatRescue</a></figcaption></figure>
+<h2>Pick Me!</h2>
+<p>Emmy is spayed, current on her vaccines, dewormed, microchipped, and tested negative for FIV/FeLV. She is also house-trained and has no special needs. If you could give this sweet girl the forever home she deserves, or you know of someone who might want to, please fill out an <a href="https://petstablished.com/adoptions/personal-information?application_type=Adopt&amp;pet_id=1715780" rel="noopener" target="_blank">adoption application</a> on the Southern Arizona Cat Rescue website.</p>
+<p>If you have questions or concerns, you can reach out and contact them at (520) 200-1643 or by emailing adoption@sacatrescue.org. Please share Emmy&#8217;s story to help improve her chances of adoption.</p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/tortoiseshell-emmy/">Gorgeous Tortoiseshell Cat Searching for Her Soulmate</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425350/1200/627/image.jpg" type="image/jpg" />		</item>
+		<item>
+		<title>Labrador Receives $2,000 Reward For Helping Catch Fugitive Michael Burham</title>
+		<link>https://blog.theanimalrescuesite.greatergood.com/dog-catches-fugitive/</link>
+		
+		<dc:creator><![CDATA[The Animal Rescue Site]]></dc:creator>
+		<pubDate>Thu, 20 Jul 2023 19:16:43 +0000</pubDate>
+				<category><![CDATA[Dogs & Puppies]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cmshub.wpengine.com/?p=425329</guid>
+
+					<description><![CDATA[<p>A chocolate lab named Tucker is being credited with finding Burham and alerting his owners. </p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/dog-catches-fugitive/">Labrador Receives $2,000 Reward For Helping Catch Fugitive Michael Burham</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
 ]]></description>
-    <link>https://www.anandtech.com/show/17537/the-cooler-master-xg850-plus-platinum-psu-review</link>
- 	<pubDate>Thu, 25 Aug 2022 09:30:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17537:news</guid>
- 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Intel Kicks Off Fab Co-Investment Program with Brookfield: New Fabs to be Jointly Owned</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17541/intel-kicks-off-fab-coinvestment-program-with-brookfield"><img src="https://images.anandtech.com/doci/17541/intel_fab_semiconductor_in-arizona_575px.jpg" alt="" /></a></p><p><p>Intel this week introduced its new Semiconductor Co-Investment Program (SCIP) under which it will build new manufacturing facilities in collaboration with investment partners &ndash; a sharp departure from the company&#39;s traditional stance of wholly owning its logic fabs. As part of its SCIP initiative, Intel has already signed a deal with Brookfield Asset Management, which will provide Intel about $15 billion to build its fab new fab in Arizona in exchange for a 49% stake in the project. Furthermore, similar co-investment models are set to be used for other fabs in the future.</p>
-
-<h3>New Fabs Are Getting Costlier</h3>
-
-<p>When Intel announced plans to produce chips for other companies last year (and to a large degree become a contract maker of semiconductors), it marked a significant shift in the company&#39;s business strategy that required Intel to build new manufacturing capacity not only for itself, but for its future clients as well. But modern fabs are exceptionally expensive, as new manufacturing tools &mdash; such as contemporary extreme ultraviolet (EUV) lithography scanners &mdash; are prohibitively expensive, which makes it considerably harder for the company to execute on its&nbsp;<a href="https://www.anandtech.com/show/16573/intels-new-strategy-20b-for-two-fabs-meteor-lake-7nm-tiles-new-foundry-services-ibm-collaboration-return-of-idf">IDM 2.0 strategy</a>&nbsp;from capital point of view.&nbsp;</p>
-
-<p>To get sufficient capacity for its own products and for its fabless clients in the mid-term future, Intel had to engage into several capital-intensive projects: the $7.1 billion fab expansion in&nbsp;<a href="https://newsroom.intel.ie/news-releases/intel-shares-europes-2030-digital-ambition/#gs.9jlc1e">Ireland</a>&nbsp;(which has probably been completed); two new fabs &mdash; Fab 52 and Fab 62 &mdash; at its&nbsp;<a href="https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-intel-builds-arizona.html#gs.9jl6dm">Ocotillo site</a>&nbsp;near Chandler, Arizona that were expected to cost $20 billion; an all-new semiconductor production campus in Ohio that will need $20 billion initially and will be a size of a small town as well as will cost up to $100 when fully built; and an all-new production facility near Magdeburg, Germany (which will require an investment of &euro;17 billion).</p>
-
-<p>Intel is set to get billions in incentives from local authorities as well as subsidies from federal governments of the U.S. and Germany to build these fabs. But modern EUV-capable semiconductor production facilities cost about $10 billion (large gigafabs with a capacity of 100,000 wafer starts per month cost north from $20 billion), so financing these projects is particularly challenging even for Intel. Therefore, in a bid to build its new facilities in Arizona the company decided to engage into its co-investment program with Brookfield.&nbsp;</p>
-
-<h3>Intel to Maintain Majority Ownership</h3>
-
-<p>Under the terms of the deal, the two companies will co-invest $30 billion in the ongoing expansion of the site with Intel financing 51% and Brookfield backing 49% of the total project cost. Previously Intel planned to invest $20 billion in its Fab 52 and Fab 62, but together with Brookfield the sum has increased to $30 billion. In addition to getting access to additional funding, Intel could also take advantage of Brookfield&#39;s experience in developing infrastructure assets.</p>
-
-<p>By working together with Brookfield, Intel will get $15 billion in free cash flow and will be able to invest more into its new fabs without raising new debt. Also, this will allow Intel to invest more in other projects while &quot;continuing to fund a healthy and growing dividend.&quot; Meanwhile, the $15 billion benefit is &quot;expected to be accretive to Intel&rsquo;s earnings per share during the construction and ramp phase.&quot;</p>
-
-<p>Perhaps the key part of the announcement is the fact that Intel plans to sign similar deals with co-investors in the future, so expect its upcoming manufacturing capacity to be co-funded by others. Intel will retain majority ownership and operating control of its chip factories, but it will not own 100% of them. Previously the company rarely engaged into joint ventures, the most notable exceptions being IMFT, the company&#39;s NAND flash joint-venture with Micron, and participating in ASML&#39;s customer co-investment program from early 2010s.&nbsp;</p>
-
-<p>&quot;This landmark arrangement is an important step forward for Intel&rsquo;s Smart Capital approach and builds on the momentum from the recent passage of the CHIPS Act in the U.S.,&quot;&nbsp;said David Zinsner, Intel CFO.&nbsp;&quot;Semiconductor manufacturing is among the most capital-intensive industries in the world, and Intel&rsquo;s bold IDM 2.0 strategy demands a unique funding approach. Our agreement with Brookfield is a first for our industry, and we expect it will allow us to increase flexibility while maintaining capacity on our balance sheet to create a more distributed and resilient supply chain.&quot;</p>
-
-<p>Co-ownership of semiconductor manufacturing facilities is not something unheard of the industry. China&#39;s Semiconductor Manufacturing International Co. (SMIC) invests in new fabs together with local authorities of Chinese provinces as well as various asset management companies and/or investment banks (many of which are controlled by China&#39;s federal government). GlobalFoundries used to be co-owned by AMD and Mubadala before the latter acquired AMD&#39;s stake as the chip developer badly needed money. Yet, a co-investment program is something particularly new for Intel, which has always owned 100% of its manufacturing facilities. Ultimately, as it looks like as the semiconductor production is getting more expensive, there is a first time for anything.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17541/intel-kicks-off-fab-coinvestment-program-with-brookfield</link>
- 	<pubDate>Wed, 24 Aug 2022 16:30:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17541:news</guid>
- 	<category><![CDATA[ Semiconductors]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>ASUS Unveils Crosshair X670E Gene, Premium Micro-ATX AM5 Motherboard for Ryzen 7000</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/17540/asus-unveils-crosshair-x670e-gene-premium-micro-atx-am5-motherboard-for-ryzen-7000"><img src="https://images.anandtech.com/doci/17540/ASUS-ROG-X670E-Gene-Motherboard-2_575px.jpg" alt="" /></a></p><p><p>Over the years, multiple motherboards have captivated the market at various price points. Models like the Hero and the Formula are staples of ASUS&#39;s&nbsp;premium but popular ROG-themed offerings. One such series that was once the staple of ASUS&#39;s Intel models based on the micro-ATX form factor was the Gene, last seen in the days of Intel&#39;s 8th and 9th Gen Core series (2019). In what looks to be a resurrection of the Gene series&nbsp;for the&nbsp;release of AMD&#39;s Ryzen 7000 processors based on its latest 5nm&nbsp;Zen 4 microarchitecture, ASUS has announced that the Gene is back via the ROG Crosshair X670E Gene.&nbsp;</p>
-
-<p>Throughout the years, the ROG Gene series has been synonymous with highly premium micro-ATX offerings, and it looks as though the ASUS ROG Crosshair X670E Gene is no different this time. Some of the ROG Crosshair X670E Gene&#39;s main features include a full-length PCIe 5.0 x16 slot, one PCIe 4.0 x1 slot, and&nbsp;<span style="color: rgb(68, 68, 68);">a single PCIe 4.0 x4 M.2 slot.&nbsp;</span>ASUS includes another&nbsp;expansion slot next to the two DDR5 memory slots for an included ROG Gen-Z.2 M.2 add-in card with support for&nbsp;up to two PCIe 5.0 x4 M.2 drives.</p>
-
-<p>The ASUS ROG Crosshair X670E Gene will also feature a 16+2 phase power delivery with premium 110 A power stages, an Intel-based 2.5 GbE, and Wi-Fi 6E networking pairing, as well as support for USB 3.2 G2x2 with Quick Charge 4+ (60 W) capability. ASUS also states that it will also have rear panel USB4 support, although ASUS hasn&#39;t provided full specifications to us at this time.</p>
-
-<p>At the time of writing, ASUS hasn&#39;t revealed much for the ROG Crosshair X670E Gene, nor how much it is expected to cost or when it might hit retail shelves.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/17540/asus-unveils-crosshair-x670e-gene-premium-micro-atx-am5-motherboard-for-ryzen-7000</link>
- 	<pubDate>Tue, 23 Aug 2022 16:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,17540:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
-</item>  
-    
-</channel>
+										<content:encoded><![CDATA[<p>A Pennsylvania dog is being rewarded after playing a key role in catching fugitive Michael Burham.</p>
+<p>It all started when a chocolate Labrador mix named Tucker started barking at the edge of the yard.</p>
+<figure id="attachment_425331" aria-describedby="caption-attachment-425331" style="width: 1000px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787.png" alt="" width="1000" height="813" class="size-full wp-image-425331" data-srcset="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787.png 1000w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787-416x338.png 416w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787-830x675.png 830w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787-208x169.png 208w, https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2023/07/Untitled-design-2023-07-20T120328.787-768x624.png 768w" data-sizes="(min-width:1200px) 1200px, (min-width:992px) 992px, (min-width:768px) 768px, (min-width:576px) 480px, 300px" /><figcaption id="caption-attachment-425331" class="wp-caption-text">Photo: YouTube/JET24 FOX66 YourErie</figcaption></figure>
+<p>Ron and Cindy Ecklund immediately grew curious about what Tucker was barking at. Speaking with <a href="https://abcnews.go.com/US/meet-chocolate-labrador-arrest-fugitive-michael-burham/story?id=101340211" rel="noopener" target="_blank">ABC News</a>, Ron said: &#8220;Usually, if I call him, he comes right back to the house. He wouldn&#8217;t, so I said, &#8216;Cindy, let&#8217;s get on the golf cart.'&#8221;</p>
+<p>While the couple expected to find a fisherman or hiker near the creek along their property, they discovered someone else entirely: Michael Burham. </p>
+<p>As the couple approached the area of the woods where Tucker was barking, they spotted a man. Ron said: &#8220;Suddenly, this person stands up, and it&#8217;s Michael – I recognize him right away.&#8221; </p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v17.0" nonce="mqAuaBVs"></script></p>
+<div class="fb-post" data-href="https://www.facebook.com/crimewithbobby/posts/pfbid032jmZdCdunXFXaNe4uij4xhJe9uBEZfjePaRX8Qy8JkeSM9bgJJ3fPPF8N3jhJgubl" data-width="500">
+<blockquote cite="https://graph.facebook.com/100088886423003/posts/236380489334830/" class="fb-xfbml-parse-ignore">
+<p>Michael Burham, the inmate who escaped from Warren County PA Jail on July 6, which included a search over two states, has been taken into custody!#michaelburham #breakingnews</p>
+<p>Posted by <a href="https://www.facebook.com/crimewithbobby">Crime with Bobby</a> on&nbsp;<a href="https://graph.facebook.com/100088886423003/posts/236380489334830/">Saturday, July 15, 2023</a></p></blockquote>
+</div>
+<p>News outlets have been sharing photos of Burham, including pictures of tattoos, in hopes that he might be identified. </p>
+<p>Naturally, Cindy and Ron quickly fled the area, remembering warnings from police that Burham could be armed or dangerous. They called the authorities, and Burham was arrested shortly after. </p>
+<p>Tucker, along with Cindy and Ron, were awarded $2,000 for their help with the arrest. </p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v17.0" nonce="VUIqRjL6"></script></p>
+<div class="fb-post" data-href="https://www.facebook.com/adriana.loh/posts/pfbid0b5nLP5GnBXbPoTooRM5VXUfwUQ2osbQnh9Cajq5GikSrriA5XSTaMBfVeTF7nfGCl" data-width="500">
+<blockquote cite="https://graph.facebook.com/100002224442475/posts/6417263341691084/" class="fb-xfbml-parse-ignore">
+<p>Meet the dog who discovered an unwanted guest behind the home of Pennsylvania couple Ron and Cindy Ecklund.After the&#8230;</p>
+<p>Posted by <a href="#" role="button">Adriana Loh</a> on&nbsp;<a href="https://graph.facebook.com/100002224442475/posts/6417263341691084/">Sunday, July 16, 2023</a></p></blockquote>
+</div>
+<p>According to the <a href="https://www.nytimes.com/2023/07/15/us/michael-burham-prison-escape-caught-pennsylvania.html" rel="noopener" target="_blank">New York Times</a>, 34-year-old Burham was being held in the Warren County Jail in Pennsylvania on kidnapping, burglary and related charges. He was also a murder suspect in a homicide investigation. He&#8217;d been held in jail since May, but he escaped on July 6. </p>
+<p>He reportedly used exercise equipment to climb onto the roof of a building and shimmied down the roof using bedsheets he&#8217;d tied together. Police are still investigating whether or not Burham had help with the escape.</p>
+<p><iframe loading="lazy" title="Owners of dog who located Michael Burham getting rewarded" width="500" height="281" src="https://www.youtube.com/embed/veW9kYKeSZE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>The post <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com/dog-catches-fugitive/">Labrador Receives $2,000 Reward For Helping Catch Fugitive Michael Burham</a> appeared first on <a rel="nofollow" href="https://blog.theanimalrescuesite.greatergood.com">The Animal Rescue Site News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="http://drb960u7vv58y.cloudfront.net/resize/425332/1200/627/image.jpg" type="image/jpg" />		</item>
+	</channel>
 </rss>

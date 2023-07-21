@@ -49,7 +49,7 @@ Those four numbers are the X, Y, W, and H.
 ;====================================
 [MeterCHANGEME]
 Meter = Image
-ImageName = NameOfTheImage.png
+ImageName = "NameOfTheImage.png"
 X = (#SkinWidth# * 0.0)
 Y = (#SkinHeight# * 0.0)
 W = (#SkinWidth# * 0.1)
@@ -64,7 +64,8 @@ ImageName = #@#NameOfTheImage.png
 If you want to make the image not stretch
 PreserveAspectRatio = 1
 
-Color the image, change the 255s
+If you want to color the image, 
+add this line and change the 255s
 ImageTint = 255,255,255
 
 

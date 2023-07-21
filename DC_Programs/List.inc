@@ -21,7 +21,7 @@ dir4=C:\Desktop\Programs\Ultimaker Cura 4.13.0.lnk
 
 name5=Dilan
 img5=image (1).png
-dir5=http://game-u.com/accfriday			
+dir5=http://game-u.com/accvirtual			
 
 name6=Notepad++
 img6=Notepad_plus_plus.png
@@ -31,9 +31,9 @@ name7=GitHub
 img7=image.png
 dir7=C:\Users\Andy Banks\Desktop\GitHub Desktop.lnk			
 
-name8=
-img8=
-dir8=			
+name8=iCUE
+img8=1o4fzh55.bmp
+dir8=C:\ProgramData\Microsoft\Windows\Start Menu\Corsair\iCUE\iCUE.lnk			
 
 name9=
 img9=

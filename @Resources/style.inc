@@ -30,7 +30,9 @@ openEdit 	=F9
 ;highlight color
 	hlColor =0,4,255 		
 ;text color
-	txColor =170,170,170	
+	txColor =170,170,170
+;click color
+	clColor = 0,255,255
 ;white
 	white = 255,255,255
 ;Clear

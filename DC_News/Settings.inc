@@ -1,14 +1,14 @@
 [Variables]
 @include = #@#style.inc
-FeedNum =1
+FeedNum =4
 CurrentStory =1
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (131 * #scale#)
 InputSize = (18 * #scale#)
-SkinY = (160 * #scale#)
+SkinY = ((#SkinHeight# * 1.08) * #scale#)
 Feed1 =Tech
 Feed2 =NYT
-Feed3 =Netflix
+Feed3 =Google News
 Feed4 =Animals
 
 ScrollSpeed=1
