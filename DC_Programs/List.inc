@@ -49,7 +49,7 @@ dir11=
 
 name12=
 img12=	
-dir12=																				
+dir12=
 
 name13=
 img13=	
@@ -57,7 +57,7 @@ dir13=
 
 name14=
 img14=	
-dir14=																						
+dir14=
 
 name15=
 img15=	

@@ -1,6 +1,11 @@
+[Rainmeter]
+SkinWidth = #SkinWidth#
+SkinHeight = #SkinHeight#
+
 [Variables]
 @Include = Settings.inc
 @Include2 = List.inc
+@Include3 = #@#ScrollViewSettings.inc
 folderW = (#SkinWidth# * 0.07)
 folderH = (#SkinHeight# * 0.1)
 

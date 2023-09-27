@@ -81,7 +81,4 @@ dir19=
 
 name20=
 img20=
-dir20=																						
-
-dgdfgdfgdf=
-gdfgdfgdfg=
+dir20=

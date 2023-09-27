@@ -2,9 +2,9 @@
 SkinWidth = (#leftSize# * #scale#)
 SkinHeight = (#areaH# * 0.412)
 Settings = #CURRENTPATH#Settings.inc
-InputSize = (20 * * #scale#)
-Latitude =40.83021000
-Longitude=-73.68777850
+InputSize = (20 * #scale#)
+Latitude =40.22059440
+Longitude=-74.75972190
 DaySpacing = 0.2
 DayY = 0.50
 TempY = 0.85

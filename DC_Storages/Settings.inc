@@ -9,8 +9,7 @@ Row1 = (#SkinHeight# * 0.0)
 ;RowOffset is the space between each row:
 RowOffset = (#SkinHeight# * 0.25)
 
-
-TempX = (#SkinWidth# * 0.15)
+TempX = (#SkinWidth# * 0.07)
 
 BarX = (#SkinWidth# * 0.005)
 BarY = (#SkinHeight# * 0.2)
@@ -18,19 +17,25 @@ BarW = (#SkinWidth# * 0.99)
 BarH = (#SkinHeight# * 0.05) 
  
 FontSize = (17 * #scale#)
-UsedX = (#SkinWidth# * 1.0)
+UsedX = (#SkinWidth# * 0.93)
 
 disk1 = C:
-disk2 = F:
-disk3 = I:
-disk4 = X:
+disk2 = D:
+disk3 = X:
+disk4 =J:
+
+index1 =3
+index2 = 1
+index3 = 2
+index4 =0
 
 ;==================================================
 [MeasureTemp1]
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey = SOFTWARE\HWiNFO64\VSB
-RegValue = Value1
+RegValue = Value#index1#
+Substitute="C":"c"
 
 [MeasureUsed1]
 Measure=FreeDiskSpace
@@ -70,7 +75,8 @@ DynamicVariables=1
 Measure=Registry
 RegHKey=HKEY_CURRENT_USER
 RegKey = SOFTWARE\HWiNFO64\VSB
-RegValue = Value2
+RegValue = Value#index2#
+Substitute="C":"c"
 
 [MeasureUsed2]
 Measure=FreeDiskSpace
@@ -107,15 +113,11 @@ DynamicVariables=1
 
 ;==================================================
 [MeasureTemp3]
-Measure=Plugin
-Plugin=HWiNFO.dll
-HWiNFOSensorId=0xf0000100
-HWiNFOSensorInstance=0x0
-HWiNFOEntryId=0x0
-HWiNFOType=CurrentValue
-HWiNFOLogHandler=0
-UpdateDivider=1
-DynamicVariables=1
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey = SOFTWARE\HWiNFO64\VSB
+RegValue = Value#index3#
+Substitute="C":"c"
 
 [MeasureUsed3]
 Measure=FreeDiskSpace
@@ -152,15 +154,10 @@ DynamicVariables=1
 
 ;==================================================
 [MeasureTemp4]
-Measure=Plugin
-Plugin=HWiNFO.dll
-HWiNFOSensorId=0xf0000100
-HWiNFOSensorInstance=0x0
-HWiNFOEntryId=0x0
-HWiNFOType=CurrentValue
-HWiNFOLogHandler=0
-UpdateDivider=1
-DynamicVariables=1
+Measure=Registry
+RegHKey=HKEY_CURRENT_USER
+RegKey = SOFTWARE\HWiNFO64\VSB
+RegValue = Value#index4#
 
 [MeasureUsed4]
 Measure=FreeDiskSpace

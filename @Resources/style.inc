@@ -19,7 +19,7 @@ rightSide = 1005
 maxHeight = 680 
 font 	= Choco cooky
 stroke 	= 3
-openEdit 	=F9
+openEdit = F9
 
 
 
@@ -204,3 +204,9 @@ StringAlign=Center
 ClipString=1
 UpdateDivider=-1
 
+;=======================================
+; NumberMeasures
+;=======================================
+[Tlest]
+Measure = Calc
+Formula = 120

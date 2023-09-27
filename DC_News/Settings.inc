@@ -1,14 +1,14 @@
 [Variables]
 @include = #@#style.inc
 FeedNum =4
-CurrentStory =1
+CurrentStory =8
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (131 * #scale#)
 InputSize = (18 * #scale#)
 SkinY = ((#SkinHeight# * 1.08) * #scale#)
 Feed1 =Tech
 Feed2 =NYT
-Feed3 =Google News
+Feed3 =Science
 Feed4 =Animals
 
 ScrollSpeed=1
@@ -16,17 +16,35 @@ ScrollSpeed=1
 NewsX = (#SkinWidth# * 0.14)
 NewsHeight = (#SkinHeight# * 0.23)
 
-FeedBoxX = 0.74
+FeedBoxX = (#SkinWidth# * 0.74)
 FeedBoxY = 0.03
-FeedBoxSpacing = 0.05
+FeedBoxSpacing = (#SkinWidth#*0.05)
 
-StoryX = 0.5490
+StoryX = (#SkinWidth# * 0.5490)
 StoryY = 0.85
-StorySpacing = 0.05
+StorySpacing = (#SkinWidth# * 0.05)
+
+showStoryX = (#SkinWidth# * 0.1)
+showStoryY = (#SkinHeight# * 0.95)
+storyBoxBuffer = (#SkinWidth# * 0.1)
+largeBoxSize = (20 * #scale#)
 
 HoverColorNews= 0,0,255,64
 FeedMax=200
 
+LPicH = (#SkinHeight# * 0.45)
+LFeedBoxX = (#SkinHeight# * 0.1)
+lTopBarH = (#SkinHeight# * 0.1)
+LTitleY = (#SkinHeight# * 0.55)
+LTitleH = (#SkinHeight# * 0.4)
+LFeedFont = 25 * #scale#
+LFont = 38 * #scale#
+LFeedBoxW = (#SkinWidth# * 0.25)
+
+; FEED TESTER VARIABLES
+FeedName =
+FeedLink =
+FeedRSS = 
 ;=================================================================
 ;				METER STYLES
 ;=================================================================
@@ -35,8 +53,8 @@ FeedMax=200
 Text=c
 FontFace=Webdings
 FontSize=(10 * #scale#)
-FontColor=255,255,255
-X=(#SkinWidth# * #FeedBoxSpacing#)r
+FontColor=#white#
+StringAlign = Left
 Y=(#SkinHeight# * #FeedBoxY#) 
 AntiAlias=1
 MouseOverAction = [!SetOption #CURRENTSECTION# FontColor #Blue#][!Redraw]
@@ -45,36 +63,38 @@ MouseScrollUpAction=[!WriteKeyValue Variables FeedNum [NextFeed] Settings.inc][!
 MouseScrollDownAction=[!WriteKeyValue Variables FeedNum [PrevFeed] Settings.inc][!Refresh]
 
 [StyleFeedBoxLarge]
-Y=r
-H = 45
-StringAlign = Center
+X = (#SkinWidth# * 0.25)r
+Y = (#SkinHeight# * 0.025)
+H = #lTopBarH#
+FontSize=#LFeedFont#
+StringAlign = CenterTop
 AntiAlias=1
 
 [StyleStoryBox]
 Text=c
 FontFace=Webdings
 FontSize=(10 * #scale#)
-FontColor=#Gray#
-X=(#SkinWidth# * #StorySpacing#)r
+FontColor=#txColor#
 Y=(#SkinHeight# * #StoryY#)
 AntiAlias=1
-MouseOverAction = [!SetOption #CURRENTSECTION# FontColor #Blue#][!Redraw]
-MouseLeaveAction = [!SetOption #CURRENTSECTION# FontColor #Gray#][!Redraw]
+MouseOverAction = [!SetOption #CURRENTSECTION# FontColor #hlColor#][!Redraw]
+MouseLeaveAction = [!SetOption #CURRENTSECTION# FontColor #txColor#][!Redraw]
 MouseScrollUpAction=[!WriteKeyValue Variables CurrentStory [NextStory] DC_News_Variables.inc][!Refresh]
 MouseScrollDownAction=[!WriteKeyValue Variables CurrentStory [PrevStory] DC_News_Variables.inc][!Refresh]
 
 [StyleStoryBoxLarge]
 Text=c
 FontFace=Webdings
-FontSize=20
-FontColor=#Gray#
-X=50r
+FontSize=#largeBoxSize#
+FontColor=#txColor#
+X=#storyBoxBuffer#r
 Y=r
 AntiAlias=1
-MouseOverAction = [!SetOption #CURRENTSECTION# FontColor #Blue#][!Redraw]
-MouseLeaveAction = [!SetOption #CURRENTSECTION# FontColor #Gray#][!Redraw]
+MouseOverAction = [!SetOption #CURRENTSECTION# FontColor #hlColor#][!Redraw]
+MouseLeaveAction = [!SetOption #CURRENTSECTION# FontColor #txColor#][!Redraw]
 MouseScrollUpAction=[!WriteKeyValue Variables CurrentStory [NextStory] DC_News_Variables.inc][!Refresh]
 MouseScrollDownAction=[!WriteKeyValue Variables CurrentStory [PrevStory] DC_News_Variables.inc][!Refresh]
+DynamicVariables = 1
 
 
 [MeterFeedEdit]
@@ -83,6 +103,8 @@ W = #CURRENTCONFIGWIDTH#
 H = (#CURRENTCONFIGHEIGHT# * 0.2)
 ClipString = 1
 DynamicVariables = 1
+
+
 
 
 ;=================================================================
