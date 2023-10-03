@@ -1,17 +1,8 @@
-[Rainmeter]
-SkinWidth = #SkinWidth#
-SkinHeight = #SkinHeight#
-
 [Variables]
-@Include = Settings.inc
-@Include2 = List.inc
-@Include3 = #@#ScrollViewSettings.inc
 folderW = (#SkinWidth# * 0.07)
 folderH = (#SkinHeight# * 0.1)
 
-[Background]
-Meter = Shape
-MeterStyle = styleBG
+
 
 ;------------------------------------------------
 ;	White Outlines
@@ -176,3 +167,4 @@ StringAlign = Center
 DefaultValue=[#[#Variable]]
 Command1=[!WriteKeyValue Variables #Variable# "$UserInput$" "#ListDir#"][!Refresh]
 Hidden = (#Current# = 3) ? 1 : 0
+

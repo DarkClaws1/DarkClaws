@@ -1,5 +1,4 @@
 [Variables]
-
 SkinWidth = (#midSize# * #scale#)
 SkinHeight = (200 * #scale#)
 LEFTSIDE 	= "29.4, 41.2, 14.7, 14.7"
@@ -7,18 +6,18 @@ RIGHTSIDE 	= "23.4, 12, 19.4, 4.6, 23.7, 14.7"
 
 ;Paths
 ImgDir 		= #ROOTCONFIGPATH#\#Main#\Images
-ListDir 		= #ROOTCONFIGPATH#\#Main#\List.inc
-Settings = #CURRENTPATH#Settings.inc
+ListDir 	= #ROOTCONFIGPATH#\#Main#\List.inc
+Settings 	= #CURRENTPATH#Settings.inc
 
 ;PLACEMENT
 TitleHeight 	= 	(#SkinHeight# * 0.15)
 IconWidth		=	(#SkinWidth#  * 0.25)
-IconHeight	=	(#SkinHeight# * 0.85)
+IconHeight		=	(#SkinHeight# * 0.85)
 
 ;SCROLLING
 ScrollDivider	= 9.4
 OffsetX		= 0
-ScrollMultiplier=-0.96
+ScrollMultiplier=1
 ScrollLimit	= Min(#SkinWidth#, (#SkinWidth# + #IconWidth# * #Total# * -1))
 
 BufferX = 75

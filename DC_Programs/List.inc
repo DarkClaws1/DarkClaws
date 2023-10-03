@@ -63,7 +63,7 @@ name15=
 img15=	
 dir15=	
 
-name16=
+name16=TEST
 img16=	
 dir16=	
 

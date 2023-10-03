@@ -52,27 +52,27 @@ Text = [#name[#Select]]
 StringAlign = Center
 DynamicVariables = 1
 
-[MeterButton1]
-Meter = Image
-ImageName = #Btn1Name#.png
-X = (#SkinWidth# * 0.85)
-Y = (#SkinHeight# * 0.01)
-W = (#SkinWidth# * 0.075)
-H = (#SkinHeight# * 0.15)
-PreserveAspectRatio = 1
-ToolTipText = #Btn1Name#
-LeftMouseUpAction = !Execute["#Btn1Link#"]
+;[MeterButton1]
+;Meter = Image
+;ImageName = #Btn1Name#.png
+;X = (#SkinWidth# * 0.85)
+;Y = (#SkinHeight# * 0.01)
+;W = (#SkinWidth# * 0.075)
+;H = (#SkinHeight# * 0.15)
+;PreserveAspectRatio = 1
+;ToolTipText = #Btn1Name#
+;LeftMouseUpAction = !Execute["#Btn1Link#"]
 
-[MeterButton2]
-Meter = Image
-ImageName = #Btn2Name#.png
-X = (#SkinWidth# * 0.93)
-Y = (#SkinHeight# * 0.01)
-W = (#SkinWidth# * 0.075)
-H = (#SkinHeight# * 0.15)
-PreserveAspectRatio = 1
-ToolTipText = #Btn2Name#
-LeftMouseUpAction = !Execute["#Btn2Link#"]
+;[MeterButton2]
+;Meter = Image
+;ImageName = #Btn2Name#.png
+;X = (#SkinWidth# * 0.93)
+;Y = (#SkinHeight# * 0.01)
+;W = (#SkinWidth# * 0.075)
+;H = (#SkinHeight# * 0.15)
+;PreserveAspectRatio = 1
+;ToolTipText = #Btn2Name#
+;LeftMouseUpAction = !Execute["#Btn2Link#"]
 
 ;----------------------------------------------------------
 ;		Program ICONS
