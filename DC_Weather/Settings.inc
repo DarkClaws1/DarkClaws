@@ -3,8 +3,8 @@ SkinWidth = (#leftSize# * #scale#)
 SkinHeight = (#areaH# * 0.412)
 Settings = #CURRENTPATH#Settings.inc
 InputSize = (20 * #scale#)
-Latitude =40.22059440
-Longitude=-74.75972190
+Latitude =40.82570720
+Longitude=-73.69580690
 DaySpacing = 0.2
 DayY = 0.50
 TempY = 0.85
@@ -27,9 +27,9 @@ URLSite=https://api.weather.com/v3/aggcommon/v3-wx-observations-current;v3-wx-fo
 
 [styleLocationOption]
 MeasureName=MeasureDescription#CURRENTSECTION#
-X = (#CURRENTCONFIGWIDTH# * 0.03)
-W = (#CURRENTCONFIGWIDTH# * 1.0)
-H = 30
+X = (#SkinWidth# * 0.03)
+Y = #OptionSpacing#r
+W = #SkinWidth#
 ClipString = 1
 LeftMouseUpAction = [!WriteKeyValue Variables Latitude "[MeasureLatitude#CURRENTSECTION#:8]" "#VarPathLoc#"][!WriteKeyValue Variables Longitude "[MeasureLongitude#CURRENTSECTION#:8]" "#VarPathLoc#"][!RefreshGroup "Map"][!ActivateConfig #CURRENTCONFIG# "[MeasureConfig].ini"]
 DynamicVariables = 1

@@ -35,17 +35,17 @@ name8=iCUE
 img8=1o4fzh55.bmp
 dir8=C:\ProgramData\Microsoft\Windows\Start Menu\Corsair\iCUE\iCUE.lnk			
 
-name9=
-img9=
-dir9=
+name9=LD Player
+img9=Untitled.jpg
+dir9=C:\Users\Andy Banks\Desktop\Dark Money\LDPlayer9.lnk
 
-name10=
-img10=
-dir10=	
+name10=Memu
+img10=507a6965f32d702499488a7392af9a4b.png
+dir10=C:\Users\Andy Banks\Desktop\Dark Money\MEmu.lnk	
 
-name11=
-img11=
-dir11=	
+name11=Google Remote Desktop
+img11=image (3).png
+dir11=https://remotedesktop.google.com/support/?pli=1	
 
 name12=
 img12=	

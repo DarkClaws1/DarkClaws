@@ -1,11 +1,12 @@
 [Variables]
 @include = #@#style.inc
-FeedNum =4
-CurrentStory =1
+Settings = #CURRENTPATH#Settings.inc
+FeedNum =3
+CurrentStory =3
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (131 * #scale#)
 InputSize = (18 * #scale#)
-SkinY = ((#SkinHeight# * 1.08) * #scale#)
+SkinY =0.395
 Feed1 =Tech
 Feed2 =NYT
 Feed3 =Science

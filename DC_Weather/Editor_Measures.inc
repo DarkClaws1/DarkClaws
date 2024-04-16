@@ -4,12 +4,12 @@ Get=(?(?=.*"lat":).*"lat":"(.*)",.*"lon":"(.*)",.*"display_name":"(.*)")
 VarPathLoc=#CURRENTPATH#Settings.inc
 
 [MeasureLocations]
-Measure=Plugin
-Plugin=WebParser
-URL="https://nominatim.openstreetmap.org/search.php?q=#Loc#&format=json&addressdetails=0"
-Header="Accept-Language: #LocaleName#"
+Measure=WebParser
+URL=https://nominatim.openstreetmap.org/search.php?q=#Loc#&format=json&addressdetails=0
+;Header="Accept-Language: #LocaleName#"
 RegExp=(?siU)#Get##Get##Get##Get##Get#
-LogSubstringErrors=0
+;LogSubstringErrors=0
+UserAgent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
 DynamicVariables=1
 Disabled = 1
 
@@ -18,6 +18,7 @@ Measure=Plugin
 Plugin=WebParser
 URL=[MeasureLocations]
 StringIndex=1
+
 
 [MeasureLongitude1]
 Measure=Plugin

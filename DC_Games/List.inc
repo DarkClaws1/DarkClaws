@@ -11,13 +11,13 @@ name2=WWH
 img2=v15mjyem.bmp
 dir2=C:\Users\Andy Banks\Desktop\World War Heroes.lnk	
 
-name3=Mech Arena
-img3=8tr4vi7j.bmp
-dir3=C:\Users\Andy Banks\Desktop\Mech Arena.lnk
+name3=Cyberpunk 2077
+img3=cyberpunk_2077_icon_by_s7_by_sidyseven_d60opl7-fullview.png
+dir3=C:\Users\Andy Banks\Desktop\Cyberpunk 2077.url
 
-name4=
-img4=
-dir4=D:\World of Warcraft\World of Warcraft Launcher.exe			
+name4=WoW
+img4=256x256.png
+dir4=C:\Users\Public\Desktop\World of Warcraft.lnk			
 
 name5=
 img5=
