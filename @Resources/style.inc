@@ -103,7 +103,7 @@ DynamicVariables = 1
 
 [imageHighlight]
 MouseOverAction = [!SetOption #CURRENTSECTION# ImageTint #hlColor#]
-MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint 255,255,255]
+MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #white#]
 
 [MeasureConfig]
 Measure = String
