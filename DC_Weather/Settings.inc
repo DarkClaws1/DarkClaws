@@ -20,7 +20,7 @@ Units=e
 UpdateRate=600
 DateFormat=%A, %B %#d, %Y
 TimeFormat=%#I:%M %p
-APIKey=21d8a80b3d6b444998a80b3d6b1449d3
+APIKey=71f92ea9dd2f4790b92ea9dd2f779061
 UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
 CommonSubstitute='"':"","^null$":"","\\u002F":"/","\\u005C":"\","\\u003C":"<","\\u003E":">"
 URLSite=https://api.weather.com/v3/aggcommon/v3-wx-observations-current;v3-wx-forecast-daily-15day;v3alertsHeadlines;v3-location-point?format=json&geocode=#Latitude#,#Longitude#&units=#Units#&language=#Language#&apiKey=#APIKey#

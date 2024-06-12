@@ -22,7 +22,6 @@ stroke 	= 3
 openEdit = F9
 
 
-
 ;background color
 	bgColor =0,0,0
 ;outline color
@@ -120,12 +119,25 @@ LeftMouseUpAction= [!ActivateConfig #CURRENTCONFIG# "[MeasureConfig].ini"]
 DynamicVariables=1
 
 [Settings]
-W=(17 * #scale#)
-H=(17 * #scale#)
+W=(#SkinWidth# * 0.05)
+ImageTint = #txColor#
 ImageName=#@#/Icons/Settings
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# ImageTint #clColor#]
 LeftMouseUpAction=!Execute  [!ActivateConfig "#CURRENTCONFIG#" "Editor.ini"]
-MouseOverAction =  [!SetOption #CURRENTSECTION# ImageTint #0,0,255#]
-MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #White#]
+MouseOverAction =  [!SetOption #CURRENTSECTION# ImageTint #hlColor#]
+MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #txColor#]
+PreserveAspectRatio = 1
+
+[Bordered]
+FontColor = #bgColor#
+StringEffect = Border
+FontEffectColor = #white#
+FontWeight =950
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# FontColor #clColor#]
+MouseOverAction  =[!SetOption #CURRENTSECTION# FontColor #hlColor#]
+MouseLeaveAction =[!SetOption #CURRENTSECTION# FontColor #bgColor#]
+LeftMouseUpAction =[!SetOption #CURRENTSECTION# FontColor #bgColor#]
+
 
 [StyleWhiteText]
 FontColor=#SolidWhite#
@@ -168,25 +180,6 @@ SolidColor=#Transparent#
 Group=Sense
 UpdateDivider=-1
 
-[StyleHDSelect]
-X=1R
-Y=0r
-W=22
-H=22
-Hidden=1
-SolidColor=#TransparentWhite3#
-AntiAlias=1
-Group=HDSelect
-FontFace=Segoe UI
-FontSize=12
-FontColor=#SolidWhite#
-StringAlign=Center
-ClipString=1
-LeftMouseDownAction=[!SetOption #CURRENTSECTION# SolidColor #TransparentWhite1#][!UpdateMeter #CURRENTSECTION#]
-LeftMouseUpAction=[!SetOption #CURRENTSECTION# SolidColor #TransparentWhite2#][!WriteKeyValue Variables Disk #CURRENTSECTION# #CoreFilePath#][!Refresh]
-MouseOverAction=[!SetOption #CURRENTSECTION# SolidColor #TransparentWhite2#][!UpdateMeter #CURRENTSECTION#]
-MouseLeaveAction=[!SetOption #CURRENTSECTION# SolidColor #TransparentWhite3#][!UpdateMeter #CURRENTSECTION#]
-UpdateDivider=-1
 
 [StyleHDOff]
 X=1R

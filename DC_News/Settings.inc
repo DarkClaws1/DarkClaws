@@ -1,8 +1,8 @@
 [Variables]
 @include = #@#style.inc
 Settings = #CURRENTPATH#Settings.inc
-FeedNum =3
-CurrentStory =3
+FeedNum =1
+CurrentStory =8
 SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (131 * #scale#)
 InputSize = (18 * #scale#)
@@ -12,7 +12,7 @@ Feed2 =NYT
 Feed3 =Science
 Feed4 =Animals
 
-ScrollSpeed=1
+ScrollSpeed=10
 
 NewsX = (#SkinWidth# * 0.14)
 NewsHeight = (#SkinHeight# * 0.23)

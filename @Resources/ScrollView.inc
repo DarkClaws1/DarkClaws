@@ -1,5 +1,5 @@
 [Rainmeter]
-OnRefreshAction=[!EnableMeasure "SmoothTransition"][!ShowMeterGroup "Icons"][!HideMeterGroup "Warning"]
+OnRefreshAction=[!ShowMeterGroup "Icons"][!HideMeterGroup "Warning"]
 Update=0
 SkinWidth=#SkinWidth#
 SkinHeight=#SkinHeight#
@@ -20,12 +20,6 @@ ContextAction6		=[!SkinMenu]
 ContextTitle7 		= Settings.inc
 ContextAction7		= ["#Settings#"]
 
-
-[Variables]
-@Include = #@#style.inc
-@Include1= Settings.inc
-@Include2= List.inc
-;@Include3 = Warning.inc is at the end
 
 ;EDITING
 Select		=	0
@@ -51,6 +45,7 @@ X = (#SkinWidth#/2)
 Text = [#name[#Select]]
 StringAlign = Center
 DynamicVariables = 1
+Hidden = 1
 
 ;[MeterButton1]
 ;Meter = Image
@@ -242,6 +237,3 @@ Meter=Shape
 Shape=Rectangle 0, 200, #SkinWidth# , 10, 2 | Fill Color 0,0,0,150 | StrokeWidth 0
 Shape2=Rectangle (([SmoothScroll])*(#SkinWidth#)/(#ScrollLimit#-#SkinWidth#)), 200, (-1 * #SkinWidth# * (#SkinWidth#/(#ScrollLimit#-#SkinWidth#))), 10 | Fill Color #hlColor#,255 | StrokeWidth 1 | Stroke Color #olColor#
 DynamicVariables=1
-
-
-@Include4 = Warning.inc

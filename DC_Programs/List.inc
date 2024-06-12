@@ -48,37 +48,37 @@ img11=image (3).png
 dir11=https://remotedesktop.google.com/support/?pli=1	
 
 name12=
-img12=	
+img12=empty
 dir12=
 
 name13=
-img13=	
+img13=empty
 dir13=	
 
 name14=
-img14=	
+img14=empty
 dir14=
 
 name15=
-img15=	
+img15=empty
 dir15=	
 
 name16=TEST
-img16=	
+img16=empty
 dir16=	
 
 name17=
-img17=	
+img17=empty
 dir17=	
 
 name18=
-img18=	
+img18=empty
 dir18=	
 
 name19=
-img19=
+img19=empty
 dir19=	
 
 name20=
-img20=
+img20=empty
 dir20=																						
