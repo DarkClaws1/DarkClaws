@@ -16,6 +16,725 @@
 
     
 <item>
+    <title>NVIDIA Closes Above $135, Becomes World’s Most Valuable Company</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21453/nvidia-closes-above-135-dollars-becomes-worlds-most-valuable-company"><img src="https://images.anandtech.com/doci/21453/NVDA_575px.png" alt="" /></a></p><p><p>Thanks to the success of the burgeoning market for AI accelerators, NVIDIA has been on a tear this year. And the only place that&rsquo;s even more apparent than the company&rsquo;s rapidly growing revenues is in the company&rsquo;s stock price and market capitalization. After breaking into the top 5 most valuable companies only earlier this year, NVIDIA has reached the apex of Wall Street, closing out today as the world&rsquo;s most valuable company.</p>
+
+<p>With a closing price of $135.58 on a day that saw NVIDIA&rsquo;s stock pop up another 3.5%, NVIDIA has topped both Microsoft and Apple in valuation, reaching a market capitalization of $3.335 trillion. This follows a rapid rise in the company&rsquo;s stock price, which has increased by 47% in the last month alone &ndash; particularly on the back of NVIDIA&rsquo;s most recent estimates-beating earnings report &ndash; as well as a recent 10-for-1 stock split. And looking at the company&rsquo;s performance over a longer time period, NVIDIA&rsquo;s stock jumped a staggering 218% over the last year, or a mere 3,474% over the last 5 years.</p>
+
+<p>NVIDIA&rsquo;s ascension continues a trend over the last several years of tech companies all holding the top spots in the market capitalization rankings. Though this is the first time in quite a while that the traditional tech leaders of Apple and Microsoft have been pushed aside.</p>
+
+<table border="0" style="text-align:center" width="75%">
+	<tbody>
+		<tr class="tgrey">
+			<td colspan="3">Market Capitalization Rankings</td>
+		</tr>
+		<tr class="tlblue">
+			<td>&nbsp;</td>
+			<td>Market Cap</td>
+			<td s="">Stock Price</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>NVIDIA</strong></td>
+			<td>$3.335T</td>
+			<td>$135.58</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Microsoft</strong></td>
+			<td>$3.317T</td>
+			<td>$446.34</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Apple</strong></td>
+			<td>$3.285T</td>
+			<td>$214.29</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Alphabet</strong></td>
+			<td>$2.170T</td>
+			<td>$176.45</td>
+		</tr>
+		<tr>
+			<td class="tlgrey"><strong>Amazon</strong></td>
+			<td>$1.902T</td>
+			<td>$182.81</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Driving the rapid growth of NVIDIA and its market capitalization has been demand for AI accelerators from NVIDIA, particularly the company&rsquo;s <a href="https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory">server-grade H100, H200, and GH200 accelerators</a> for AI training. As the demand for these products has spiked, NVIDIA has been scaling up accordingly, repeatedly beating market expectations for how many of the accelerators they can ship &ndash; and what price they can charge. And despite all that growth, orders for NVIDIA&rsquo;s high-end accelerators are still backlogged, underscoring how NVIDIA still isn&rsquo;t meeting the full demands of hyperscalers and other enterprises.</p>
+
+<p>Consequently, NVIDIA&rsquo;s stock price and market capitalization have been on a tear on the basis of these future expectations. With a price-to-earnings (P/E) ratio of 76.7 &ndash; more than twice that of Microsoft or Apple &ndash; NVIDIA is priced more like a start-up than a 30-year-old tech company. But then it goes without saying that most 30-year-old tech companies aren&rsquo;t tripling their revenue in a single year, placing NVIDIA in a rather unique situation at this time.</p>
+
+<p>Like the stock market itself, market capitalizations are highly volatile. And historically speaking, it&rsquo;s far from guaranteed that NVIDIA will be able to hold the top spot for long, never mind day-to-day fluctuations. NVIDIA, Apple, and Microsoft&rsquo;s valuations are all within $50 billion (1.%) of each other, so for the moment at least, it&rsquo;s still a tight race between all three companies. But no matter what happens from here, NVIDIA gets the exceptionally rare claim of having been the most valuable company in the world at some point.</p>
+
+<p>(<em>Carousel image courtesy MSN Money</em>)</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21453/nvidia-closes-above-135-dollars-becomes-worlds-most-valuable-company</link>
+ 	<pubDate>Tue, 18 Jun 2024 17:40:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21453:news</guid>
+ 	<category><![CDATA[ GPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Extreme PSUs Incoming: Enermax, Leadex, and Seasonic at Up to 2800W</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img src="https://images.anandtech.com/doci/21451/IMG_1081-678_575px.jpg" alt="" /></a></p><p><p>Just several years ago, we were impressed to witness a 2,000W power supply for mining systems at Computex. But with arrival or AMD&#39;s Ryzen Threadripper WX and Intel&#39;s Xeon W-3400-series &ndash; CPUs that can devour all the way to 900W under heavy loads &ndash; as well as NVIDIA&#39;s GeForce RTX 4090 graphics cards (or, well, H100 PCIe for AI), 2,000W PSUs are no longer entirely overkill. As new processors have raised the bar on power consumption, so has the bar been raised on PSUs themselves. as evidenced by this year&#39;s show, with several power supply manufacturers showing off new extreme PSU designs that go as high as 2,800W.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_0704_575px.jpg" /></a></p>
+
+<p>To that end, I will begin the story from the least &#39;extreme&#39; PSU that I saw at Computex and this is <b>Seasonic&#39;s Prime PX-2200 80+ Platinum-badged ATX 3 PSU</b>. The unit handled a custom-built AMD Ryzen Threadripper Pro 7995WX-based PC with 256 GB DDR5-4800 memory and four Gigabyte GeForce RTX 4090 graphics cards without breaking a sweat at the trade show.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_0728_575px.jpg" /></a></p>
+
+<p>It is noteworthy that the Prime PX-2200 has only one 16-pin 12V-2x6 power connector for graphics cards, so Seasonic used adapters to power three out of four RTX 4090 boards.</p>
+
+<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/9492" target="_blank">Seasonic's Prime PX-2200 ATX 3 PSU</a><div><a href="https://www.anandtech.com/Gallery/Album/9492#1" target="_blank"><img src="https://images.anandtech.com/galleries/9492/IMG_0704_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9492#2" target="_blank"><img src="https://images.anandtech.com/galleries/9492/IMG_0703_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9492#3" target="_blank"><img src="https://images.anandtech.com/galleries/9492/IMG_0726_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9492#4" target="_blank"><img src="https://images.anandtech.com/galleries/9492/IMG_0727_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9492#5" target="_blank"><img src="https://images.anandtech.com/galleries/9492/IMG_0728_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_0173_575px.jpg" /></a></p>
+
+<p>Moving on to a more powerful PSU, which is <b>Enermax&#39;s Platimax 2400W 80+ Platinum-rated ATX 3.1 </b>power supply. This one has two 12V-2&times;6 auxiliary power connectors for graphics cards, which is more than enough for an extreme gaming system. Enermax did not showcase this one in action at Computex, perhaps, because it is almost half of a year away and yet has to pass all the necessary tests.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_0172_575px.jpg" /></a></p>
+
+<p>The Enermax Platimax 2400W is set to enter mass production this December and will be available for $499, according to the company.</p>
+
+<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/9491" target="_blank">Enermax's Platimax 2400W ATX 3.1 PSU</a><div><a href="https://www.anandtech.com/Gallery/Album/9491#1" target="_blank"><img src="https://images.anandtech.com/galleries/9491/IMG_0168_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9491#2" target="_blank"><img src="https://images.anandtech.com/galleries/9491/IMG_0169_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9491#3" target="_blank"><img src="https://images.anandtech.com/galleries/9491/IMG_0172_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9491#4" target="_blank"><img src="https://images.anandtech.com/galleries/9491/IMG_0173_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_1080_575px.jpg" /></a></p>
+
+<p>But what is 2,400W, if you can get all 2,800W? Well, <b>Super Flower&#39;s Leadex SF-2800F14HP 80+ Platinum-badged ATX 3.1 PSU</b> can deliver 2,800W to a high-performance CPU and four graphics cards over five voltage rails. This power supply is well beyond what even a high-end desktop needs, and seems aimed more at workstation-style AI systems for research or on-prem inference. This one is expected to be available later this year for around $599, according to a representative at the booth.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w"><img alt="" src="https://images.anandtech.com/doci/21451/IMG_1077_575px.jpg" /></a></p>
+
+<p><div>Gallery: <a href="https://www.anandtech.com/Gallery/Album/9493" target="_blank"> Super Flower Leadex SF-2800F14HP ATX 3.1 PSU</a><div><a href="https://www.anandtech.com/Gallery/Album/9493#1" target="_blank"><img src="https://images.anandtech.com/galleries/9493/IMG_1076_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9493#2" target="_blank"><img src="https://images.anandtech.com/galleries/9493/IMG_1077_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9493#3" target="_blank"><img src="https://images.anandtech.com/galleries/9493/IMG_1079_thumb.jpg" width="85" height="85" border="0"/></a><a href="https://www.anandtech.com/Gallery/Album/9493#4" target="_blank"><img src="https://images.anandtech.com/galleries/9493/IMG_1080_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+
+<p>It goes without saying that these extreme power supplies have a rather limited market. Not only because of the small base of systems that could ever need a PSU that could be measured as a multiple of horsepower (745W), but also because of outright mains compatibility &ndash; the standard US 15A/120V outlet can&#39;t drive much more than a 1600W PSU. So power supplies like these are only readily usable in Europe, and in locations in the US with non-standard outlets. Then again, if you need a 2,800W PSU, you can probably afford the electrician needed to get one wired up.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21451/extreme-psus-incoming-enermax-leadex-and-seasonic-at-up-to-2800w</link>
+ 	<pubDate>Tue, 18 Jun 2024 11:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21451:news</guid>
+ 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>DeepCool Adds Vapor Chamber to an Air Cooler: AIO-Like Performance at Air Cooler Reliability</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability"><img src="https://images.anandtech.com/doci/21450/IMG_1027-678_575px.jpg" alt="" /></a></p><p><p>While the market for high-end CPU coolers has decidedly shifted towards closed-loop all-in-one liquid coolers over the last several years, air cooling remains alive and well. Even at the high-end, there are still further improvements and innovations being made, such as DeepCool&#39;s vapor chamber-based tower cooler, which was demonstrated at Computex.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability"><img alt="" src="https://images.anandtech.com/doci/21450/IMG_1018-compact-base_575px.jpg" /></a></p>
+
+<p>Named the Assassin IV VC Vision, DeepCool&#39;s design is an advanced concept vehicle that equips a tower cooled with both a vapor chamber in the base as well as has an LCD pad on top for extra flourish. The vapor chamber is said to increase the cooling capacity by 20W, adding a bit more of an edge to an already very powerful tower cooler design.</p>
+
+<p>While we expect this one to come to market eventually, don&#39;t be surprised if both vapor chamber and the screen to land on other products together or separately. For example, the massive DeepCool Assassin IV VC Vision has a more compact brother that has a screen and a vapor chamber.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability"><img alt="" src="https://images.anandtech.com/doci/21450/IMG_1020-scr_575px.jpg" /></a></p>
+
+<p>The unit builds on top of the already monstrous <a href="https://www.deepcool.com/products/Cooling/cpuaircoolers/Assassin-IV-Premium-CPU-Air-Cooler-1700-AM5/2023/17129.shtml">DeepCool Assassin IV</a> that comes with seven 0.6-mm heat pipes and can mount up to three 120/140mm fans, depending on installation (one is magnetically attached). With a weight of 1.575 kilograms &ndash; almost entirely copper and aluminum &ndash; this one is already good enough to cool down even the highest-performing CPUs.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability"><img alt="" src="https://images.anandtech.com/doci/21450/IMG_1026-compact_575px.jpg" /></a></p>
+
+<p>DeepCool is currently trying to figure out recommended pricing for its Assassin IV VC Vision cooler, but the original Assassin IV costs <a href="https://target.georiot.com/Proxy.ashx?tsid=45726&amp;GR_URL=https%3A%2F%2Famazon.com%2FDeepCool-Assassin%2Fdp%2FB0CC2QNF73%3Ftag%3Dhawk-future-20%26ascsubtag%3Danandtech-us-2038795906289287965-20">$99.99</a>, so expect the unit with a vapor chamber and a screen to build on top of that.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability"><img alt="" src="https://images.anandtech.com/doci/21450/description_575px.jpg" /></a></p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21450/deepcool-adds-vapor-chamber-to-an-air-cooler-aio-like-performance-at-air-cooler-reliability</link>
+ 	<pubDate>Tue, 18 Jun 2024 08:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21450:news</guid>
+ 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Realtek Previews Platform for Sub-$100 5GbE Network Switches</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21449/realtek-has-a-platform-for-sub100-5gbe-switch"><img src="https://images.anandtech.com/doci/21449/IMG_0076-678_575px.jpg" alt="" /></a></p><p><p>One of the more subtle trends at this year&#39;s Computex was that the majority of high-end motherboards now come equipped with a 5GbE network controller. At present, this might be considered a limited benefit as 5GbE and 10GbE switches and routers are still pretty expensive. But Realtek is planning on tackling the issue from both ends, as the company is preparing a hardware platform for sub-$100 5GbE switches.&nbsp;</p>
+
+<p>Realtek&rsquo;s quad-port 5GbE switch platform consists of five key chips: one RTL9303 switch system-on-chip, and four RTL8251B 5GbE physical interfaces (PHYs). The chips are accompanied by various other components, such as power management ICs, but in general it relies solely on in-house developed components, which is why it can be made so cheap.&nbsp;</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21449/realtek-has-a-platform-for-sub100-5gbe-switch"><img alt="" src="https://images.anandtech.com/doci/21449/IMG_0075-phy_575px.jpg" /></a></p>
+
+<p>RealTek&#39;s platform is meant for home and small offices, which is reflected in the switch&#39;s feature set. This is a simple, unmanaged switch with a handful of ports, making it ideal for linking up a few systems, while enterprise users will likely find it a bit too basic.</p>
+
+<p>Segmenting the market like this is ultimately critical for bringing down the price of hardware. The bulk of 5GbE/10GbE switches on the market today are more enterprise-focused managed switches, which carry more features and a price premium to match. So developing a stripped-down platform for cheaper consumer switches is a huge development that should finally make it economical for consumers to adopt faster networking hardware, similar to 2.5GbE a few years ago.</p>
+
+<p>At present, 2.5GbE switches are running at around $20/port, so RealTek&#39;s sub-$100 target for a 4-port switch aims to bring 5GbE in at just a slightly higher price tag of $25/port. Or, compared to the handful of unmanaged 10GbE switches on the market, which average $60/port, this will be less than half the price (though at half the bandwidth).</p>
+
+<p>The proliferation of cheap 5GbE network switches will also mark a notable inflection point in Ethernet hardware design, as it&#39;s the fastest standard that is rated to work the ubiquitous Cat 5e cable. The NBASE-T standard was penned almost a decade ago in order to cover the missing-middle between 1GbE and 10GbE, while getting more bandwidth out of existing, widely-deployed Cat 5e cabling. So with the release of consumer 5GbE gear, the standard&#39;s goals are finally coming to fruition &ndash; though it does mean we&#39;re finally reaching the end of the road for the oldest network cabling still widely in use.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21449/realtek-has-a-platform-for-sub100-5gbe-switch"><img alt="" src="https://images.anandtech.com/doci/21449/IMG_0074-realtek-chip_575px.jpg" /></a></p>
+
+<p>For now, Realtek is only talking about one customer offering a sub-$100 5GbE switch this September, but something tells me that other partners of the company will come up with similar devices soon enough. As a result of the competition, prices could get even lower, which is always good for buyers.</p>
+
+<p>These benefits should also funnel into Wi-Fi 7 routers, to a limited extent. Wired backhaul speeds need to keep pace with ever-faster Wi-Fi standards in order to keep those newer radios fed, so it&#39;s not a coincidence that cheaper 5GbE is finally coming right as Wi-Fi 7 is taking off.</p>
+
+<p>Overall, the company&#39;s 5GbE switch platform is part of a larger ecosystem of 5GbE hardware that Realtek was showing off at Computex. In addition to RTL8251B 5GbE PHYs and RTL9303 switch SoC, the company is also preparing their RTL8126 PCIe 3.1 network controller, and RTL8157 NIC for USB dongles.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21449/realtek-has-a-platform-for-sub100-5gbe-switch</link>
+ 	<pubDate>Mon, 17 Jun 2024 16:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21449:news</guid>
+ 	<category><![CDATA[ Networking]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>MiTAC/Tyan Shows Off Motherboard and Servers for Intel&#39;s Xeon 6 CPUs</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img src="https://images.anandtech.com/doci/21448/2024_Computex_Intel_PR_575px.jpg" alt="" /></a></p><p><p>Later this year Intel is set to introduce its&nbsp;<a href="https://www.anandtech.com/show/21339/intel-unveils-new-branding-for-6th-generation-xeon-processors-intel-xeon-6">Xeon 6-branded processors,</a> codenamed Granite Rapids (6x00P) and Sierra Forest (6x00E). And with it will come a new slew of server motherboards and pre-built server platforms to go with it. On the latter note, this will be the first generation where Intel won&#39;t be offering any pre-builts of its own, after <a href="https://www.anandtech.com/show/18810/intel-to-exit-prebuilt-server-business-sells-to-mitac">selling that business off to MiTAC last year</a>.</p>
+
+<p>To that end, MiTAC and its subsidiary Tyan were at this year&#39;s event to demonstrate what they&#39;ve been up to since acquiring Intel&#39;s server business unit, as well as to show off the server platforms they&#39;re developing for the Xeon 6 family. Altogether, the companies had two server platforms on display &ndash; a compact 2S system, and a larger 2S system with significant expansion capabilities &ndash; as well as a pair of single-socket designs from Tyan.</p>
+
+<p>The most basic platform that MiTAC had to show is their TX86-E7148 (Katmai Pass), a half-width 1U system that&#39;s the successor to Intel&#39;s&nbsp;D50DNP platform. Katmai Pass has two CPU sockets, supports up to 2 TB of DDR5-6400 RDIMMs over 16 slots (8 per CPU), and has two low-profile PCIe 5.0 x16 slots. Like its predecessor, this platform is aimed at mainstream servers that do not need a lot of storage or room to house bulky add-in cards like AI accelerators.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1280-ktp-s_575px.jpg" /></a></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1281-ktp_575px.jpg" /></a></p>
+
+<p>The company&#39;s other platform is&nbsp;TX77A-E7142 (Deer Creek Pass), a considerably more serious offering that replaces Intel&#39;s M50FCP platform. This board can house up to 4 TB of DDR5-6400 RDIMMs over 32 slots (16 per CPU with 2DPC), four PCIe 5.0 x16 slots, one PCIe 5.0 x8 slot, two OCP 3.0 slots, and 24 hot-swap U.2 bays. Deer Creek Pass can be used both for general-purpose workloads, high-performance storage, as well as workloads that require GPUs or other special-purpose accelerators.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1283-dcp-s_575px.jpg" /></a></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1284-dcp_575px.jpg" /></a></p>
+
+<p>Meanwhile Tyan had the single-socket Thunder CX GC73A-B5660 on display. That system supports up to 2 TB of DDR5-6400 memory over 16 RDIMMs and offers two PCIe 5.0 x16 slots, one PCIe 4.0 x4 M.2 slot, two OCP 3.0 slots, and 12 hot-swappable U.2 drive bays.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1286-thunder-cx_575px.jpg" /></a></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1287-thunder-cs_575px.jpg" /></a></p>
+
+<p>Finally, Tyan&#39;s Thunder HX S5662 is an&nbsp;HPC server board specifically designed to house multiple AI accelerators and other large PCIe cards.&nbsp;This board supports one Xeon 6 6700 processor, up to 1 TB of memory over eight DDR5-6400 RDIMMs, and has five tradiitonal PCIe 5.0 x16 slots as well as two PCIe 5.0 x2 M.2 slots for storage.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1289-thunder-hx_575px.jpg" /></a></p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus"><img alt="" src="https://images.anandtech.com/doci/21448/IMG_1290-thunder-hx_575px.jpg" /></a></p>
+
+<p>MiTAC is expected to start shipments of these new Xeon 6 motherboards in the coming months, as Intel rolls out its next-generation datacenter CPUs. Pricing of these platforms is unknown for now, but expect it to be comparable to existing servers.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21448/mitac-shows-off-motherboards-for-intels-xeon-6-cpus</link>
+ 	<pubDate>Fri, 14 Jun 2024 18:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21448:news</guid>
+ 	<category><![CDATA[ Servers]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Silicon Motion Demos Low-Power PCie 5.0 SSD Controller: SM2508</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21440/silicon-motion-demos-7-watt-pcie-5-ssd-controller-sm2508"><img src="https://images.anandtech.com/doci/21440/IMG_9514-hero_575px.jpg" alt="" /></a></p><p><p>Rounding out our Computex 2024 SSD controller news, let&#39;s talk about the final major controller vendor at the show: Silicon Motion. Silicon Motion has been somewhat late to the PCIe Gen5 SSD party, as its rival Phison has been offering their high-end PS5026-E26 controller for almost 18 months now. But as Silicon Motion gets ready to make the transition to PCIe 5.0, the company has a trump card up its sleeve: the SM2508 controller, an energy-efficient high-end SSD controller that is intended for lower-power drives.</p>
+
+<p>A PCIe Gen5 x4 controller, SMI&#39;s SM2508 boasts a very low active power consumption of 3.5W. Which, installed in an M.2 SSD, is intended to allow drive manufacturers to built 7 Watt (or lower) SSDs, according to the company. The SM2508 is made on TSMC&#39;s N6 process technology, which is a 7nm-class fabrication node with an optical shrink, which will make it one of the (if not <em>the</em>) most advanced controllers on the market once it ships. The relatively sophisticated node allows Silicon Motion to pack more cores and more features into its controller while keeping its power consumption in check &ndash; not to mention the chip size.</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" width="95%">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="9">Silicon Motion NVMe Client SSD Controller Comparison</td>
+		</tr>
+		<tr class="tlblue">
+			<td style="width: 130px;">&nbsp;</td>
+			<td style="width: 90px;">SM2508</td>
+			<td style="width: 90px;">SM2264</td>
+			<td style="width: 90px;">SM2268XT2</td>
+			<td style="width: 90px;">SM2269XT</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Market Segment</td>
+			<td colspan="2" style="text-align: center;">High-End</td>
+			<td colspan="2" style="text-align: center;">Mainstream</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Manufacturing Process</td>
+			<td style="text-align: center;">6nm</td>
+			<td style="text-align: center;">12nm</td>
+			<td style="text-align: center;">12nm</td>
+			<td style="text-align: center;">12nm</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">CPU Cores</td>
+			<td style="text-align: center;">4x Cortex R8</td>
+			<td style="text-align: center;">4x Cortex R8</td>
+			<td style="text-align: center;">2x Cortex R8</td>
+			<td style="text-align: center;">2x Cortex R8</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Error Correction</td>
+			<td style="text-align: center;">4K+ LDPC</td>
+			<td style="text-align: center;">4K LDPC</td>
+			<td style="text-align: center;">4K+ LDPC</td>
+			<td style="text-align: center;">4K LDPC</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="1">DRAM</td>
+			<td rowspan="1" style="text-align: center;">DDR4, LPDDR4X</td>
+			<td rowspan="1" style="text-align: center;">DDR4, LPDDR4X</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Host Interface</td>
+			<td style="text-align: center;">PCIe 5.0 x4</td>
+			<td style="text-align: center;">PCIe 4.0 x4</td>
+			<td style="text-align: center;">PCIe 4.0 x4</td>
+			<td rowspan="1" style="text-align: center;">PCIe 4.0 x4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">NVMe Version</td>
+			<td style="text-align: center;">NVMe 2.0</td>
+			<td style="text-align: center;">NVMe 1.4</td>
+			<td style="text-align: center;">NVMe 2.0</td>
+			<td style="text-align: center;">NVMe 1.4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="1">NAND Channels, Interface Speed</td>
+			<td rowspan="1" style="text-align: center;">8 ch,<br />
+			3600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">8 ch,<br />
+			1600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">4 ch,<br />
+			3600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">4 ch,<br />
+			1600 MT/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Sequential Read</td>
+			<td style="text-align: center;">14.5 GB/s</td>
+			<td style="text-align: center;">7.5 GB/s</td>
+			<td style="text-align: center;">7.4 GB/s</td>
+			<td style="text-align: center;">5.1 GB/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Sequential Write</td>
+			<td style="text-align: center;">14 GB/s</td>
+			<td style="text-align: center;">7 GB/s</td>
+			<td style="text-align: center;">6.7 GB/s</td>
+			<td style="text-align: center;">4.8 GB/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">4KB Random Read IOPS</td>
+			<td style="text-align: center;">2500k</td>
+			<td style="text-align: center;">1300k</td>
+			<td style="text-align: center;">1200k</td>
+			<td style="text-align: center;">900k</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">4KB Random Write IOPS</td>
+			<td style="text-align: center;">2500k</td>
+			<td style="text-align: center;">1200k</td>
+			<td style="text-align: center;">1200k</td>
+			<td style="text-align: center;">900k</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Under the hood, the front-end of the SM2508 SSD controller is based around four Arm Cortex-R8 cores, which will make it a notably powerful controller (Phison&#39;s E26, for reference, is two Arm Cortex R5 cores with an accelerator). This controller is meant to be used with DRAM, as well, and will support both DDR4 and LPDDR4.</p>
+
+<p>The back-end of the chip offers eight NAND channels with 32 CE targets, supporting interface speeds up to 3600 MT/s. Altogether, SMI says that the controller can hit sequential read speeds of up to 14.5GB/sec and write speeds of up to 14 GB/s, while 4K random read and write performance will reach up to 2.5 million IOPS. And SMI&#39;s demo drive at Computex did even better than that, achieving a 14.9GB/sec read speed under CrystalDiskMark.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21440/silicon-motion-demos-7-watt-pcie-5-ssd-controller-sm2508"><img alt="" src="https://images.anandtech.com/doci/21440/IMG_9521-P_575px.jpg" /></a></p>
+
+<p>Silicon Motion and its partners are currently finalizing the firmware for the SM2508 and qualifying it with various manufacturers&#39; TLC NAND. The chip also supports QLC NAND, though we&#39;d be surprised to see anyone pair such a powerful controller with slower NAND so soon.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21440/silicon-motion-demos-7-watt-pcie-5-ssd-controller-sm2508"><img alt="" src="https://images.anandtech.com/doci/21440/IMG_9511-S_575px.jpg" /></a></p>
+
+<p>At Computex, Silicon Motion itself demonstrated an SM2508 drive in action at its booth. Various drive manufacturers also had SM2508-based drives on the floor as well, though only as static samples.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21440/silicon-motion-demos-7-watt-pcie-5-ssd-controller-sm2508</link>
+ 	<pubDate>Fri, 14 Jun 2024 09:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21440:news</guid>
+ 	<category><![CDATA[ SSDs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Antec&#39;s &#39;Performance 1M&#39; Mini-ITX Chassis Can House a GeForce RTX 4090</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090"><img src="https://images.anandtech.com/doci/21443/IMG_0852-678_575px.jpg" alt="" /></a></p><p><p>With the highly integrated nature of PCs these days, the Mini-ITX form-factor has become a very viable option for high-performance gaming system. With plenty of motherboards available for both AMD and Intel&#39;s latest platforms, equipping an ITX system with a CPU is easy enough. But the small size of the form factor means that housing an ultra-wide flagship-level graphics card remains an issue. For this year&#39;s Computex trade show, Antec was showing off their solution to the problem of giant video cards: the Performance 1M case, a Mini-ITX case with a separate chamber just for a large video card.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090"><img alt="" src="https://images.anandtech.com/doci/21443/IMG_0856-25x16_575px.jpg" /></a></p>
+
+<p>Antec&#39;s Performance 1M is a dual-chamber Mini-ITX chassis that splits off the video card from the rest of the system. The primary chamber houses a Mini-ITX motherboard and an SFX power supply, while the secondary chamber houses a huge graphics card. Notably, the two chambers are bridged using a PCIe riser cable, allowing the motherboard chamber to be far shorter than even a half-height PCIe card, while the video card chamber can hold a triple-slot video card parallel to the motherboard chamber, cutting down on wasted space. For Antec&#39;s Computex demo, the company had a triple-slot ASUS GeForce RTX 4090 installed to showcase how this worked.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090"><img alt="" src="https://images.anandtech.com/doci/21443/IMG_0844_575px.jpg" /></a></p>
+
+<p>Antec&#39;s decision to allocate most of the case&#39;s volume to th video card chamber does come with a slight catch, however: it doesn&#39;t leave much space for a CPU cooler in the motherboard chamber. The short motherboard chamber means that system builders will have to use a low-profile cooler; these are readily available, but it does leave less thermal headroom overall for high-end CPUs. So there are still trade-offs for being able to accommodate a high-end video card.</p>
+
+<p>Otherwise, the Performance 1M chassis from Antec look very stylish and are traditionally well built from stainless steel and aluminum. The chassis can be equipped with two 120-mm or two 140-mm coolers for extra airflow (which will help performance), one 2.5-inch SATA SSD, and even some RGB bling. To make the PC built inside a Performance 1M case more convenient to use, there are two USB Type-C ports on the front.</p>
+
+<p><a href="https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090"><img alt="" src="https://images.anandtech.com/doci/21443/IMG_0846_575px.jpg" /></a></p>
+
+<p>Of course, housing a GeForce RTX 4090 graphics card in a Mini-ITX chassis has its peculiarities when it comes to dimensions and Antec&#39;s Performance 1M measures 424&times;175&times;260mm, which is pretty large. On the other hand, for an ultra-high-performance gaming system, this is pretty compact.</p>
+
+<p style="text-align: center;"><a href="https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090"><img alt="" src="https://images.anandtech.com/doci/21443/IMG_0850_575px.jpg" /></a></p>
+
+<p>Antec&#39;s Performance 1M Mini-ITX chassis will be available in gunmetal gray and matte black colors sometimes later this year. Pricing is something that the company is thinking about now, though keep in mind that we are talking about unique premium products.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21443/antecs-miniitx-chassis-can-house-a-geforce-rtx-4090</link>
+ 	<pubDate>Thu, 13 Jun 2024 14:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21443:news</guid>
+ 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Realtek Outlines SSD Controller Roadmap: High-End PCIe 5.0 x4 Platform in the Works</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21441/realtek-unwraps-ssd-controller-roadmap-highend-pcie-50-x4-platform-in-the-works"><img src="https://images.anandtech.com/doci/21441/realtek-ssd-678_575px.jpg" alt="" /></a></p><p><p>While Realtek is best known in the enthusiast space for for its peripheral controllers such as audio codecs and network controllers, the company also has a small-but-respectable SSD controller business that tends to fly under the radar due to its focus on entry-level and mainstream drives. But Realtek&#39;s stature in the SSD space is on the rise, as the company is not only planning new PCIe Gen5 SSD controllers, but also their first high-end, DRAM-equipped SSD controller.</p>
+
+<p>For this year&#39;s Computex trade show, Realtek laid out a new SSD controller roadmap that calls for the company to release a trio of new SSD controllers over the next couple of years. First up is a new four-channel entry-level PCIe 4.0 controller, the RTS5776DL, which will be joined a bit later by a PCIe 5.0 variant, the RTS5781DL. But most interesting on Realtek&#39;s new roadmap is the final chip being planned: the eight-channel, DRAM-equipped RTS5782, which would be the company&#39;s first high-end SSD controller, capable of hitting sequential read rates as high as 14GB/second.</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" width="95%">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="10">Realtek NVMe SSD Controller Comparison</td>
+		</tr>
+		<tr class="tlblue">
+			<td style="width: 130px;">&nbsp;</td>
+			<td style="width: 90px;">RTS5782</td>
+			<td style="width: 90px;">RTS5781DL</td>
+			<td style="width: 90px;">RTS5776DL</td>
+			<td style="width: 90px;">RTS5772DL</td>
+			<td style="width: 90px;">RTS5766DL</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Market Segment</td>
+			<td style="text-align: center;">High-End</td>
+			<td colspan="3" style="text-align: center;">Mainstream</td>
+			<td rowspan="1" style="text-align: center;">Entry-Level</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Error Correction</td>
+			<td colspan="3" style="text-align: center;">4K LDPC</td>
+			<td colspan="2" style="text-align: center;">2K LDPC</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="1">DRAM</td>
+			<td rowspan="1" style="text-align: center;">DDR4, LPDDR4(X)</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+			<td rowspan="1" style="text-align: center;">No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Host Interface</td>
+			<td style="text-align: center;">PCIe 5.0 x4</td>
+			<td style="text-align: center;">PCIe 5.0 x4</td>
+			<td style="text-align: center;">PCIe 4.0 x4</td>
+			<td rowspan="1" style="text-align: center;">PCIe 4.0 x4</td>
+			<td rowspan="1" style="text-align: center;">PCIe 3.0 x4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">NVMe Version</td>
+			<td style="text-align: center;">NVMe 2.0</td>
+			<td style="text-align: center;">NVMe 2.0</td>
+			<td style="text-align: center;">NVMe 2.0</td>
+			<td style="text-align: center;">NVMe 1.4</td>
+			<td style="text-align: center;">NVMe 1.4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="1">NAND Channels, Interface Speed</td>
+			<td rowspan="1" style="text-align: center;">8 ch,<br />
+			3600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">4 ch,<br />
+			3600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">4 ch,<br />
+			3600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">8 ch,<br />
+			1600 MT/s</td>
+			<td rowspan="1" style="text-align: center;">4 ch,<br />
+			1200 MT/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Sequential Read</td>
+			<td style="text-align: center;">14 GB/s</td>
+			<td style="text-align: center;">10 GB/s</td>
+			<td style="text-align: center;">7.4 GB/s</td>
+			<td style="text-align: center;">6 GB/s</td>
+			<td style="text-align: center;">3.2 GB/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Sequential Write</td>
+			<td style="text-align: center;">12 GB/s</td>
+			<td style="text-align: center;">10 GB/s</td>
+			<td style="text-align: center;">7.4 GB/s</td>
+			<td style="text-align: center;">6 GB/s</td>
+			<td style="text-align: center;">2.2 GB/s</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">4KB Random Read IOPS</td>
+			<td style="text-align: center;">2500k</td>
+			<td style="text-align: center;">1400k</td>
+			<td style="text-align: center;">1200k</td>
+			<td style="text-align: center;">-</td>
+			<td style="text-align: center;">-</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">4KB Random Write IOPS</td>
+			<td style="text-align: center;">2500k</td>
+			<td style="text-align: center;">1400k</td>
+			<td style="text-align: center;">1200k</td>
+			<td style="text-align: center;">-</td>
+			<td style="text-align: center;">-</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Diving a bit deeper into Realtek&#39;s roadmap, the RTS5776DL is traditional DRAM-less PCIe Gen4 x4 controller with four NAND channels, and is aimed at entry-level drives. The controller&#39;s NAND support is quite modern, however, supporting the latest ONFI/Toggle standards, which will allow it to hit NAND transfer rates up to 3600 MT/second. Across four channels, that&#39;s enough bandwidth to fully saturate a PCIe 4.0 x4 connection with sequential read/writes, while random 4K IOPS can burst as high as 1.2 million. Engineering samples of the controller are set to emerge in Q4 2024, so do not expect actual drives based on this chip to emerge for sale until the second half of next year at the earliest.</p>
+
+<p>Realtek is also preparing the RTS5781DL, which can be thought of as a PCIe 5.0 version of their DRAM-less controller platform. The RTS5781DL features the same four-channel NAND layout and 3600 MT/sec max NAND transfer rates, which with the additional bandwidth afforded by PCIe 5.0, shifts the performance bottleneck back to the NAND. Overall, Realtek expects drives with its first PCIe Gen5 SSD controller to hit sustained transfer rates up to 10GB/second, and up to 1.4 million random read/write IOPS. The company aims to make engineering samples of this controller available in the first quarter of 2025, so actual drives will hit the market in late 2025 at best.</p>
+
+<p align="center"><a href="https://www.anandtech.com/show/21441/realtek-unwraps-ssd-controller-roadmap-highend-pcie-50-x4-platform-in-the-works"><img alt="" src="https://images.anandtech.com/doci/21441/realtek-ssd-roadmap-IMG_0100_575px.jpg" /></a></p>
+
+<p>Finally, the pinnacle of Realtek&#39;s roadmap will be its RTS5782, which is the company&#39;s first high-end SSD controller. Besides including support for on-drive DRAM (DDR4/LPDDR4X) for higher performance, the back-end of the RTS5782 will feature an eight NAND channel design that supports transfer rates up to 3600 MT/second. Drives built with the controller are expected to be able to sustain 14GB/second sequential read rates and 12GB/second sequential writes, while the 4K random IOPS performance jumps to 2.5 million 4K read and write IOPS.</p>
+
+<p>Unfortunately, the RTS5782 is also the farthest out of the three controllers, as it&#39;s still in the planning stages at Realtek. Consequently, for the moment the company isn&#39;t offering any guidance on when the new controller will be ready. No doubt the company will have more to show off next year for Computex 2025.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21441/realtek-unwraps-ssd-controller-roadmap-highend-pcie-50-x4-platform-in-the-works</link>
+ 	<pubDate>Thu, 13 Jun 2024 12:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21441:news</guid>
+ 	<category><![CDATA[ SSDs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Noctua Shows Off Thermosiphon Based CPU Cooler Prototype At Computex 2024</title>
+    <dc:creator>Gavin Bonshor</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21446/noctua-shows-off-thermosiphon-based-cpu-cooler-prototype-at-computex-2024"><img src="https://images.anandtech.com/doci/21446/IMG_1889_575px.jpg" alt="" /></a></p><p><p>Many companies showed off a range of concept designs during Computex 2024, but perhaps Noctua had one of the coolest. Noctua, primarily known for its air coolers, had a pumpless prototype that showcased Thermisiphon cooling. It looks like a conventional AIO cooler on the surface but is much more efficient, cooler, and quieter than traditional water coolers.</p>
+
+<p align="center"><a href="https://www.anandtech.com/show/21446/noctua-shows-off-thermosiphon-based-cpu-cooler-prototype-at-computex-2024"><img alt="" src="https://images.anandtech.com/doci/21446/IMG_1890_575px.jpg" /></a></p>
+
+<p>Touching quickly on Thermosiphon cooling, it uses the natural laws of thermodynamics to use heat (the CPU) as a source to turn the liquid to the top, evaporating through the system. This evaporated liquid rises and is pushed into the condenser (radiator), which, in the case of Noctua&#39;s cooler, is cooled by fans and turned back into liquid, which then flows back toward the CPU. Not only does Theromsiphon technology use gravity to help aid the flow of liquid, but it is also a highly efficient way of distributing heat as vaporization can absorb heat better, and it doesn&#39;t feature any moving parts in the mechanism, aside from the fans, of course.</p>
+
+<p>As with traditional AIO CPU coolers, Noctua&#39;s Thermosiphon design has a 240mm radiator with a pair of 120cm Noctua fans, which cools the vapor down and sends it back to the evaporator. While this isn&#39;t a new concept and vapor chamber cooling has been used for many years in CPUs and even laptop coolers, Thermosiphon is certainly a technology Noctua thinks it can leverage to ensure better cooling performance and robust reliability.</p>
+
+<p align="center"><a href="https://www.anandtech.com/show/21446/noctua-shows-off-thermosiphon-based-cpu-cooler-prototype-at-computex-2024"><img alt="" src="https://images.anandtech.com/doci/21446/IMG_1887_575px.jpg" /></a></p>
+
+<p>Speaking to Noctua at Computex 2024, they informed me of the benefits and pitfalls of the Thermosiphon technology. In terms of the pros, Thermosiphon cooling in itself has no moving parts, which not only improves reliability but also means there is less to go wrong. Another positive is that even the quietest AIO CPU coolers can be quite noisy, as the water pump that circulates the fluid can cause vibrations, which in turn makes noise. The biggest drawback of implementing Thermosiphon cooling for PCs is that conventional tubing can wear out over time. While adding metal tubing would last longer, it&#39;s not flexible, although Noctua said they have discussed this with system integrators.</p>
+
+<p>Although Noctua&#39;s Thermosiphon is currently just a proof of concept and sis in the early development stage, there&#39;s no launch date or indication it will hit the market. It&#39;s an interesting design, and we hope it does eventually come to market.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21446/noctua-shows-off-thermosiphon-based-cpu-cooler-prototype-at-computex-2024</link>
+ 	<pubDate>Thu, 13 Jun 2024 10:30:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21446:news</guid>
+ 	<category><![CDATA[ Cases/Cooling/PSUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>The Qualcomm Snapdragon X Architecture Deep Dive: Getting To Know Oryon and Adreno X1</title>
+    <dc:creator>Ryan Smith</dc:creator>    
+    <description><![CDATA[ <p>The curtains are drawn and it&rsquo;s almost showtime for Qualcomm and its Snapdragon X SoC team. After first detailing the SoC nearly 8 months ago at the company&rsquo;s most recent Snapdragon Summit, and making numerous performance disclosures in the intervening months, the Snapdragon X Elite and Snapdragon X Plus launch is nearly upon us. The chips have already shipped to Qualcomm&rsquo;s laptop partners, and the first laptops are set to ship next week.</p>
+
+<p>In the last 8 months Qualcomm has made a lot of interesting claims for their high-performance Windows-on-Arm SoC &ndash; many of which will be put to the test in the coming weeks. But beyond all the performance claims and bluster amidst what is shaping up to be a highly competitive environment for PC CPUs, there&rsquo;s an even more fundamental question about the Snapdragon X that we&rsquo;ve been dying to get to: <em>how does it work?</em></p>
+
+<p>Ahead of next week&rsquo;s launch, then, we&rsquo;re finally getting the answer to that, as today Qualcomm is releasing their long-awaited architectural disclosure on the Snapdragon X SoC. This includes not only their new, custom Arm v8 &ldquo;Oryon&rdquo; CPU core, but also technical disclosures on their Adreno GPU, and the Hexagon NPU that backs their heavily-promoted AI capabilities. The company has made it clear in the past that the Snapdragon X is a serious, top-priority effort for the company &ndash; that they&rsquo;re not just slapping together a Windows SoC from their existing IP blocks and calling it a day &ndash; so there&rsquo;s a great deal of novel technology within the SoC.</p>
+
+<p>And while we&rsquo;re excited to look at it all, we&rsquo;ll also be the first to admit that we&rsquo;re the most excited to finally get to take a deep dive on Oryon, Qualcomm&rsquo;s custom-built Arm CPU cores. The first new high-performance CPU design created from scratch in the last several years, the significance of Oryon cannot be overstated. Besides providing the basis of a new generation of Windows-on-Arm SoCs that Qualcomm hopes will vault them into contention in the Windows PC marketplace, Oryon will also be the basis of Qualcomm&rsquo;s traditional Snapdragon mobile handset and tablet SoCs going forward.</p>
+
+<p>So a great deal of the company&rsquo;s hardware over the next few years is riding on this CPU architecture &ndash; and if all goes according to plan, there will be many more generations of Oryon to follow. One way or another, it&rsquo;s going to set Qualcomm apart from its competitors in both the PC and mobile spaces, as it means Qualcomm is moving on from Arm&rsquo;s reference designs, which by their very nature are accessible Qualcomm&rsquo;s competition as well.</p>
+
+<p>So without further ado, let&rsquo;s dive in to Qualcomm&rsquo;s Snapdragon X SoC architecture.</p>
+]]></description>
+    <link>https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive</link>
+ 	<pubDate>Thu, 13 Jun 2024 09:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21445:news</guid>
+ 	<category><![CDATA[ CPUs]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Samsung Foundry Unveils Updated Roadmap: BSPDN and 2nm Evolution Through 2027</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21444/samsung-foundry-unveils-updated-roadmap-2nm-evolution-through-2027"><img src="https://images.anandtech.com/doci/21444/Samsung Advanced Process Roadmap_575px.jpg" alt="" /></a></p><p><p>Samsung this week has unveiled its latest process technologies roadmap at the company&#39;s Samsung Foundry Forum (SFF) U.S. The new plan covers the evolution of Samsung&#39;s 2nm-class production nodes through 2027, including a process technology with a backside power delivery, re-emphasizing plans to bring out a 1.4nm-class node in 2027, and the introduction of a &#39;high value&#39; 4nm-class manufacturing tech.</p>
+
+<p>Samsung Foundry&#39;s key announcements for today are clearly focused on the its 2nm-class process technologies, which are set to enter production in 2025 and will span to 2027, when the company&#39;s 1.4-nm class production node is set to enter the scene. Samsung is also adding (or rather, renaming) another 2nm-class node to their roadmap with SF2, which was previously disclosed by Samsung as SF3P and aimed at high-performance devices.</p>
+
+<p>&quot;We have refined and improved the SF3P, resulting in what we now refer to as SF2,&quot; a Samsung spokesperson told <em>AnandTech</em>. &quot;This enhanced node incorporates various process design improvements, delivering notable power, performance, and area (PPA) benefits.&quot;</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="1" style="background-color: rgb(246, 246, 246);" width="680">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="9">Samsung Foundry for Leading-Edge Nodes<br />
+			<small>Announced on June 12, 2024<br />
+			<em>Compiled by AnandTech</em></small></td>
+		</tr>
+		<tr class="tlblue">
+			<td colspan="2" rowspan="1" width="186">HVM Start</td>
+			<td align="center" valign="middle" width="136">2023</td>
+			<td align="center" valign="middle" width="136">2024</td>
+			<td align="center" valign="middle" width="136">2025</td>
+			<td align="center" valign="middle" width="136">2026</td>
+			<td align="center" valign="middle" width="136">2027</td>
+			<td align="center" valign="middle" width="136">2027</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2" rowspan="1">Process</td>
+			<td align="center" valign="middle">SF3E</td>
+			<td align="center" valign="middle">SF3</td>
+			<td align="center" rowspan="1" valign="middle">SF2<br />
+			(aka SF3P)</td>
+			<td align="center" rowspan="1" valign="middle">SF2P/SF2X</td>
+			<td align="center" valign="middle">SF2Z</td>
+			<td align="center" valign="middle">SF1.4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2" rowspan="1">FET</td>
+			<td align="center" colspan="6" rowspan="1" valign="middle">GAAFET</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2" rowspan="1">Power Delivery</td>
+			<td align="center" colspan="4" rowspan="1" valign="middle">Frontside</td>
+			<td align="center" valign="middle">Backside (BSPDN)</td>
+			<td align="center" valign="middle">?</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="2" rowspan="1">EUV</td>
+			<td align="center" colspan="2" rowspan="1" valign="middle">0.33 NA EUV</td>
+			<td align="center" valign="middle">?</td>
+			<td align="center" valign="middle">?</td>
+			<td align="center" valign="middle">?</td>
+			<td align="center" valign="middle">?</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>This is another example of a rebranding of leading-edge fabrication nodes in the recent years by a major chipmaker. Samsung Foundry is not disclosing any specific PPA improvements SF3P has over SF2, and for now is only stating in high-level terms that it will be a better-performing node than the planned SF3P.</p>
+
+<p align="center"><a href="https://www.anandtech.com/show/21444/samsung-foundry-unveils-updated-roadmap-2nm-evolution-through-2027"><img alt="" src="https://images.anandtech.com/doci/21444/Samsung%202nm%20Process%20Roadmap%20based%20on%20GAA%20Technology.jpeg" style="width: 100%;" /></a></p>
+
+<p>Meanwhile, this week&#39;s announcement also includes new information on Samsung&#39;s next batch of process nodes, which are planned for 2026 and 2027. In 2026 Samsung will have SF2P, a further refinement of SF2 which incorporates &#39;faster&#39; yet less dense transistors. That will be followed up in 2027 with SF2Z, which adds backside power delivery to the mix for better and higher quality power delivery. In particular, Samsung is targetting voltate drop (aka IR drop) here, which is an ongoing concern in chip design.</p>
+
+<p>Finally, SF1.4, a 1.4nm-class node, is on track for 2027 as well. Interestingly, however, it looks like it does not feature a backside power delivery. Which, per current roadmaps, would have Samsung as the only foundry not using BSPDN for their first 1.4nm/14<span class="BxUVEf ILfuVd" lang="en"><span class="hgKElc">&Aring;</span></span>-class node.</p>
+
+<p>&quot;We have optimized BSPDN and incorporated it for the first time in the SF2Z node we announced today,&quot; the spokesperson told us. &quot;We will continue to refine this technology and apply it to future nodes, but we don&#39;t have a specific timeline to share at this time.&quot;</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="1" style="background-color: rgb(246, 246, 246);" width="680">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="8">Chip Fab Roadmaps for Leading-Edge Nodes<br />
+			<small>Data announced during conference calls, events, press briefings and press releases.<br />
+			<em>Compiled by AnandTech</em></small></td>
+		</tr>
+		<tr class="tlblue">
+			<td colspan="2" rowspan="1" width="186">HVM Start</td>
+			<td align="center" valign="middle" width="136">2023</td>
+			<td align="center" valign="middle" width="136">2024</td>
+			<td align="center" valign="middle" width="136">2025</td>
+			<td align="center" valign="middle" width="136">2026</td>
+			<td align="center" valign="middle" width="136">2027</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="1" rowspan="4">Intel</td>
+			<td class="tlgrey">Process</td>
+			<td align="center" valign="middle">Intel 3</td>
+			<td align="center" valign="middle">Intel 20A</td>
+			<td align="center" valign="middle">Intel 18A</td>
+			<td align="center" valign="middle">Intel 14A</td>
+			<td align="center" valign="middle">Intel 10A</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">FET</td>
+			<td align="center" valign="middle">FinFET</td>
+			<td align="center" colspan="4" rowspan="1" valign="middle">RibbonFET (GAAFET)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Power</td>
+			<td align="center" valign="middle">Frontside</td>
+			<td align="center" colspan="4" rowspan="1" valign="middle"><span style="caret-color: rgb(68, 68, 68); color: rgb(68, 68, 68); text-align: -webkit-center; background-color: rgb(238, 238, 238);">PowerVia (BSPDN)</span></td>
+		</tr>
+		<tr>
+			<td class="tlgrey">EUV</td>
+			<td align="center" colspan="3" rowspan="1" valign="middle">0.33 NA EUV</td>
+			<td align="center" colspan="2" rowspan="1" valign="middle"><span style="caret-color: rgb(68, 68, 68); color: rgb(68, 68, 68); text-align: -webkit-center; background-color: rgb(238, 238, 238);">0.55 NA EUV + DSA</span></td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="1" rowspan="4">Samsung</td>
+			<td class="tlgrey">Process</td>
+			<td align="center" valign="middle">SF3E</td>
+			<td align="center" valign="middle">SF3</td>
+			<td align="center" rowspan="1" valign="middle">SF2</td>
+			<td align="center" rowspan="1" valign="middle">SF2P/SF2X</td>
+			<td align="center" valign="middle">SF2Z/SF1.4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">FET</td>
+			<td align="center" colspan="5" rowspan="1" valign="middle">GAAFET</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Power</td>
+			<td align="center" colspan="4" rowspan="1" valign="middle">Frontside</td>
+			<td align="center" valign="middle">Backside/?</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">EUV</td>
+			<td align="center" colspan="2" rowspan="1" valign="middle">0.33 NA EUV</td>
+			<td align="center" valign="middle">?</td>
+			<td align="center" valign="middle">?</td>
+			<td align="center" valign="middle">?</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" colspan="1" rowspan="4">TSMC</td>
+			<td class="tlgrey">Process</td>
+			<td align="center" valign="middle">N3E/N3P</td>
+			<td align="center" valign="middle">N3S/N3X</td>
+			<td align="center" valign="middle">N2</td>
+			<td align="center" valign="middle">A16</td>
+			<td align="center" valign="middle">A14 (?)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">FET</td>
+			<td align="center" colspan="2" rowspan="1" valign="middle">FinFET</td>
+			<td align="center" colspan="3" rowspan="1" valign="middle">GAAFET</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">Power</td>
+			<td align="center" colspan="3" rowspan="1" valign="middle">Frontside</td>
+			<td align="center" colspan="2" valign="middle">Super Power Rail (BSPDN)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">EUV</td>
+			<td align="center" colspan="4" rowspan="1" valign="middle"><span style="caret-color: rgb(68, 68, 68); color: rgb(68, 68, 68); text-align: -webkit-center; background-color: rgb(238, 238, 238);">0.33 NA EUV</span></td>
+			<td align="center" valign="middle">?</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>When compared to other contract fabs, Samsung&#39;s roadmap is now roughly in line with the rest in regards to &#39;nanometer&#39; designations. Though absent further technical disclosures from Samsung, it remains unclear what the actual benefits will be for each node and how they compare to their predecessors, let alone how they&#39;ll compare to Intel Foundry and TSMC.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21444/samsung-foundry-unveils-updated-roadmap-2nm-evolution-through-2027</link>
+ 	<pubDate>Thu, 13 Jun 2024 07:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21444:news</guid>
+ 	<category><![CDATA[ Semiconductors]]></category>                               
+</item>  
+    
+    
+<item>
+    <title>Report: MediaTek Working on Arm-Based Processor for Windows PCs</title>
+    <dc:creator>Anton Shilov</dc:creator>    
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21442/report-mediatek-working-on-armbased-processor-for-windows-pcs"><img src="https://images.anandtech.com/doci/21442/mediatek-dimensity-678_575px.jpg" alt="" /></a></p><p><p>As Qualcomm&#39;s exclusivity for Arm-powered processors for Windows PCs is reportedly coming to its end, other chipmakers are getting ready to offer their Arm-based system-on-chips for Windows computers. And, according to a new report from <a href="https://www.reuters.com/technology/mediatek-designs-arm-based-chip-microsofts-ai-laptops-say-sources-2024-06-11/">Reuters,</a> MediaTek will be among the companies jumping into the Windows-on-Arm field, with plans to launch their first PC processor late next year.</p>
+
+<p>MediaTek&#39;s system-on-chip for Windows PCs will rely on Arm&#39;s &#39;ready-made designs,&#39; according to Reuters. Which in turn hints that MediaTek would be using <a href="https://www.anandtech.com/show/21399/arm-unveils-2024-cpu-core-designs-cortex-x925-a725-and-a520-arm-v9-2-redefined-for-3nm-">Arm&#39;s compute sub-system (CSS) for client PCs</a>, a building block designed to significantly speed up development of SoCs.</p>
+
+<p>With the vauge nature of the Reuters report, however, which version of Arm&#39;s IP MediaTek might be using remains unclear, and the answer to that will largely hinge on timing. Arm refreshes its client cores and IP offerings yearly &ndash; typically announcing them to the public in May &ndash; with finished chips rolling out as early as later in the year. So depending on just how late in the year MediaTek is planning to launch their chip, the company has a large enough window to potentially use either the current 2024 client designs, or next year&#39;s 2025 designs.</p>
+
+<p>For reference, Arm&#39;s 2024 CSS for client systems is quite powerful on its own. It includes two ultra-high-performance Arm Cortex-X925 cores (each with up to 3MB L2 cache and clock speeds over 3.60 GHz, supporting SVE and SVE2), four high-performance Cortex-A725 cores, two energy-efficient Cortex-A520 cores, and an Immortalis-G925 graphics processor. And, of course, MediaTek has the expertise to skip Arm&#39;s CSS and build their own bespoke designs as well, if that&#39;s what they&#39;d prefer.</p>
+
+<p>Overall, the latest client designs from Arm can accommodate up to 14 CPU cores &ndash; Arm intentionally leaves headroom for designs to be scaled-up for laptops &ndash; which would make for quite a formidable chip. But the PC SoC market has no shortage of capable contenders with their own designs; besides Qualcomm&#39;s Snapdragon X processors, MediaTek would also be going up against the latest designs from Intel and AMD. All of whom are planning to make big plays for the mobile PC market in the next several months. So MediaTek will need to make a serious effort if their effort to jump into the PC SoC market are to succeed.</p>
+
+<p>Since 2016, Microsoft has partnered with Qualcomm to bring Arm&#39;s processor architecture, which is widely used in smartphones, to Windows PCs. Qualcomm has an exclusive agreement to supply these chips for the next several months (the exact timing remains unclear), after which other designers like MediaTek can enter the market. Qualcomm, for its part, has benefited greatly from collaborating with Microsoft, so it will be interesting to see if Microsoft extends a similar hand out to other Arm chip makers.</p>
+
+<p>Ultimately, the market for Arm PC SoCs has the potential to get crowded quickly. According to previous reports from <em>Reuters</em>, both AMD and NVIDIA are also developing Arm-based chips for Windows. So if all of those projects come to fruition, there could potentially be several Arm SoCs available to PC manufacturers around the same time. All of which would be a massive change from the past 20 years of the PC, where Intel and AMD have been the entire market.</p>
+
+<p>Both MediaTek and Microsoft have declined to comment on the ongoing developments, the news agency states.</p>
+</p>]]></description>
+    <link>https://www.anandtech.com/show/21442/report-mediatek-working-on-armbased-processor-for-windows-pcs</link>
+ 	<pubDate>Wed, 12 Jun 2024 17:00:00 EDT</pubDate>
+ 	<guid isPermaLink="false">tag:www.anandtech.com,21442:news</guid>
+ 	<category><![CDATA[ CPUs]]></category>                               
+</item>  
+    
+    
+<item>
     <title>ASMedia Preps USB4 v2 Controller and PHY</title>
     <dc:creator>Anton Shilov</dc:creator>    
     <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21439/asmedia-preps-usb4-v2-controller-and-phy"><img src="https://images.anandtech.com/doci/21439/IMG_0952-678_575px.jpg" alt="" /></a></p><p><p>The USB Implementers Forum (USB-IF) introduced <a href="https://www.anandtech.com/show/17617/intel-builds-on-usb4-v2-for-120-gbps-next-generation-thunderbolt">USB4 version 2.0 in fall 2022,</a> and it expects systems and devices with the tech to emerge later this year and into next year. These upcoming products will largely rely on Intel&#39;s <em>Barlow Ridge</em> controller, a full-featured Thunderbolt 5 controller that goes above and beond the baseline USB4 v2 spec. And though extremely capable, Intel&#39;s Thunderbolt controllers are also quite expensive, and <em>Barlow Ridge</em> isn&#39;t expected to be any different. Fortunately, for system and device vendors that just need a basic USB4 v2 solution, ASMedia is also working on its own USB4 v2 controller.</p>
@@ -253,17 +972,19 @@
     
     
 <item>
-    <title>SK hynix: GDDR7 Mass Production To Start in Q1&#39;2025</title>
+    <title>SK hynix: GDDR7 Mass Production To Start in Q4&#39;2024</title>
     <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21435/sk-hynix-to-start-mass-production-of-gddr7-in-q1-companys-rep"><img src="https://images.anandtech.com/doci/21435/IMG_1315-678_575px.jpg" alt="" /></a></p><p><p>Being a major JEDEC memory standard, GDDR7 is slated to be produced by all three of the Big Three memory manufacturers. But it seems that not all three vendors will be kicking off mass production at the same time.</p>
+    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21435/sk-hynix-to-start-mass-production-of-gddr7-in-q1-companys-rep"><img src="https://images.anandtech.com/doci/21435/IMG_1315-678_575px.jpg" alt="" /></a></p><p><p><em><strong>Update 06/13</strong>: SK hynix has sent a note to AnandTech clarifying that the company &quot;plans to start mass production of GDDR7 in the fourth quarter of this year when the relevant market opens up.&quot; This article has been updated accordingly.</em></p>
 
-<p>SK hynix was at this year&#39;s Computex trade show, showing off their full lineup of memory technologies &ndash; including, of course, GDDR7. SK hynix is the last of the major memory vendor&#39;s we&#39;ve seen promoting their memory, and fittingly, they seem to be the last in terms of their mass production schedule. According to company representatives at the show, the firm will not kick off mass production of their GDDR7 chips until the first quarter of 2025.</p>
+<p>Being a major JEDEC memory standard, GDDR7 is slated to be produced by all three of the Big Three memory manufacturers. But it seems that not all three vendors will be kicking off mass production at the same time.</p>
+
+<p>SK hynix was at this year&#39;s Computex trade show, showing off their full lineup of memory technologies &ndash; including, of course, GDDR7. SK hynix is the last of the major memory vendor&#39;s we&#39;ve seen promoting their memory, and fittingly, they seem to be the last in terms of their mass production schedule. According to company representatives, the firm will kick off mass production of their GDDR7 chips in the last quarter of 2024.</p>
 
 <p style="text-align: center;"><a href="https://www.anandtech.com/show/21435/sk-hynix-to-start-mass-production-of-gddr7-in-q1-companys-rep"><img alt="" src="https://images.anandtech.com/doci/21435/skhynix_gddr7_chips_575px.jpg" /></a></p>
 
-<p>Comparatively, the company&#39;s cross-town rival, Samsung, is already sampling memory with the goal of getting it out the door in 2024. And Micron has been rather gung ho about not only starting mass production this year, but starting it early enough that at least some of their customers will be able to ship finished products this year. So if these schedules hold, then SK hynix would seem to be a quarter or so out from the other major memory vendors.</p>
+<p>Comparatively, the company&#39;s cross-town rival, Samsung, is already sampling memory with the goal of getting it out the door in 2024. And Micron has been rather gung ho about not only starting mass production this year, but starting it early enough that at least some of their customers will be able to ship finished products this year.</p>
 
-<p>That said, it bears mentioning that with industry-standard memory technologies, mass production at one vendor does not indicate that another is late; it is just indicating that someone was first to validate with a partner and that partner plans to ship its product in 2024. And while mass production remains another 7+ months out, SK hynix does have sample chips for its partners to test right now, and the chips have been demonstrated at Computex.</p>
+<p>That said, it bears mentioning that with industry-standard memory technologies, mass production at one vendor does not indicate that another is late; it is just indicating that someone was first to validate with a partner and that partner plans to ship its product in 2024. And while mass production remains another 4+ months out, SK hynix does have sample chips for its partners to test right now, and the chips have been demonstrated at Computex.</p>
 
 <p style="text-align: center;"><a href="https://www.anandtech.com/show/21435/sk-hynix-to-start-mass-production-of-gddr7-in-q1-companys-rep"><img alt="" src="https://images.anandtech.com/doci/21435/skhynix_gddr7_specs_575px.jpg" /></a></p>
 
@@ -1007,358 +1728,6 @@ For Computex week, Micron was at the show in force in order to talk about its la
  	<pubDate>Sun, 02 Jun 2024 23:04:00 EDT</pubDate>
  	<guid isPermaLink="false">tag:www.anandtech.com,21420:news</guid>
  	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Plans Massive Memory Instinct MI325X for Q4&#39;24, Lays Out Accelerator Roadmap to 2026</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>In a packed presentation kicking off this year&rsquo;s Computex trade show, AMD CEO Dr. Lisa Su spent plenty of time focusing on the subject of AI. And while the bulk of that focus was on AMD&rsquo;s impending client products, the company is also currently enjoying the rapid growth of their Instinct lineup of accelerators, with the MI300 continuing to break sales projections and growth records quarter after quarter. It&rsquo;s no surprise then that AMD is looking to move quickly then in the AI accelerator space, both to capitalize on the market opportunities amidst the current AI mania, as well as to stay competitive with the many chipmakers large and small who are also trying to stake a claim in the space.</p>
-
-<p>To that end, as part of this evening&rsquo;s announcements, AMD laid out their roadmap for their Instinct product lineup for both the short and long term, with new products and new architectures in development to carry AMD through 2026 and beyond.</p>
-
-<p>On the product side of matters, AMD is announcing a new Instinct accelerator, the HBM3E-equipped MI325X. Based on the same computational silicon as the company&rsquo;s MI300X accelerator, the MI325X swaps out HBM3 memory for faster and denser HBM3E, allowing AMD to produce accelerators with up to 288GB of memory, and local memory bandwidths hitting 6TB/second.</p>
-
-<p>Meanwhile, AMD also showcased their first new CDNA architecture/Instinct product roadmap in two years, laying out their plans through 2026. Over the next two years AMD will be moving very quickly indeed, launching two new CDNA architectures and associated Instinct products in 2025 and 2026, respectively. The CDNA 4-powered MI350 series will be released in 2025, and that will be followed up by the even more ambitious MI400 series in 2026, which will be based on the CDNA &quot;Next&quot; architecture.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21422/amd-instinct-mi325x-reveal-and-cdna-architecture-roadmap-computex</link>
- 	<pubDate>Sun, 02 Jun 2024 23:02:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21422:news</guid>
- 	<category><![CDATA[ GPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Announces The Ryzen AI 300 Series For Mobile: Zen 5 With RDNA 3.5, and XDNA2 NPU With 50 TOPS</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>During AMD&#39;s opening keynote at Computex 2024, company CEO Dr. Lisa Su revealed AMD&#39;s latest AI PC-focused chip lineup for the mobile market, the Ryzen AI 300 series. Based on AMD&#39;s new Zen 5 CPU microarchitecture, the Ryzen AI 300 series &ndash; codenamed <em>Strix Point</em> &ndash; is intended to offer an across-the-board improvement in mobile SoC performance, with AMD proclaiming that the Ryzen AI 300 series will offer the fastest AI inference performance within the compact and portable PC market.</p>
-
-<p>Under the hood, the new mobile SoC from AMD incorporates not only their new Zen 5 CPU architecture, but also their new RDNA 3.5-based integrated graphics, and the third generation XDNA2-based NPU, the latter of which is rated to deliver 50 TOPS of performance for AI-based workloads. As a result, the Ryzen AI 300 series represents a significant upgrade in AMD&#39;s mobile chip lineup, with all of the major aspects of the platform receiving a major upgrade versus their Zen 4-era Phoenix/Hawk Point SoCs. The one thing the new platform won&#39;t get, however, is a process node improvement; AMD is building Strix Point on a 4nm node, just like Phoenix/Hawk Point before it.</p>
-
-<p>For this morning&#39;s announcement, AMD has unveiled the first two Ryzen AI 300 SKUs designed for notebooks. The first of these is the Ryzen AI 9 HX 370, which features 12 Zen 5 cores with a maximum boost frequency of up to 5.1 GHz, and comes equipped with 36 MB cache (12 MB L2 + 24 MB L3). The other chip to be announced is the Ryzen AI 9 365, which has two fewer Zen 5 cores (10 cores) and operates with a 5,0 GHz boost frequency and a 10 MB L2 + 24 MB L3 cache allocation.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21419/amd-announces-the-ryzen-ai-300-series-for-mobile-zen-5-with-rdna-35-and-xdna2-npu-with-50-tops</link>
- 	<pubDate>Sun, 02 Jun 2024 23:01:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21419:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>AMD Unveils Ryzen 9000 CPUs For Desktop, Zen 5 Takes Center Stage at Computex 2024</title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>During AMD&#39;s Computex 2024 kick-off keynote, AMD&#39;s CEO, Dr. Lisa Su, officially unveiled and announced the company&#39;s next generation of Ryzen processors. Today marks the first unveiling of AMD&#39;s highly anticipated Zen 5 microarchitecture via the Ryzen 9000 series, which is set to bring several advancements over Zen 4 and the Ryzen 7000 series for desktop PCs, which will launch sometime in July 2024.</p>
-
-<p>AMD has unveiled four new chip SKUs using its Zen 5 microarchitecture. The AMD Ryzen 9 9950X processor will be the new consumer flagship part, featuring 16 CPU cores and a speedy 5.7 GHz maximum boost frequency. The other SKUs include, 6, 8, and 12 core parts, giving users a varied combination of core and thread counts. All four of these initial chips will be X-series chips, meaning they will have an unlocked multipliers and higher TDPs/clockspeeds.</p>
-
-<p>In regards to performance, AMD is touting an average (geomean) IPC increase in desktop workloads for Zen 5 of 16%. And with the new desktop Ryzen chips&#39; turbo clockspeeds remaining largely identical to their Ryzen 7000 predecessors, this should translate into similar performance expectations for the new chips.</p>
-
-<p>The AMD Ryzen 9000 series will also launch on the AM5 socket, which debuted with AMD&#39;s Ryzen 7000 series and marks AMD&#39;s commitment to socket/platform longevity. Along with the Ryzen 9000 series will come a pair of new high-performance chipsets: the X870E (Extreme) and the regular X870 chipsets. The fundamental features that vendors will integrate into their specific motherboards remain tight-lipped. Still, we do know that USB 4.0 ports are standard on the X870E/X870 boards, along with PCIe 5.0 for both PCIe graphics and NVMe storage, with higher AMD EXPO memory profile support expected than previous generations.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024</link>
- 	<pubDate>Sun, 02 Jun 2024 23:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21415:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>The AMD Computex 2024 Keynote Live Blog (6:30pm PT/01:30 UTC)</title>
-    <dc:creator>Ryan Smith &amp; Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>Computex keynote season is kicking into high gear this morning with the show&#39;s leading keynote, which is being delivered by AMD. Company CEO Dr. Lisa Su will be presenting a keynote entitled &ldquo;The future of high-performance computing in the AI era,&rdquo; and with a run time of 90 minutes, we&#39;re expecting AMD to have a whole host of product announcements covering their full spectrum of product categories.</p>
-
-<p>The big expectation here is fresh news around <a href="https://www.anandtech.com/show/21251/amd-zen-5-based-cpus-for-client-and-server-applications-due-in-2024">AMD&rsquo;s Zen 5 CPU core architecture</a>, and the chips built around it. AMD&rsquo;s most recent Zen 5 roadmap has it slated to deliver all three flavors of Zen 5 by the end of this year, and we&rsquo;re coming up on the two-year anniversary of the Zen 4 architecture launch.</p>
-
-<p>Along with client chips, AMD has been pushing their server CPUs hard, and they&rsquo;ve previously told investors that the <a href="https://www.anandtech.com/show/21380/amd-zen-5based-epyc-turin-is-sampling-silicon-looking-great">next-gen EPYC Turin CPU is &ldquo;looking great&rdquo;</a>. So we&rsquo;ll likely hear about both client and server Zen 5 product plans during this keynote.</p>
-
-<p>On the GPU/accelerator side of matters, AMD is mid-cycle (at best) with their Instinct MI300 series accelerators. With the company&rsquo;s sales repeatedly beating their own expectations, AMD doesn&rsquo;t seem to need much help moving this premium silicon right now. But with AI being the operative buzzword of this year&rsquo;s Computex (and indeed, the computing industry as a whole), it would be weird for AMD to <em>not</em> have something to say about their rapidly growing AI accelerator product line.</p>
-
-<p>Come join us at 6:30pm PT / 9:30pm ET / 01:30 UTC to get all the details.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21423/the-amd-computex-2024-keynote-live-blog-630pm-pt0230-utc</link>
- 	<pubDate>Sun, 02 Jun 2024 21:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21423:news</guid>
- 	<category><![CDATA[ Live Blog]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Computex 2024 Keynote Preview: The Great PC Powers Convene</title>
-    <dc:creator>Ryan Smith</dc:creator>    
-    <description><![CDATA[ <p>The annual Computex computer expo kicks off in Taepei this weekend. And this year&rsquo;s show is shaping up to be the most packed in years.</p>
-
-<p>Computex rivals CES for the most important PC trade show of the year, and in most years is attended by not only the numerous local Taiwanese firms (Asus, MSI, ASRock, and others), but the major chip developers have been increasing their own presence as well. These days, while CES itself tends to land more high-profile announcements, in recent years it&rsquo;s been Computex that has delivered on more substantial announcements. This is largely because tech firms have aligned their product schedules to roll out near gear in the second half of the year, when retail sales are stronger due to the back-to-school and holiday shopping periods.</p>
-
-<p>This year&rsquo;s show, in turn, is looking to be an especially big year for the PC ecosystem. All the major PC chip firms &ndash; AMD, Intel, NVIDIA, and the 4<sup>th</sup> Musketeer, Qualcomm &ndash; are holding keynote addresses at this year&rsquo;s show, where they&rsquo;re expected to announce new slates of PC products to ship later this year. In a normal year there is typically only major announcements from one or two of the major chip firms, so having all four of them at the show delivering lengthy keynotes is setting things up for what should be an exceptional show.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21418/computex-2024-keynote-preview</link>
- 	<pubDate>Fri, 31 May 2024 20:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21418:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>TSMC&#39;s 3D Stacked SoIC Packaging Making Quick Progress, Eyeing Ultra-Dense 3μm Pitch In 2027</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21414/tsmcs-3d-stacked-soic-packaging-making-quick-progress-3um-pitch-in-2027"><img src="https://images.anandtech.com/doci/21414/3DFabric Technology Portfolio_575px.PNG" alt="" /></a></p><p><p>TSMC&#39;s 3D-stacked system-on-integrated chips (SoIC) advanced packaging technologies is set to evolve rapidly. In a presentation at the company&#39;s recent technology symposium, TSMC outlined a roadmap that will take the technology from a current bump pitch of 9&mu;m all the way down to a 3&mu;m pitch by 2027, stacking together combinations of A16 and N2 dies.</p>
-
-<p>TSMC has a number of advanced packaging technologies, including 2.5D CoWoS and 2.5D/3D InFO. Perhaps the most intriguing (and complex) method is their 3D-stacked system-on-integrated chips (SoIC) technology, which is TSMC&#39;s implementation of hybrid wafer bonding. Hybrid bonding allows two advanced logic devices to be stacked directly on top of each other, allowing for ultra-dense (and ultra-short) connections between the two chips, and is primarily aimed at high performance parts. For now, SoIC-X (bumpless) is used for select applications, such as AMD&#39;s 3D V-cache technology for CPUs, as well as their Instinct MI300-series AI products. And while adoption is growing, the current generation of the technology is constrained by limitations on die sizes and interconnection pitches.</p>
-
-<p align="center"><a href="https://www.anandtech.com/show/21414/tsmcs-3d-stacked-soic-packaging-making-quick-progress-3um-pitch-in-2027"><img alt="" src="https://images.anandtech.com/doci/21414/SoIC-3D-Integration_575px.jpg" /></a></p>
-
-<p>But those limitations are expected to give way quickly, if all goes according to plan for TSMC. SoIC-X technology is going to advance fast, and by 2027, it will be possible assemble a chip pairing a reticle-sized top die made on TSMC&#39;s leading-edge A16 (1.6nm-class) on a bottom die produced using TSMC&#39;s N2 (2nm-class). These dies, in turn, would be connected using 3&mu;m bond pitche ssilicon vias (TSVs), three times the density of the size of today&#39;s 9&mu;m pitch. Such small interconnections will allow for a much larger number of connections overall, greatly increasing the bandwidth density (and thus performance) of the assembled chip.</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="1" width="650">
-	<tbody>
-		<tr class="tgrey">
-			<td align="center" colspan="9">TSMC&#39;s SoIC-X Roadmap<br />
-			Data by TSMC (Compiled by AnandTech)</td>
-		</tr>
-		<tr class="tlblue">
-			<td width="186">&nbsp;</td>
-			<td align="center" valign="middle" width="137">2022</td>
-			<td align="center" valign="middle" width="137">2023</td>
-			<td align="center" valign="middle" width="137">2024</td>
-			<td align="center" valign="middle" width="137">2025</td>
-			<td align="center" valign="middle" width="137">2026</td>
-			<td align="center" valign="middle" width="137">2027</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Top Die</td>
-			<td align="center" valign="middle">N7</td>
-			<td align="center" valign="middle">N5</td>
-			<td align="center" valign="middle">N4</td>
-			<td align="center" valign="middle">N3</td>
-			<td align="center" valign="middle">N2</td>
-			<td align="center" valign="middle">A16</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Bottom Die</td>
-			<td align="center" valign="middle">N7</td>
-			<td align="center" valign="middle">&ge;N6</td>
-			<td align="center" valign="middle">&ge;N5</td>
-			<td align="center" valign="middle">&ge;N4</td>
-			<td align="center" valign="middle">&ge;N3</td>
-			<td align="center" valign="middle">&ge;N2</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Bond Pitch</td>
-			<td align="center" valign="middle">9 &mu;m</td>
-			<td align="center" valign="middle">9 &mu;m</td>
-			<td align="center" valign="middle">6 &mu;m</td>
-			<td align="center" valign="middle">6 &mu;m</td>
-			<td align="center" valign="middle">4.5 &mu;m</td>
-			<td align="center" valign="middle">3 &mu;m</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Size*</td>
-			<td align="center" valign="middle">0.1 reticle</td>
-			<td align="center" valign="middle">0.4 reticle</td>
-			<td align="center" valign="middle">0.8 reticle</td>
-			<td align="center" valign="middle">1 reticle</td>
-			<td align="center" valign="middle">1 reticle</td>
-			<td align="center" valign="middle">1 reticle</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><small>*TSMC considers reticle size as roughly 830 mm<sup>2</sup>.</small></p>
-
-<p>Improved hybrid bonding techniques are intended to allow TSMC&#39;s big HPC customers &ndash; AMD, Broadcom, Intel, NVIDIA, and the like &ndash; to build large, ultra-dense disaggregated processor designs for demanding applications, where distance between the dies is critical, as is the overall floor space used. Meanwhile, for applications where only performance matters, it <a href="https://www.anandtech.com/show/21375/tsmc-readies-8x-reticle-size-super-carrier-interposer">will be possible to place multiple SoIC-X packages on a CoWoS interposer</a> to get improved performance at a lower power consumption.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/21414/tsmcs-3d-stacked-soic-packaging-making-quick-progress-3um-pitch-in-2027"><img alt="" src="https://images.anandtech.com/doci/21414/SoIC-chips_575px.jpg" /></a></p>
-
-<p>In addition to developing its bumpless SoIC-X packaging technology aimed at devices that require extreme performance, TSMC will also launch its bumped SoIC-P packaging process in the near future. SoIC-P is designed for cheaper lower performance applications that still want 3D-stacking, but don&#39;t need the additional performance and complexity that comes with bumpless copper-to-copper TSV connections. This packing technique will enable a broader range of companies to leverage SoIC, and while TSMC can&#39;t speak for their customers&#39; plans, a cheaper version of the technology may make it accessible for more cost-conscious consumer applications.</p>
-
-<p>Per TSMC&#39;s current plans, by 2025 the company will offer a face-to-back (F2B) bumped SoIC-P technology capable of pairing a 0.2-reticle sized N3 (3nm-class) top die with an N4 (4nm-class) bottom die, which will be connected using 25&mu;m pitch microbumps (&micro;bumps). In 2027, TSMC will introduce bumped face-to-face (F2F) SoIC-P technology, which will be able to place an N2 top die on an N3 bottom die with a pitch of 16&mu;m.</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="1" width="650">
-	<tbody>
-		<tr class="tgrey">
-			<td align="center" colspan="5">TSMC&#39;s SoIC-P Roadmap<br />
-			Data by TSMC (Compiled by AnandTech)</td>
-		</tr>
-		<tr class="tlblue">
-			<td width="186">&nbsp;</td>
-			<td align="center" width="137">2025</td>
-			<td align="center" width="137">2027</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Top Die</td>
-			<td align="center" valign="middle">N3</td>
-			<td align="center" valign="middle">N2</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Bottom Die</td>
-			<td align="center" valign="middle">&ge;N4</td>
-			<td align="center" valign="middle">&ge;N3</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Bond Pitch</td>
-			<td align="center" valign="middle">25 &mu;m</td>
-			<td align="center" valign="middle">16 &mu;m</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Size*</td>
-			<td align="center" valign="middle">0.2 reticle</td>
-			<td align="center" valign="middle">0.4 reticle</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Die Orientation</td>
-			<td align="center" valign="middle">face-to-back</td>
-			<td align="center" valign="middle">face-to-face</td>
-		</tr>
-		<tr>
-			<td class="tlgrey">Qualification Time</td>
-			<td align="center" valign="middle">Q4 2024 for mobile SoC</td>
-			<td align="center" valign="middle">Q2 2026 for HPC</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><small>*TSMC considers reticle size as roughly 830 mm<sup>2</sup></small></p>
-
-<p>A lot of work has to be done to make SoIC more popular and accessible among chip developers, including continuing to iprove their die-to-die interfaces. But TSMC seems to be very optimistic about SoIC adoption by the industry, and expects around 30 SoIC designs to be released by 2026 &ndash; 2027.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/21414/tsmcs-3d-stacked-soic-packaging-making-quick-progress-3um-pitch-in-2027</link>
- 	<pubDate>Fri, 31 May 2024 11:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21414:news</guid>
- 	<category><![CDATA[ Semiconductors]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>GEEKOM A7 mini-PC Review : Premium Phoenix in a Compact 4x4 Package</title>
-    <dc:creator>Ganesh T S</dc:creator>    
-    <description><![CDATA[ <p>The introduction of the Intel NUC in the early 2010s kickstarted the ultra-compact form-factor (UCFF) trend for desktop systems. Processors with TDPs ranging from 6 - 15W formed the backbone of this segment in the initial years. The emergence of configurable TDPs for notebook processors has prompted some vendors to introduce UCFF systems with regular 45W TDP processors (albeit, in cTDP-down mode).</p>
-
-<p>GEEKOM, the private label brand of Shenzhen Jiteng Network Technology Co., has emerged as a popular UCFF system vendor in the last couple of years. After starting off with systems based on older processors, the company has moved on to introducing units carrying the latest and greatest from both AMD and Intel. The company has also been innovating on the form-factor side with compact boards smaller than the traditional 4&quot;x4&quot; ones in the NUC clones. The GEEKOM A7 is one such system based on AMD&#39;s Phoenix lineup.</p>
-
-<p>The system is available in two configurations - one with the Ryzen 7 7840HS, and the other with the Ryzen 9 7940HS. The company sent over the flagship configuration to put through our evaluation routine for small form-factor computing systems. Read on to explore the performance profile and value proposition of the system, along with a discussion of the trade-offs involved in cramming a powerful notebook processor inside a system smaller than the traditional NUC.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21409/geekom-a7-minipc-review</link>
- 	<pubDate>Fri, 31 May 2024 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21409:news</guid>
- 	<category><![CDATA[ Systems]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>TSMC: Performance and Yields of 2nm on Track, Mass Production To Start In 2025</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21413/tsmc-performance-and-yields-of-2nm-on-track-mass-production-to-start-in-2025"><img src="https://images.anandtech.com/doci/21413/tsmc-678-nanosheet-gaa-transistor_575px.jpg" alt="" /></a></p><p><p>In addition to revealing its roadmap and plans concerning its current leading-edge process technologies, TSMC also shared progress of its <a href="https://www.anandtech.com/show/21370/tsmc-2nm-update-n2-in-2025-n2p-loses-bspdn-nanoflex-optimizations">N2</a> node as part of its <a href="https://www.anandtech.com/tag/tsmc-symposium-2024">Symposiums 2024.</a> The company&#39;s first 2nm-class fabrication node, and predominantly featuring gate-all-around transistors, according to TSMC N2 has almost achieved its target performance and yield goals, which places it on track to enter high-volume manufacturing in the second half of 2025.</p>
-
-<p>TSMC states that &#39;N2 development is well on track and N2P is next.&#39; In particular, gate-all-around nanosheet devices currently achieve over 90% of their expected performance, whereas yields of 256 Mb SRAM (32 MB) devices already exceeds 80%, depending on the batch. All of this for a node that is over a year away from mass production.</p>
-
-<p>Meanwhile, average yield of a 256 Mb SRAM was around 70% as of March, 2024, up from around 35% in April, 2023. Device performance has also been improving with higher frequencies being achieved while keeping power consumption in check.</p>
-
-<p>Chip designer interest towards TSMC&#39;s first 2nm-class gate-all-around nanosheet transistor-based technology is significant, too. The number of new tape-outs (NTOs) in the first year of N2 is over two-times higher than it was for N5. Though with that said, given TSMC&#39;s close working relationship with a handful of high-volume vendors &ndash; most notably Appe &ndash; NTOs can be a very misleading figure since the first year of a new node at TSMC is capacity constrained, and consequently the bulk of that capacity goes to TSMC&#39;s priority partners.</p>
-
-<p>Meanwhile, there were considerably more N5 tapeouts in its second year (some where N5P, of course) and N2 promises to have 2.6X more NTOs in its second year. So the node indeed looks quite promising. In fact, based on TSMC&#39;s slides (which we&#39;re unfortunately not able to republish), N2 is more popular than N3 in terms of NTOs both in the first and the second years of existence.</p>
-
-<p>When it comes to the second year of N2, in the second half of 2026 TSMC plans to roll out its N2P technology, which promises additional performance and power benefits. N2P is expected to improve frequency by 15% - 20%, reduce power consumption by 30% - 40%, and increase chip density by over 1.15 times compared to N3E, significant benefits to move to all-new GAA nanosheet transistors.</p>
-
-<p>Finally, for those companies that need the best in performance, power, and density, TSMC is poised to offer their <a href="https://www.anandtech.com/show/21408/tsmc-roadmap-at-a-glance-n3x-n2p-a16-2025-2026">A16 process in 2026</a>. That node <a href="https://www.anandtech.com/show/21369/tsmcs-16nm-technology-announced-for-late-2026-a16-with-super-power-rail-bspdn">will also bring in backside power delivery</a>, which will add costs, but is expected to greatly improve performance efficiency and scaling.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/21413/tsmc-performance-and-yields-of-2nm-on-track-mass-production-to-start-in-2025</link>
- 	<pubDate>Thu, 30 May 2024 15:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21413:news</guid>
- 	<category><![CDATA[ Semiconductors]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Lexar ARMOR 700 Portable SSD Review: Power-Efficient 2 GBps in an IP66 Package</title>
-    <dc:creator>Ganesh T S</dc:creator>    
-    <description><![CDATA[ <p>Lexar has a long history of serving the flash-based consumer storage market in the form of SSDs, memory cards, and USB flash drives. After having started out as a Micron brand, the company was acquired by Longsys which has diversified its product lineup with regular introduction of new products. Recently, the company announced a number of portable SSDs targeting different market segments. The Lexar ARMOR 700 Portable SSD makes its entry as the new flagship in the 20 Gbps PSSD segment.</p>
-
-<p>Despite its flagship positioning and rugged nature, the ARMOR 700 is reasonably priced thanks to the use of a native USB flash controller - the Silicon Motion SM2320. Similar to the SL500, the product uses YMTC 3D TLC NAND (compared to the usual Micron or BiCS NAND that we have seen in SM2320-based PSSDs from other vendors). Read on for a detailed look at the ARMOR 700, including an analysis of its internals and evaluation of its performance consistency, power consumption, and thermal profile.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21393/lexar-armor-700-portable-ssd-review-silicon-motion-sm2320-and-ymtc-128l-3d-tlc-part-deux</link>
- 	<pubDate>Thu, 30 May 2024 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21393:news</guid>
- 	<category><![CDATA[ Storage]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Arm Unveils 2024 CPU Core Designs, Cortex X925, A725 and A520: Arm v9.2 Redefined For 3nm </title>
-    <dc:creator>Gavin Bonshor</dc:creator>    
-    <description><![CDATA[ <p>As the semiconductor industry continues to evolve, Arm stands at the forefront of innovation for its core and IP architecture, especially in the mobile space, by&nbsp;pushing the boundaries of technology to deliver cutting-edge solutions for end users. For&nbsp;2024, Arm&#39;s year-on-year strategic advancements focus on enhancing last year&#39;s Armv9.2 architecture with a new twist. Arm has rebranded and re-strategized its efforts by introducing Arm Compute Subsystem (CSS), the direct successor to last year&#39;s Total Compute Solutions (TSC2023) platform.</p>
-
-<p>Arm is also&nbsp;transitioning its latest IP and Cortex core designs, including the largest Cortex X925, the middle Cortex A725, and the refreshed and smaller Cortex A520&nbsp;to the more advanced 3 nm process technology. Arm promises that the 3 nm process node will deliver unprecedented performance gains compared to last year&#39;s designs, power efficiency and scalability improvements, and new front and back-end refinements to its Cortex series of cores.&nbsp;Arms&#39; new solutions look to power the next-generation mobile and AI applications as Arm, along with its complete AArch64 64-bit instruction execution and approach to solutions geared towards mobile and notebooks, look set to redefine end users&#39; expectations within the Android and Windows on Arm products.</p>
-]]></description>
-    <link>https://www.anandtech.com/show/21399/arm-unveils-2024-cpu-core-designs-cortex-x925-a725-and-a520-arm-v9-2-redefined-for-3nm-</link>
- 	<pubDate>Wed, 29 May 2024 11:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21399:news</guid>
- 	<category><![CDATA[ CPUs]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>Rapidus Adds Chip Packaging Services to Plans for $32 Billion 2nm Fab</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21411/rapidus-adds-chip-packaging-services-to-plans-for-32b-2nm-fab"><img src="https://images.anandtech.com/doci/21411/microsoft-azure-datacenter-custom-chip-processor-wafer-semiconductor-fab-678_575px.jpg" alt="" /></a></p><p><p>To say that the global foundry market is booming right now would be an understatement. Demand for leading-edge process technologies driven by AI and HPC applications is unprecedented, and with Intel joining the contract chipmaking game, this market segment is once again becoming rather competitive as well. Yet, this is exactly the market segment that Rapidus, a foundry startup backed by the Japanese government and several major Japanese companies, is going to enter in 2027, when its first fab comes online, just a few years from now.</p>
-
-<p>In a fresh update on the status of bringing up the company&#39;s first leading-edge fab, Rapidus has revealed that they are intending to get in to the chip packaging game as well. Once complete, the &yen;5 trillion ($32 billion) fab will be offering both chip lithography on a 2nm node, as well as packaging services for chips produced within the facility &ndash; a notable distinction in an industry where, even if packaging isn&#39;t outsourced entirely (OSAT), it&#39;s still normally handled at dedicated facilities.</p>
-
-<p>Ultimately, while the company wants to serve the same clients as TSMC, Samsung, and Intel Foundry, the firm plans to do things almost completely differently than its competitors in a bid to speed up chipmaking from finishing design to getting a working chip out of the fab.</p>
-
-<p>&quot;We are very proud of being Japanese,&quot; said Henri Richard, general manager and president of Rapidus&#39;s subsidiary in the U.S. &quot;[&hellip;] I know that some people may be looking at this thinking [that] Japan is known for quality, attention to detail, but not necessarily for speed, or flexibility. But I will tell you that Atsuyoshi Koike (the head of Rapidus) is a very special executive. That is, he has all the quality of Japan, with a lot of American thinking. So he is quite a unique guy, and certainly extraordinarily focused on creating a company that will be extremely flexible and extremely quick on its feet.&quot;</p>
-
-<h3>2nm Only, At First</h3>
-
-<p>Perhaps the most significant difference between Rapidus and traditional foundries is that the company will offer only leading-edge manufacturing technologies to its clients: 2 nm in 2027 (phase 1) and then 1.4 nm in the future (phase 2). This is a stark contrast with other contract fabs, including Intel, which tend to offer their customers a full range of fabrication processes to land more clients and produce more chips. Apparently, Rapidus hopes that that there will be enough Japanese and American chip developers that are inclined to use its 2 nm fabrication process to produce their designs. With that said, the number of chip designers that are using the most advanced production node at any given time is relatively small &ndash; limited to large firms who need first-mover advantage and have the margins to justify taking the risk &ndash; so it remains to be seen whether Rapidus&#39;s business model becomes successful. The company believes it will, since the market of chips made on advanced nodes is growing rapidly.</p>
-
-<p>&quot;Until recently IDC was giving a an estimation of the 2nm and below market as about $80 billion and I think we are going to see soon a revision of the potential to $150 billion,&quot; said Richard. &quot;[&hellip;] TSMC is the 800 pound gorilla in the space. Samsung is there and Intel is going to enter that space. But the market growth is so significant and the demand is so high, that it does not take a lot of market share for Rapidus to be successful. One of the things that gives me great comfort is that when I talk to our EDA partners, when I talk to our potential clients, it is obvious that the entire industry is looking for alternative supply from a fully independent foundry. There is a place for Samsung in this industry, there is a place for Intel in this industry, the industry is currently owned by TSMC. But another totally independent foundry is more than welcome by all of the ecosystem partners and by the customers. So, I feel really, really good about Rapidus&#39;s positioning.&quot;</p>
-
-<p>Speaking of advanced process technologies, it is notable that Rapidus does not plan to use ASML&#39;s High-NA Twinscan EXE lithography scanners for 2 nm production. Instead, Rapidus is sticking to ASML&#39;s proven Low-NA scanners, which will reduce costs of Rapidus&#39;s fab, though it will entail usage of EUV double patterning, which brings up costs and lengthens the production cycle in other ways. Even with those trade-offs, <a href="https://www.semianalysis.com/p/asml-dilemma-high-na-euv-is-worse">SemiAnalysis analysts believe</a> that given the cost of High-NA EUV litho tools and halved imaging field, Low-NA double patterning could be more economically viable.</p>
-
-<p>&quot;We think we are absolutely comfortable with the current [Low-NA EUV] solution for 2nm, but we might consider a different solution at 1.4 nm,&quot; said Richard.</p>
-
-<p>For now, only Intel plans to use High-NA tools to make chips on its 14A (1.4 nm-class) fabrication process sometimes in the middle of the decade. TSMC and Samsung Foundry look to be more cautious, so Rapidus is not alone with its attitude towards High-NA EUV tools.</p>
-
-<h3>Advanced Packaging at a Leading-Edge Fab</h3>
-
-<p>In addition to advanced process technologies, high-end chip designers (such as those used for AI and HPC applications) also need advanced packaging technologies (e.g., for HBM integration) and Rapidus is ready to offer them as well. What sets the company apart from its industry peers is that it plans to build and package chips in the same fab.</p>
-
-<p>&quot;We intend to have the backend capability in Hokkaido [semiconductor fab] as a differentiator,&quot; Richard said. &quot;We have the benefit of starting from scratch and be able to build probably the first fully integrated front end back end semiconductor fab in the industry, I think. Others will retrofit and modify their existing capacity, but we have a clean sheet of paper and part of the secret sauce that Koike son is bringing to Rapidus are some very interesting ideas on how to integrate both front end and back end amongst others.&quot;</p>
-
-<p>Intel, Samsung, and TSMC have separate facilities for chip manufacturing and packaging, as even the most sophisticated packaging methods involving silicon interposers (which are essentially large chips) don&#39;t match the complexity of modern processors. The tools that are used to build silicon interposers and equipment used to make full logic chips are vastly different, so installing them into the same cleanroom generally makes little sense as they do not complement each other very well.</p>
-
-<p>On the other hand, transporting wafers from one site to another is a time consuming and risky endeavor, so integrating everything into one campus could make sense as it greatly simplifies supply chain.</p>
-
-<p>&quot;We are going to re reinvent the way, chip design, front end and the back end are working together toward the completion of a project,&quot; Richard said. [&hellip;] The whole idea is we can do it fast, with high quality, high yield, and with a very short cycle time.&quot;</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/21411/rapidus-adds-chip-packaging-services-to-plans-for-32b-2nm-fab</link>
- 	<pubDate>Fri, 24 May 2024 16:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21411:news</guid>
- 	<category><![CDATA[ Semiconductors]]></category>                               
-</item>  
-    
-    
-<item>
-    <title>MSI Teases Z790 Project Zero Plus Motherboard With CAMM2 Memory Support</title>
-    <dc:creator>Anton Shilov</dc:creator>    
-    <description><![CDATA[ <p align="center"><a href="https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support"><img src="https://images.anandtech.com/doci/21410/msi-camm2-678_575px.jpg" alt="" /></a></p><p><p>MSI on Thursday published the first image of a new desktop motherboard that supports the innovative DDR5 compression attached memory module (CAMM2). DDR5 CAMM2 modules are designed to improve upon the SO-DIMM form factor used for laptops, alleviating some of the high-speed signaling and capacity limitations of SO-DIMMs while also shaving down on the volume of space required. And while we&#39;re eagerly awaiting to see CAMM2 show up in more laptops, its introduction in a PC motherboard comes as a bit of a surprise, since PCs aren&#39;t nearly as space-constrained.</p>
-
-<p>MSI&#39;s Z790 Project Zero Plus motherboard, which supports Intel&#39;s latest 14<sup>th</sup>&nbsp;Generation Core processors, is to a large degree a proof-of-concept product that is showcasing several new technologies and atypical configuration options. Key among these, of course, is the CAMM2 connector. The single connector supports a 128-bit DDR5 memory bus, allowing for a system to be fully populated with RAM with just a single, horizontally-mounted CAMM2 module. And in terms of design, the Zero Plus also features backside power connectors for improved cable management.</p>
-
-<p style="text-align: center;"><a href="https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support"><img alt="" src="https://images.anandtech.com/doci/21410/msi-camm2_575px.jpg" /></a></p>
-
-<p>CAMM2 is designed to replace traditional modules in an SO-DIMM form-factor and is meant to occupy up to 64% less space than two DDR5 SO-DIMMs. In addition, CAMM2 greatly optimizes signal and power traces inside the motherboard, primarily by ensuring all memory trace lengths are identical, reducing some of the signaling penalties that normally come from supporting multiple SO-DIMM slots in a system. With DDR5 being particularly sensitive here &ndash; to the point where 2 DIMM Per Channel (2DPC) configurations take a max frequency hit even on desktop systems&nbsp;&ndash; CAMM2 modules are expected to simplify and, to a degree, improve laptop designs to better match DDR5&#39;s limitations.</p>
-
-<p>Though whether CAMM2 sees widespread adoption remains to be seen. Unlike it&#39;s LPDDR5X counterpart, LPCAMM2, DDR5 CAMM2 hasn&#39;t attracted the same interest from laptop vendors quite yet, in large part because it doesn&#39;t introduce any new functionality (e.g. socketed LPDDR5X).</p>
-
-<p>Meanwhile CAMM2 in ATX desktops is all but unexplored right now, which is why we&#39;re seeing experimental products like MSI&#39;s motherboard. The space savings alone aren&#39;t as important in desktops due to their size&nbsp;&ndash; though CAMM2 does cut down on Z-height, keeping memory away from CPU coolers. But PC makers will be looking at other factors such as inventory, as equipping desktop boards with CAMM2 connectors would allow them to use the same memory modules in both laptops and desktops. And longer term there is the question of whether CAMM2 can deliver tangible signaling benefits over traditional DIMMs.</p>
-
-<p>MSI plans to showcase its Z790 Project Zero Plus platform at Computex, alongside memory partner Kingston. The latter will be at the show to demonstrate its Fury Impact CAMM2 memory module, which is one of the first DDR5 CAMM2 modules to be announced.</p>
-</p>]]></description>
-    <link>https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support</link>
- 	<pubDate>Fri, 24 May 2024 08:00:00 EDT</pubDate>
- 	<guid isPermaLink="false">tag:www.anandtech.com,21410:news</guid>
- 	<category><![CDATA[ Motherboards]]></category>                               
 </item>  
     
 </channel>
