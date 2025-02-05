@@ -47,9 +47,9 @@ name11=Google Remote Desktop
 img11=image (3).png
 dir11=https://remotedesktop.google.com/support/?pli=1	
 
-name12=
-img12=empty
-dir12=
+name12=Skin Maker
+img12=image (4).png
+dir12=C:\Users\Andy Banks\Documents\Rainmeter\Skins\DarkClaws\@Resources\SkinGenerator\SkinGenerator.exe
 
 name13=
 img13=empty

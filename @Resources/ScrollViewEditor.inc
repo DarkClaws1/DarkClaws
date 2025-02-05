@@ -4,6 +4,12 @@ folderH = (#SkinHeight# * 0.1)
 
 
 
+;The background needs to be in this skin 
+; or the layering gets effected
+[Background]
+Meter = Shape
+MeterStyle = styleBG
+
 ;------------------------------------------------
 ;	White Outlines
 ;------------------------------------------------

@@ -21,6 +21,9 @@ font 	= Choco cooky
 stroke 	= 3
 openEdit = F9
 
+Editor = "Editor.ini"
+Settings = "Settings.inc"
+
 
 ;background color
 	bgColor =0,0,0
@@ -92,7 +95,7 @@ AntiAlias = 1
 StringAlign = Center
 DynamicVariables = 1
 FocusDismiss=1
-Command1=!Execute [!WriteKeyValue Variables #InputVar# "$UserInput$" "Settings.inc"][!Refresh]
+Command1=!Execute [!WriteKeyValue Variables #InputVar# "$UserInput$" "#Settings#"][!Refresh]
 DefaultValue= [#[#InputVar]]
 
 [textHighlight]
@@ -103,6 +106,13 @@ DynamicVariables = 1
 [imageHighlight]
 MouseOverAction = [!SetOption #CURRENTSECTION# ImageTint #hlColor#]
 MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #white#]
+
+[BoxFill]
+Text=g
+FontFace=Webdings
+FontSize=(10.2 * #scale#)
+FontColor=#hlColor#
+FontStyle = Bold
 
 [MeasureConfig]
 Measure = String
@@ -123,7 +133,7 @@ W=(#SkinWidth# * 0.05)
 ImageTint = #txColor#
 ImageName=#@#/Icons/Settings
 LeftMouseDownAction = [!SetOption #CURRENTSECTION# ImageTint #clColor#]
-LeftMouseUpAction=!Execute  [!ActivateConfig "#CURRENTCONFIG#" "Editor.ini"]
+LeftMouseUpAction=!Execute  [!ActivateConfig "#CURRENTCONFIG#" "#Editor#"]
 MouseOverAction =  [!SetOption #CURRENTSECTION# ImageTint #hlColor#]
 MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #txColor#]
 PreserveAspectRatio = 1
@@ -138,20 +148,6 @@ MouseOverAction  =[!SetOption #CURRENTSECTION# FontColor #hlColor#]
 MouseLeaveAction =[!SetOption #CURRENTSECTION# FontColor #bgColor#]
 LeftMouseUpAction =[!SetOption #CURRENTSECTION# FontColor #bgColor#]
 
-
-[StyleWhiteText]
-FontColor=#SolidWhite#
-
-[StyleBlackText]
-FontColor=#SolidBlack#
-
-[StyleErrorText]
-FontColor=#SolidRed#
-
-[StyleWindowsColorText]
-FontColor=#WindowsColorText#
-Group=WindowsTextColorGroup
-
 [StyleLeftAlign]
 StringAlign=Left
 
@@ -161,45 +157,3 @@ StringAlign=Right
 [StyleCenterAlign]
 StringAlign=Center
 
-[StyleBigText]
-H=100
-AntiAlias=1
-FontFace=Segoe UI Light
-FontSize=50
-FontColor=#SolidWhite#
-StringAlign=Left
-ClipString=1
-
-[StyleVolumeBarSense]
-X=0R
-Y=0r
-W=2
-H=#BackgroundHeight#
-Hidden=1
-SolidColor=#Transparent#
-Group=Sense
-UpdateDivider=-1
-
-
-[StyleHDOff]
-X=1R
-Y=0r
-W=22
-H=22
-Hidden=1
-SolidColor=#TransparentWhite3#
-AntiAlias=1
-Group=HDSelect
-FontFace=Segoe UI
-FontSize=12
-FontColor=#TransparentWhite3#
-StringAlign=Center
-ClipString=1
-UpdateDivider=-1
-
-;=======================================
-; NumberMeasures
-;=======================================
-[Tlest]
-Measure = Calc
-Formula = 120

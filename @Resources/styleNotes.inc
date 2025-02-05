@@ -17,8 +17,8 @@ ContextTitle6= Mouse Actions
 ContextAction6 = [!ActivateConfig "DarkClaws\Notes" "EX_MouseActions.ini"]
 ContextTitle7= Variables
 ContextAction7 = [!ActivateConfig "DarkClaws\Notes" "EX_Variables.ini"]
-ContextTitle8= Making Meters
-ContextAction8 = [!ActivateConfig "DarkClaws\Notes" "EX_Notes_Meters.ini"]
+ContextTitle8= METERS!
+ContextAction8 = [!ActivateConfig "DarkClaws\Notes" "EX_CreatingMeters.ini"]
 ContextTitle9= Changing Meters
 ContextAction9 = [!ActivateConfig "DarkClaws\Notes" "EX_ChangingMeters.ini"]
 

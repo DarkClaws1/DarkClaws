@@ -19,9 +19,9 @@ name4=WoW
 img4=256x256.png
 dir4=C:\Users\Public\Desktop\World of Warcraft.lnk			
 
-name5=
+name5=Raid
 img5=empty
-dir5=			
+dir5=C:\Users\Andy Banks\Desktop\Raid Shadow Legends.lnk			
 
 name6=
 img6=empty

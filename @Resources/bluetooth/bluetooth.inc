@@ -14,6 +14,7 @@ IfMatch=BT_ON
 IfMatchAction=#BT_OnBluetoothCheck_On#
 IfNotMatchAction=#BT_OnBluetoothCheck_Off#
 
+; TOGGLE BLUETOOTHJ ON OR OFF
 [BT_MeasureToggleBluetoothRun]
 Measure=Plugin
 Plugin=RunCommand
@@ -21,7 +22,7 @@ Program="#@#\bluetooth\batch\bluetoothToggle.bat"
 State=Hide
 OutputType=UTF8
 StartInFolder=#@#\bluetooth\batch\
-FinishAction=#BT_AfterBluetoothToggle#[!SetOption BT_MeasureToggleBluetoothString String [BT_MeasureToggleBluetoothRun]][!EnableMeasure BT_MeasureToggleBluetoothString][!UpdateMeasure BT_MeasureToggleBluetoothString][!Redraw]
+FinishAction=#BT_AfterBluetoothToggle#[!SetOption BT_MeasureToggleBluetoothString String [BT_MeasureToggleBluetoothRun]][!EnableMeasure BT_MeasureToggleBluetoothString][!UpdateMeasure BT_MeasureToggleBluetoothString][!Refresh]
 
 [BT_MeasureToggleBluetoothString]
 Measure=String

@@ -5,7 +5,7 @@ SkinHeight = (#areaH# * 0.208)
 InputSize = (15 * #scale#)
 Settings = #CURRENTPATH#Settings.inc
 Player=Media Monkey
-showBars =0
+showBars =1
 fftSize=2048
 fftAttack=100
 fftDecay=60
@@ -13,7 +13,7 @@ buttonsY = (#SkinHeight# * 0.65)
 buttonsH =(#SkinHeight# * 0.35) 
 folderW = (#SkinWidth# * 0.07)
 folderH = (#SkinHeight# * 0.1)
-rate =25
+rate =16
 slow = 25
 fast = 16
 

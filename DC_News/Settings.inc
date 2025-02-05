@@ -12,7 +12,7 @@ Feed2 =NYT
 Feed3 =Science
 Feed4 =Animals
 
-ScrollSpeed=10
+ScrollSpeed=8
 
 NewsX = (#SkinWidth# * 0.14)
 NewsHeight = (#SkinHeight# * 0.23)
