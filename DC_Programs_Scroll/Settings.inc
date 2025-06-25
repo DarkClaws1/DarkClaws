@@ -1,14 +1,15 @@
+;Programs Settings
 [Variables]
 @Include = #@#style.inc
 
 ;Edit These
-Main 		= DC_Games
+Main 		= DC_Programs_Scroll
 DirFolder 	= C:\Users\Andy Banks\Desktop
-IconFolder 	= Images
+IconFolder 	= C:\Users\Andy Banks\Pictures\Saved 
 
 Btn1Name 	= Bluestacks
 Btn1Link 	= C:\Program Files\BlueStacks\Bluestacks.exe
 
 Btn2Name 	= Steam
-Btn2Link 	=  C:\Program Files (x86)\Steam\Steam.exe
-Editing=1
+Btn2Link 	= C:\Program Files (x86)\Steam\Steam.exe
+Editing=10

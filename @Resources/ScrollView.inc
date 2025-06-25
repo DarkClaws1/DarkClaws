@@ -3,6 +3,7 @@ OnRefreshAction=[!ShowMeterGroup "Icons"][!HideMeterGroup "Warning"]
 Update=0
 SkinWidth=#SkinWidth#
 SkinHeight=#SkinHeight#
+SkinHeight=#SkinHeight#
 
 ;Custom Menu
 RightMouseUpAction=!Execute [!SkinCustomMenu]
@@ -237,3 +238,27 @@ Meter=Shape
 Shape=Rectangle 0, 200, #SkinWidth# , 10, 2 | Fill Color 0,0,0,150 | StrokeWidth 0
 Shape2=Rectangle (([SmoothScroll])*(#SkinWidth#)/(#ScrollLimit#-#SkinWidth#)), 200, (-1 * #SkinWidth# * (#SkinWidth#/(#ScrollLimit#-#SkinWidth#))), 10 | Fill Color #hlColor#,255 | StrokeWidth 1 | Stroke Color #olColor#
 DynamicVariables=1
+
+[MeterFolderBox]
+Meter = Shape
+Shape = Rectangle 0, 0, #folderW#, #folderH# | Stroke Color #olColor# | StrokeWidth 2 | Extend Color
+Shape2 = Rectangle (#folderW# * 0.0), (#folderH# * -0.3), (#folderW# * 0.5), (#folderH# * 0.3) | Stroke Color #olColor# | StrokeWidth 2 | Extend Color
+X = #folderX#
+Y = #folderY#
+Color = Fill Color #bgColor#
+MouseOverAction  =[!SetOption #CURRENTSECTION# Color "Fill Color #hlColor#"]
+MouseLeaveAction  =[!SetOption #CURRENTSECTION# Color "Fill Color #bgColor#"]
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# Color "Fill Color #clColor#"]
+LeftMouseUpAction = [!SetOption #CURRENTSECTION# Color "Fill Color #bgColor#"]["#ImgDir#"]
+
+[MeterHelpButton]
+Meter = String
+MeterStyle = styleText | textHighlight
+FontFace = Webdings
+Y = #SkinHeight# * 0.012
+X = #SkinWidth# * 0.97
+FontSize = 20 * #scale#
+StringAlign = CENTER
+Text = s
+ToolTipText = :testing
+LeftMouseUpAction = [!ToggleMeterGroup Help]

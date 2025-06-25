@@ -101,6 +101,7 @@ DefaultValue= [#[#InputVar]]
 [textHighlight]
 MouseOverAction  =[!SetOption #CURRENTSECTION# FontColor #hlColor#]
 MouseLeaveAction =[!SetOption #CURRENTSECTION# FontColor #txColor#]
+LeftMouseDownAction = [!SetOption #CURRENTSECTION# FontColor #clColor#]
 DynamicVariables = 1
 
 [imageHighlight]

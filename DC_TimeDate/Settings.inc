@@ -4,6 +4,8 @@ SkinWidth = (#rightSize# * #scale#)
 SkinHeight = (#areaH# * 0.16)
 FontColor = 200,200,200
 Settings = #CURRENTPATH#Settings.inc
+ToggleKey =F5
+InputSize = 22
 
 [styleTime]
 Y = (#SkinHeight# * 0.01)

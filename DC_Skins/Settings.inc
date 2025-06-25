@@ -7,12 +7,13 @@ Settings = #CURRENTPATH#Settings.inc
 gapY = (#SkinHeight# * 0.1)
 min = -345
 max = 0
-topY =0
+topY =-40
 scrollSpeed = 20
 
 [styleSkinButton]
 X = (#SkinWidth# * 0.5)
 Y = #gapY#r
+H = #SkinWidth# * 0.1
 StringAlign = Center
 FontSize= 50 * #scale#
 Text = #CURRENTSECTION#

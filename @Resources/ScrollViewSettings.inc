@@ -4,6 +4,11 @@ SkinHeight = (200 * #scale#)
 LEFTSIDE 	= "29.4, 41.2, 14.7, 14.7"
 RIGHTSIDE 	= "23.4, 12, 19.4, 4.6, 23.7, 14.7"
 
+folderX = (#SkinWidth# * 0.9)
+folderY = (#SkinHeight# * 0.05)
+folderW = (#SkinWidth# * 0.04)
+folderH = (#SkinHeight# * 0.07)
+
 ;Paths
 ImgDir 		= #ROOTCONFIGPATH#\#Main#\Images
 ListDir 	= #ROOTCONFIGPATH#\#Main#\List.inc

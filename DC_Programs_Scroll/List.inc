@@ -1,3 +1,4 @@
+;Programs List
 [Variables]
 Total=20
 
@@ -51,13 +52,13 @@ name12=Skin Maker
 img12=image (4).png
 dir12=C:\Users\Andy Banks\Documents\Rainmeter\Skins\DarkClaws\@Resources\SkinGenerator\SkinGenerator.exe
 
-name13=
+name13=ARK Mod File
 img13=empty
-dir13=	
+dir13=G:\SteamLibrary\steamapps\common\ARK Survival Ascended\ShooterGame\Saved\Config\Windows\GameUserSettings.ini	
 
-name14=
+name14=Ark Devkits
 img14=empty
-dir14=
+dir14=C:\Users\Andy Banks\Desktop\ARK DevKit.url
 
 name15=
 img15=empty

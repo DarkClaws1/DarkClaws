@@ -1,3 +1,4 @@
+;Games List
 [Variables]
 Total=20
 
@@ -5,11 +6,11 @@ name0 =
 
 name1=Ark
 img1=czafx5m7.bmp
-dir1=C:\Users\Andy Banks\Desktop\ARK Survival Evolved.url
+dir1=C:\Users\Andy Banks\Desktop\ARK Survival Ascended.url
 
-name2=Red Alert 2
-img2=v15mjyem.bmp
-dir2=C:\Users\Andy Banks\Desktop\Command & Conquer Red Alert™ 2 and Yuri’s Revenge™.url	
+name2=NFS Carbon
+img2=nfs-carbon-logo.png
+dir2=C:\Users\Andy Banks\Desktop\Need for Speed - Carbon.lnk	
 
 name3=Cyberpunk 2077
 img3=cyberpunk_2077_icon_by_s7_by_sidyseven_d60opl7-fullview.png
@@ -17,11 +18,11 @@ dir3=C:\Users\Andy Banks\Desktop\Cyberpunk 2077.url
 
 name4=WoW
 img4=256x256.png
-dir4=C:\Users\Public\Desktop\World of Warcraft.lnk			
+dir4=C:\Users\Public\Desktop\World of Warcraft.lnk		
 
-name5=Raid
-img5=empty
-dir5=C:\Users\Andy Banks\Desktop\Raid Shadow Legends.lnk			
+name5=ARK Dev Kit
+img5=egs-arkdevkit-studiowildcard-ic1-400x400-1cb356e0b780.avif
+dir5=C:\Users\Andy Banks\Desktop\ARK DevKit.url	
 
 name6=
 img6=empty
