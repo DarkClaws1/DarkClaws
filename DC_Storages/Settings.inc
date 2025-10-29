@@ -20,14 +20,14 @@ FontSize = (17 * #scale#)
 UsedX = (#SkinWidth# * 0.93)
 
 disk1 = C:
-disk2 =D:
+disk2 =G:
 disk3 =F:
-disk4 =G:
+disk4 =D:
 
 index1 =1
-index2 =2
+index2 =0
 index3 =3
-index4 =0
+index4 =2
 
 ;==================================================
 [MeasureTemp1]
