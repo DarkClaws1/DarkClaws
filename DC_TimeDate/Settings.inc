@@ -6,6 +6,8 @@ FontColor = 200,200,200
 Settings = #CURRENTPATH#Settings.inc
 ToggleKey =F5
 InputSize = 22
+space1 = (#SkinWidth# * 0.07) 
+space2 = (#SkinWidth# * 0.21)
 
 [styleTime]
 Y = (#SkinHeight# * 0.01)

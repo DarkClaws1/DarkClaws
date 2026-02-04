@@ -1,6 +1,6 @@
 [Variables]
 SkinWidth = (#leftSize# * 0.5 * #scale#)
-SkinHeight = (#areaH# * 0.147)
+SkinHeight = (#areaH# * 0.15)
 TitleSize = (18 * #scale#)
 
 [MeterBG]

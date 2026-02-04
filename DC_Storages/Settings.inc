@@ -19,15 +19,15 @@ BarH = (#SkinHeight# * 0.05)
 FontSize = (17 * #scale#)
 UsedX = (#SkinWidth# * 0.93)
 
-disk1 = C:
-disk2 =G:
-disk3 =F:
-disk4 =D:
+disk1 =C:
+disk2 =D:
+disk3 =B:
+disk4 =A:
 
-index1 =1
-index2 =0
-index3 =3
-index4 =2
+index1 =2
+index2 =2
+index3 =0
+index4 =3
 
 ;==================================================
 [MeasureTemp1]
