@@ -1,1 +1,1194 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Science Latest</title><description>Channel Description</description><link>https://www.wired.com</link><atom:link href="https://www.wired.com/feed/category/science/latest/rss/" rel="self" type="application/atom+xml"/><copyright>© Condé Nast 2026</copyright><language>en-US</language><lastBuildDate>Wed, 04 Feb 2026 20:14:53 +0000</lastBuildDate><item><title>Why Are Some Women Training for Pregnancy Like It’s a Marathon?</title><link>https://www.wired.com/story/pregnancy-zero-trimester-influencers/</link><guid isPermaLink="false">69716563c07588134e8f157d</guid><pubDate>Wed, 04 Feb 2026 11:00:00 +0000</pubDate><media:content/><description>A growing legion of “zero trimester” influencers are convincing followers that healthy pregnancies are a choice—and that raw milk, watching sunsets, and pricey specialized courses can help.</description><category>The Big Story</category><category>Science</category><category>Science / Health</category><media:keywords>longreads, pregnancy, women's health, influencers, Trends</media:keywords><dc:creator>Currie Engel</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Baby Bumps</dc:subject><media:thumbnail url="https://media.wired.com/photos/6980f45d9036b955369a12c4/master/pass/culture_pregnancy_training.gif" width="400" height="500"/></item><item><title>HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims</title><link>https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/</link><guid isPermaLink="false">697d1797c08148daa249f284</guid><pubDate>Wed, 04 Feb 2026 10:00:00 +0000</pubDate><media:content/><description>Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.</description><category>Science</category><media:keywords>vaccines, public health, government, Robert F. Kennedy Jr., artificial intelligence</media:keywords><dc:creator>Emily Mullin</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Machine Theories</dc:subject><media:thumbnail url="https://media.wired.com/photos/697d1d239268c2127fc4632b/master/pass/sci-vax-rfkjr-2255115344.jpg" width="2400" height="1580"/></item><item><title>Rising Temperatures Are Taking a Toll on Sleep Health</title><link>https://www.wired.com/story/climate-change-heat-sleep-apnea/</link><guid isPermaLink="false">6980a81905b7bc67ee36cca8</guid><pubDate>Tue, 03 Feb 2026 10:30:00 +0000</pubDate><media:content/><description>As nights get hotter around the globe due to climate change, the prevalence of sleep apnea is expected to increase by as much as threefold.</description><category>Science</category><category>Science / Health</category><media:keywords>Sleep, research, climate, extreme heat</media:keywords><dc:creator>David Cox</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Sleep Apnea</dc:subject><media:thumbnail url="https://media.wired.com/photos/69813b555fea9b4898ac9250/master/pass/Rising-Temperatures-Taking-Toll-on-Sleep-Health-Science-1404729393.jpg" width="2500" height="1666"/></item><item><title>HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants</title><link>https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/</link><guid isPermaLink="false">697ceac907d038c7f0bafc3f</guid><pubDate>Mon, 02 Feb 2026 20:56:41 +0000</pubDate><media:content/><description>Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”</description><category>Science</category><media:keywords>government, Palantir, artificial intelligence, diversity, Donald Trump</media:keywords><dc:creator>Caroline Haskins</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Improper Ideology</dc:subject><media:thumbnail url="https://media.wired.com/photos/697d34ebbf7f7d94e7772911/master/pass/HHS-Using-Palantirs-AI-to-Target-DEI-Science-2256813198.jpg" width="2500" height="1667"/></item><item><title>How to Use Physics to Escape an Ice Bowl</title><link>https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/</link><guid isPermaLink="false">69669f6a8bcd0325b8a6e19c</guid><pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate><media:content/><description>Here are three smart tricks, based on an understanding of frictional forces, to beat a slippery slope.</description><category>Science</category><category>Science / Physics and Math</category><media:keywords>Dot Physics, physics, Acceleration, Forces</media:keywords><dc:creator>Rhett Allain</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Dot Physics</dc:subject><media:thumbnail url="https://media.wired.com/photos/697d39dd288c1dafebd263ee/master/pass/Using-Physics-to-Escape-Ice-Bowl-Science-2248980379.jpg" width="2500" height="1667"/></item><item><title>Microdosing for Depression Appears to Work About as Well as Drinking Coffee</title><link>https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/</link><guid isPermaLink="false">6977987d149759467db2a41c</guid><pubDate>Fri, 30 Jan 2026 11:00:00 +0000</pubDate><media:content/><description>For years, people from CEOs to novelists have taken tiny amounts of psychedelics to support well-being. New research shows that benefits for depression may be attributable to a placebo effect.</description><category>Science</category><media:keywords>psychology, mental health, medicine, psychedelic, depression</media:keywords><dc:creator>John Semley</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Imaginary Trips</dc:subject><media:thumbnail url="https://media.wired.com/photos/697805672a38a4db0244a583/master/pass/science_microdosing_placebo.jpg" width="2400" height="1350"/></item><item><title>This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required</title><link>https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/</link><guid isPermaLink="false">6931648e7899cde4862812ec</guid><pubDate>Thu, 29 Jan 2026 11:30:00 +0000</pubDate><media:content/><description>Gestala is the latest company to emerge from China’s burgeoning brain-computer interface industry. It plans to access the brain with noninvasive ultrasound technology.</description><category>Science</category><category>Science / Biotech</category><media:keywords>science, biotech, China, brain-computer interfaces</media:keywords><dc:creator>Emily Mullin</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Brain Reading</dc:subject><media:thumbnail url="https://media.wired.com/photos/697b169865447f8ad5aa29e7/master/pass/ScienceSourceImages_2524088_WebRes.jpg" width="591" height="591"/></item><item><title>Data Centers Are Driving a US Gas Boom</title><link>https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/</link><guid isPermaLink="false">69779b002193fa0a6abfeb6f</guid><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><media:content/><description>Gas projects in the US pipeline explicitly linked to data centers increased by almost 25 times over the past two years, according to new research from Global Energy Monitor.</description><category>Science</category><category>Science / Environment</category><media:keywords>Energy, climate change, Infrastructure, climate, environment, data centers, artificial intelligence, greenhouse gas</media:keywords><dc:creator>Molly Taft</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Altered Carbon</dc:subject><media:thumbnail url="https://media.wired.com/photos/697902b191e2c42a13c0d351/master/pass/sci-data-center-gas-turbine-2236733386.jpg" width="2400" height="1600"/></item><item><title>The Doomsday Clock Is Now 85 Seconds to Midnight. Here’s What That Means</title><link>https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/</link><guid isPermaLink="false">697a41af092cf43348dff594</guid><pubDate>Wed, 28 Jan 2026 20:09:07 +0000</pubDate><media:content/><description>Catastrophic risks are increasing, cooperation is declining, and swift action is needed from global leaders to correct course.</description><category>Science</category><category>Science / Environment</category><media:keywords>nuclear, apocalypse, climate, artificial intelligence</media:keywords><dc:creator>Marta Musso</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Tick Tock</dc:subject><media:thumbnail url="https://media.wired.com/photos/697a41afa2de1df7a1cd569e/master/pass/1459101668" width="4709" height="3140"/></item><item><title>A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk</title><link>https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/</link><guid isPermaLink="false">69779710f3f038d7e9fc98cd</guid><pubDate>Wed, 28 Jan 2026 11:00:00 +0000</pubDate><media:content/><description>Researchers have documented the births of nearly two dozen North Atlantic right whale calves this season. It’s an encouraging sign for a species whose population is estimated to be below 400.</description><category>Science</category><category>Science / Environment</category><media:keywords>animals, Ecology, marine science, conservation, whales</media:keywords><dc:creator>Chris Baraniuk</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>On the Brink</dc:subject><media:thumbnail url="https://media.wired.com/photos/6978ac336b7b849513b4eefc/master/pass/012726_Right-Whales.jpg" width="2400" height="1400"/></item><item><title>No One Is Quite Sure Why Ice Is Slippery</title><link>https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/</link><guid isPermaLink="false">696faf42063bc34ec8c1bfd7</guid><pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate><media:content/><description>A thin, watery layer coating the surface of ice is what makes it slick. Despite a great deal of theorizing over the centuries, though, it isn't entirely clear why that layer forms.</description><category>Science</category><media:keywords>Quanta Magazine, materials science, weather, water</media:keywords><dc:creator>Paulina Rowińska</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>The Unknown</dc:subject><media:thumbnail url="https://media.wired.com/clips/696ff1d0e00c6fae963751a5/master/pass/Slippery-Ice-Science-iStock-2207188090.mp4" width="1280" height="720"/></item><item><title>The US Is In For Another Bad Year of Measles Cases</title><link>https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/</link><guid isPermaLink="false">696fa92125e938273bcc52ea</guid><pubDate>Thu, 22 Jan 2026 11:00:00 +0000</pubDate><media:content/><description>A growing measles outbreak in South Carolina has infected more than 600 people since October, with hundreds more being potentially exposed.</description><category>Science</category><media:keywords>measles, vaccines, diseases, public health</media:keywords><dc:creator>Emily Mullin</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Outbreak</dc:subject><media:thumbnail url="https://media.wired.com/photos/69724bb3b8521df741e3b755/master/pass/sci-measles-2152300012.jpg" width="2400" height="2400"/></item><item><title>What We Know About the Winter Storm About to Hit the US—and What We Don’t</title><link>https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/</link><guid isPermaLink="false">6970e4e168489dd2f55ad23c</guid><pubDate>Wed, 21 Jan 2026 19:03:03 +0000</pubDate><media:content/><description>A huge portion of the United States is going to be hit with snow or freezing rain this weekend. Exactly where, what, and how much remains uncertain.</description><category>Science</category><category>Science / Environment</category><media:keywords>weather, climate, Snow, Infrastructure</media:keywords><dc:creator>Molly Taft</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>The More You Snow</dc:subject><media:thumbnail url="https://media.wired.com/photos/6970eb92ec79c86b7151d72f/master/pass/GettyImages-2247293762.jpg" width="7155" height="4773"/></item><item><title>The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To</title><link>https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/</link><guid isPermaLink="false">696a5bca21fa35fbff688f13</guid><pubDate>Wed, 21 Jan 2026 10:00:00 +0000</pubDate><media:content/><description>A new analysis finds that data centers’ energy demands will drastically increase power plant emissions over the next decade. Renewables, though, could cut them while helping keep prices from rising.</description><category>Science</category><category>Science / Environment</category><media:keywords>Energy, climate change, climate, government, environment, data centers</media:keywords><dc:creator>Molly Taft</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Better or Worse</dc:subject><media:thumbnail url="https://media.wired.com/photos/696a6940b5ebe3038f81b18a/master/pass/GettyImages-2244733148.jpg" width="3602" height="2026"/></item><item><title>‘Veronika’ Is the First Cow Known to Use a Tool</title><link>https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/</link><guid isPermaLink="false">696fc71753fb9d147ff09b31</guid><pubDate>Tue, 20 Jan 2026 19:51:45 +0000</pubDate><media:content/><description>This is the first recorded instance of a bovine using tools from her environment to relieve an itch—leaving scientists astonished.</description><category>Science</category><category>Science / Environment</category><media:keywords>animals, animal behavior, Biology, cows, tools</media:keywords><dc:creator>Jorge Garay</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Bovine Inspiration</dc:subject><media:thumbnail url="https://media.wired.com/photos/696fc7172b7fe1823a2ddda2/master/pass/Low-Res_Veronika%20resting%20while%20using%20a%20stick%20-%20Photo%20credit%20-%20Antonio%20J%20Osuna%20Mascar%C3%B3.png" width="700" height="526"/></item><item><title>He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again</title><link>https://www.wired.com/story/china-he-jiankui-gene-editing-alzheimers/</link><guid isPermaLink="false">695d8fc39f9e2bc3b2c02550</guid><pubDate>Tue, 20 Jan 2026 11:00:00 +0000</pubDate><media:content/><description>Chinese scientist He Jiankui wants to end Alzheimer’s and thinks Silicon Valley is conducting a “Nazi eugenic experiment.”</description><category>The Big Story</category><category>Science</category><category>Science / Biotech</category><media:keywords>longreads, gene editing, The China Issue, ethics, DNA, China</media:keywords><dc:creator>Emily Mullin</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Baby Maker</dc:subject><media:thumbnail url="https://media.wired.com/photos/696a9c4d03c4086371484c67/master/pass/WIRED-He-Jiankui-1.jpg" width="1875" height="2500"/></item><item><title>The Search for Alien Artifacts Is Coming Into Focus</title><link>https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/</link><guid isPermaLink="false">6967c9231bf2d9cd17fdcdf2</guid><pubDate>Mon, 19 Jan 2026 11:00:00 +0000</pubDate><media:content/><description>From surveys of the pre-Sputnik skies to analysis of interstellar visitors, scientists are rethinking how and where to look for physical traces of alien technology.</description><category>Science</category><category>Science / Space</category><media:keywords>space, Astronomy, Asteroids, aliens, satellites</media:keywords><dc:creator>Becky Ferreira</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>SETA</dc:subject><media:thumbnail url="https://media.wired.com/photos/6967ce15685933202e631c13/master/pass/sci-alien-objects-1203211214.jpg" width="2400" height="1350"/></item><item><title>Capturing the Moment a White Dwarf Exploded</title><link>https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/</link><guid isPermaLink="false">69682439f51565ffd50a0263</guid><pubDate>Mon, 19 Jan 2026 10:00:00 +0000</pubDate><media:content/><description>A research team has successfully imaged a nova in high resolution—and the images suggest that the nova was not a single, impulsive explosion.</description><category>Science</category><media:keywords>space, Astronomy, NASA, stars, astrophysics</media:keywords><dc:creator>Ritsuko Kawai</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Star Power</dc:subject><media:thumbnail url="https://media.wired.com/photos/69682438b52a20e106e12303/master/pass/nova-v1674-herculis.jpeg" width="1920" height="1500"/></item><item><title>How Does the Hive Mind Work in ‘Pluribus?</title><link>https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/</link><guid isPermaLink="false">6961612d40ae834c4b95247e</guid><pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate><media:content/><description>The “Joining” seems to connect people via radio waves. Let’s dig into the physics at play.</description><category>Science</category><category>Science / Physics and Math</category><media:keywords>Dot Physics, physics, Power, Radio</media:keywords><dc:creator>Rhett Allain</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Dot Physics</dc:subject><media:thumbnail url="https://media.wired.com/photos/696770c527e4d5dcaa4ce890/master/pass/Pluribus_Photo_010804.jpg" width="2834" height="1594"/></item><item><title>OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs</title><link>https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/</link><guid isPermaLink="false">69690b5f02bfb33402ce33e6</guid><pubDate>Thu, 15 Jan 2026 18:24:51 +0000</pubDate><media:content/><description>Merge Labs has emerged from stealth with $252 million in funding from OpenAI and others. It aims to use ultrasound to read from and write to the brain.</description><category>Science</category><category>Science / Biotech</category><media:keywords>Neuroscience, artificial intelligence, OpenAI, brain-computer interfaces, Sam Altman</media:keywords><dc:creator>Emily Mullin</dc:creator><dc:publisher>Condé Nast</dc:publisher><dc:subject>Brain Race</dc:subject><media:thumbnail url="https://media.wired.com/photos/69690ee78f59220ea2e720b9/master/pass/sci-openai-2220468498.jpg" width="2400" height="1600"/></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 10 Mar 2026 18:52:05 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 18:47:02 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Iran Live Updates: Nearly 700,000 Flee Israeli Strikes in Lebanon</title>
+      <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel" rel="standout"></atom:link>
+      <description>Lebanese leaders and aid groups warned of a growing humanitarian crisis as Israel targeted Hezbollah. Defense Secretary Pete Hegseth said there would be extensive strikes in Iran.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 18:47:02 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-sub-jcvb/10israel-iran-sub-jcvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html" rel="standout"></atom:link>
+      <description>His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 15:05:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khomeini, Ruhollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karroubi, Mehdi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ayatollah3-jkwb/10int-iran-ayatollah3-jkwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rouzbeh Fouladi/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mojtaba Khamenei, the son of the former supreme leader Ayatollah Ali Khamenei, in Tehran in 2019.</media:description>
+    </item>
+    <item>
+      <title>Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html" rel="standout"></atom:link>
+      <description>Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.</description>
+      <dc:creator>Zia ur-Rehman, Vivian Nereim and Aie Balagtas See</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 12:18:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-migrants-1-ctvj/10int-iran-migrants-1-ctvj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Christopher Pike/Getty Images</media:credit>
+      <media:description>Smoke rising last week after an explosion in an industrial zone of Fujairah, United Arab Emirates.</media:description>
+    </item>
+    <item>
+      <title>Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?</title>
+      <link>https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html" rel="standout"></atom:link>
+      <description>Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.</description>
+      <dc:creator>Hannah Beech, Binod Ghimire and Sajal Pradhan</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 08:52:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shah, Balendra (Balen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rastriya Swatantra Party (Nepal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oli, K P Sharma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kathmandu (Nepal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-nepal-rapper-01-bgtz-vid-cover/10int-nepal-rapper-01-bgtz-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Hannah Reyes Morales for The New York Times</media:credit>
+      <media:description>Balendra Shah campaigning in Kathmandu, Nepal, last month.</media:description>
+    </item>
+    <item>
+      <title>The Killing Of Haiti’s President Heads to a U.S. Court. What to Know.</title>
+      <link>https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html" rel="standout"></atom:link>
+      <description>Four men are accused in South Florida of plotting to kill President Jovenel Moise in 2021. His death plunged Haiti into chaos that continues today.</description>
+      <dc:creator>David C. Adams</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 13:43:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Economic and Policy Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CTU Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Intriago, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Martine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solages, James (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Veintemilla, Walter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-haiti-assassination-explainer-vfzj/10int-haiti-assassination-explainer-vfzj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Dieu Nalio Chery/Associated Press</media:credit>
+      <media:description>Jovenel Moise, center, in Port-au-Prince, Haiti, in 2018. He was killed in his home in 2021.</media:description>
+    </item>
+    <item>
+      <title>Shooting at U.S. Consulate in Toronto a National Security Incident, Police Say</title>
+      <link>https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html" rel="standout"></atom:link>
+      <description>The police are searching for two men who both fired at the building with a single handgun and fled in a white SUV.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 18:29:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-canada-shots-cgbw/10int-canada-shots-cgbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Frank Gunn/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Toronto Police Services said that there was a “firearm discharge” at the U.S. Consulate on Tuesday morning but that there were no injuries. </media:description>
+    </item>
+    <item>
+      <title>Cost-Cutting Led to South Korean Airport’s Deadly Wall, Report Finds</title>
+      <link>https://www.nytimes.com/2026/03/10/world/asia/jeju-air-crash-wall-airport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/asia/jeju-air-crash-wall-airport.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/asia/jeju-air-crash-wall-airport.html" rel="standout"></atom:link>
+      <description>The concrete runway barrier played a key role in a disaster that killed 179 people. An audit revealed officials skimped on construction fees and then falsified records.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 13:49:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jeju Air Flight 2216</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Falsification of Data</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concrete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Muan (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Muan International Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jeju Air Co Ltd</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-skorea-crash-wall-pbcq/10int-skorea-crash-wall-pbcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Jeju Air Flight 2216 crashed into a concrete barrier at the end of the runway at Muan International Airport, South Korea, in late 2024.</media:description>
+    </item>
+    <item>
+      <title>Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html" rel="standout"></atom:link>
+      <description>Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.</description>
+      <dc:creator>Erika Solomon, Kiana Hayeri and Farnaz Fassihi</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 18:47:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basij</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-voices-mkzf/09int-iran-voices-mkzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Apocalyptic scenes of bombardment, like at an oil-storage facility in the Tehran area on Sunday, have contributed to many Iranians’ gloominess about their nation’s future.</media:description>
+    </item>
+    <item>
+      <title>On the Road With Zelensky, Weathered, Weary and Fighting On</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html" rel="standout"></atom:link>
+      <description>Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.</description>
+      <dc:creator>Kim Barker and Brendan Hoffman</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 04:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>President Volodymyr Zelensky of Ukraine in Kramatorsk on Friday. “They need a lot of things,” he said of the soldiers. “And each day needs are changing.”</media:description>
+    </item>
+    <item>
+      <title>Ukraine Helps U.S. Bases in the Mideast With Stopping Drones</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html" rel="standout"></atom:link>
+      <description>As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.</description>
+      <dc:creator>Kim Barker</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 16:29:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Soldiers in the Donetsk region of Ukraine in December, monitoring the sky to shoot down Russian Shahed drones using an antiaircraft gun.</media:description>
+    </item>
+    <item>
+      <title>Australia Grants Humanitarian Visas to 5 Members of Iranian Women’s Soccer Team</title>
+      <link>https://www.nytimes.com/2026/03/09/world/australia/iran-soccer-womens-team-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/australia/iran-soccer-womens-team-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/australia/iran-soccer-womens-team-australia.html" rel="standout"></atom:link>
+      <description>Concern for the safety of the players had grown after Iranian state media criticized them for not singing the national anthem at a game in Australia.</description>
+      <dc:creator>Victoria Kim and Laura Chung</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 13:19:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Anthems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gold Coast (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian Cup (Soccer)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-oz-iran-soccer2-vmjc/09int-oz-iran-soccer2-vmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Hunt/AAPImage, via Associated Press</media:credit>
+      <media:description>The Iranian national women’s soccer team played the Philippines in its last match in the Asian Cup tournament in Australia on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Is the Trial of Erdogan’s Top Rival More About Corruption or Politics?</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html" rel="standout"></atom:link>
+      <description>Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe.</description>
+      <dc:creator>Ben Hubbard, Gulsin Harman and Safak Timur</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 17:49:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Imamoglu, Ekrem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice and Development Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican People&#39;s Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/08/multimedia/08turkey-mayor-trial-001-kplh/08turkey-mayor-trial-001-kplh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Burak Kara/Getty Images</media:credit>
+      <media:description>Demonstrators in Istanbul showing support for Ekrem Imamoglu, then the mayor of Istanbul, last March after he was arrested.</media:description>
+    </item>
+    <item>
+      <title>Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html" rel="standout"></atom:link>
+      <description>Ekrem Imamoglu, the former mayor of Istanbul who stands accused of corruption, clashed with the judge and criticized the trial as baseless.</description>
+      <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 13:09:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Imamoglu, Ekrem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican People&#39;s Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-turkey-mayor-trial-02-wjgz/09int-turkey-mayor-trial-02-wjgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Burak Kara/Getty Images</media:credit>
+      <media:description>Supporters of Ekrem Imamoglu, the former mayor of Istanbul, protesting outside the Silivri prison and courthouse on Monday.</media:description>
+    </item>
+    <item>
+      <title>The Suburb That Won’t Sleep</title>
+      <link>https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html" rel="standout"></atom:link>
+      <description>Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 04:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ridgeway Plaza (Mississauga, Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississauga (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halal Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Centers and Malls</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/08/multimedia/08int-canada-ontario-dispatch-05-cjpm/08int-canada-ontario-dispatch-05-cjpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>The city of Mississauga, Ontario, has imposed steep fines on the companies that own the plaza for failing to stop gatherings with fireworks and loud music. Nearby residents also complain about heavy traffic.</media:description>
+    </item>
+    <item>
+      <title>Nearly 700,000 Displaced by War in Lebanon, U.N. Says</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html" rel="standout"></atom:link>
+      <description>Mass evacuation orders and an intensifying Israeli bombing campaign targeting the Iran-backed militia Hezbollah have caused a humanitarian crisis, aid groups warn.</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 17:30:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dahiya (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-lebanon-displaced/10iran-carousel-sub-lmvg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Smoke rises from an Israeli airstrike in Beirut, Lebanon, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>‘Nothing Will Remain of Tehran,’ Iranians Say Amid Heavy Bombing</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html" rel="standout"></atom:link>
+      <description>Some residents described the strikes overnight Monday into Tuesday as among the worst they had experienced since the war started.</description>
+      <dc:creator>Leily Nikounazar and Erika Solomon</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 17:12:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-voices-02-hkfv/10israel-iran-voices-02-hkfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Iran has faced ongoing bombing from the U.S. and Israel.</media:description>
+    </item>
+    <item>
+      <title>U.S. Eases Limits on Russian Energy as Oil Prices Soar</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html" rel="standout"></atom:link>
+      <description>The volatility in energy markets because of the war in Iran could not come at a better time for President Vladimir V. Putin.</description>
+      <dc:creator>Paul Sonne</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 17:31:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Russia-oil-bzgq/09israel-iran-Russia-oil-bzgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexey Malgavko/Reuters</media:credit>
+      <media:description>An oil refinery in Omsk, Russia, in 2023.</media:description>
+    </item>
+    <item>
+      <title>Higher Oil Prices Could Put the Fed in a Bind as Unemployment Rises</title>
+      <link>https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html" rel="standout"></atom:link>
+      <description>Investors now expect that the Fed will delay a rate cut until September instead of July, as they had before the war in Iran began.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 18:30:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10dc-iran-fed-wjfv/10dc-iran-fed-wjfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ken Cedeno/Reuters</media:credit>
+      <media:description>Economists expect energy-related price pressures to push inflation up to some degree in the coming months.</media:description>
+    </item>
+    <item>
+      <title>What to Know About the Rising Price of Oil and Its Effects on Airline Ticket Prices</title>
+      <link>https://www.nytimes.com/2026/03/10/travel/airline-prices-mideast-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/travel/airline-prices-mideast-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/travel/airline-prices-mideast-war.html" rel="standout"></atom:link>
+      <description>The Gulf conflict has led to higher fuel prices, and the cost of operating a plane has sharply increased. For travelers, that likely means higher fares.</description>
+      <dc:creator>Elaine Glusac</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 14:43:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/00Trav-Airline-Prices-Gulf-Conflict-cmbz/00Trav-Airline-Prices-Gulf-Conflict-cmbz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Raghed Waked/Reuters</media:credit>
+      <media:description>How much the cost of an airline ticket may rise is unclear. The last time oil rose more than 40 percent — in 2022, on the heels of Russia’s invasion of Ukraine — airfares jumped 28 percent.</media:description>
+    </item>
+    <item>
+      <title>The Race to Stop Wildlife Trafficking in Africa</title>
+      <link>https://www.nytimes.com/2026/03/10/magazine/wildlife-trafficking-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/magazine/wildlife-trafficking-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/magazine/wildlife-trafficking-africa.html" rel="standout"></atom:link>
+      <description>In Nigeria, customs officers and conservationists are confronting the grim impacts of the $20 billion trade.</description>
+      <dc:creator>Arlette Bashizi and Yudhijit Bhattacharjee</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 13:14:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lagos (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/02/15/magazine/15mag-Trafficking/15mag-Trafficking-mediumSquareAt3X.jpg" width="1365"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+      <media:description>Imelda Effiong taking care of Bili, a gorilla, at Pandrillus’s wildlife-rehabilitation center in Calabar, Nigeria, in April 2025. Bili was rescued from traffickers by the Nigeria Custom Service’s Special Wildlife Office.</media:description>
+    </item>
+    <item>
+      <title>Pakistan Sends Navy Escort for Its Ships in the Middle East</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html" rel="standout"></atom:link>
+      <description>Pakistan, Iran’s neighbor, has been striving to remain neutral in the conflict. But its government and military have been forced to act to protect its economy.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 10:58:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-pakistan-warships-jwbk/10israel-iran-pakistan-warships-jwbk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Aamir Qureshi/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Pakistan’s government has announced stringent fuel-saving measures as the conflict in the Middle East chokes oil supplies from the Persian Gulf.</media:description>
+    </item>
+    <item>
+      <title>U.S. Orders Diplomats to Leave Consulate in Southern Turkey</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html" rel="standout"></atom:link>
+      <description>The order came after the interception of two missiles heading toward Turkey, which has a base that hosts U.S. and NATO forces.</description>
+      <dc:creator>John Yoon and Edward Wong</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 10:00:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Incirlik Air Base (Turkey)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-turkey-evacuations-vjpg/10israel-iran-turkey-evacuations-vjpg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Sertac Kayar/Reuters</media:credit>
+      <media:description>A Turkish soldier stands guard in a field as officials search for debris from the interception of a missile launched toward Turkey.</media:description>
+    </item>
+    <item>
+      <title>Black Rain and Health Fears After Strikes on Iran Fuel Depots</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html" rel="standout"></atom:link>
+      <description>Health experts warn of long-term respiratory and neurological risks as smoke from burning oil spreads across the region.</description>
+      <dc:creator>Emily Baumgaertner Nunn and Parin Behrooz</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 18:18:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-oil-strikes-health-lqjv/10int-oil-strikes-health-lqjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Late-night airstrikes on oil sites in Tehran still left rolling waves of smoke on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Oil Falls and Stocks Rise After a Day of Drastic Swings</title>
+      <link>https://www.nytimes.com/2026/03/10/business/stocks-oil-markets-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/business/stocks-oil-markets-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/business/stocks-oil-markets-iran.html" rel="standout"></atom:link>
+      <description>The price of oil had spiked to nearly $120 a barrel on Monday, drawing remarks by President Trump that he believed the war on Iran was “very complete.”</description>
+      <dc:creator>Joe Rennison, Rich Barbieri and Eshe Nelson</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 17:24:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commodities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kospi Stock Index (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10Biz-Stocks-Oil-jltg/10Biz-Stocks-Oil-jltg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nic Coury/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Euan Ward, Paul Sonne, Erika Solomon and Eric Schmitt</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 17:57:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cancer Haunts Neighbors of Canada’s Oil Sands Wastelands</title>
+      <link>https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html" rel="standout"></atom:link>
+      <description>Though high rates of the disease persist among the nearby Indigenous communities, the Canadian government is weighing rules that may allow energy giants to release treated mining waste into the river system.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 18:26:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil Sands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alberta Energy Regulator</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syncrude</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort McMurray (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Chipewyan, Alberta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/00hs-oil-sands-health-03-qhmk/00hs-oil-sands-health-03-qhmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pat Kane for The New York Times</media:credit>
+      <media:description>A Syncrude facility near Fort McMurray, Alberta.</media:description>
+    </item>
+    <item>
+      <title>This is what happened on March 9.</title>
+      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-9</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-9</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-9" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Tue, 10 Mar 2026 04:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy</title>
+      <link>https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html" rel="standout"></atom:link>
+      <description>More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 04:01:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Five</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Solar Energy Industries Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wood Mackenzie Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10biz-solar-trump-pzbl/10biz-solar-trump-pzbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+      <media:description>A solar field in Riesel, Texas, in 2023. Solar power is projected to account for just over half of the new power projects that will be added this year.</media:description>
+    </item>
+    <item>
+      <title>Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html" rel="standout"></atom:link>
+      <description>Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers</description>
+      <dc:creator>Christiaan Triebert, Malachy Browne and John Ismay</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 11:28:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shajarah Tayyebeh (Minab, Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On</title>
+      <link>https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html" rel="standout"></atom:link>
+      <description>The president said the U.S. could accompany tankers through the Strait of Hormuz if necessary to keep oil flowing. “We’ve already won in many ways, but we haven’t won enough,” he said.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 03:15:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-iran4-kfwz/09dc-trump-iran4-kfwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>Oil tankers sat anchored in Muscat, Oman, on Saturday as Iran vowed to block the Strait of Hormuz amid the conflict.</media:description>
+    </item>
+    <item>
+      <title>Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html" rel="standout"></atom:link>
+      <description>The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.</description>
+      <dc:creator>Dayana Iwaza and Ephrat Livni</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 00:24:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-syria-mwtk/09israel-iran-syria-mwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Khalil Ashawi/Reuters</media:credit>
+      <media:description>President Ahmed al-Shara at a conference last month in Damascus. On Monday, he called the escalation in the Middle East “an existential threat to the entire region.”</media:description>
+    </item>
+    <item>
+      <title>Here’s What Happened in the Conflict on Monday</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oil-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oil-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oil-trump.html" rel="standout"></atom:link>
+      <description>President Trump gave conflicting signals about a possible end to the war with Iran amid wild gyrations in global markets.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 23:54:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aoun, Joseph (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudani, Mohammed Shia al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-front-by-front-flpj/09israel-iran-front-by-front-flpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>President Trump speaking from Doral, Fla., on Monday, initially said the war with Iran was “very complete, pretty much.” </media:description>
+    </item>
+    <item>
+      <title>Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html" rel="standout"></atom:link>
+      <description>Oil prices and stocks initially swung wildly, and Iran’s foreign minister promised “surprises,” calling the strikes against his country “Operation Epic Mistake.”</description>
+      <dc:creator>Aaron Boxerman, Farnaz Fassihi, Richard Pérez-Peña and Thomas Fuller</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 23:24:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Incirlik Air Base (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>People in Tehran showing their support on Monday for Mojtaba Khamenei, who was selected as Iran’s new supreme leader.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Lends a Hand</title>
+      <link>https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html" rel="standout"></atom:link>
+      <description>Countries targeted by Iranian drones are eager to tap into Ukrainian expertise to shoot them down.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 06:03:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10int-theworld-ukraine-top-mqbz-promo/10int-theworld-ukraine-top-mqbz-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Oman Becomes Unlikely Hub for Evacuees Fleeing War in Gulf</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oman-evacuations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oman-evacuations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oman-evacuations.html" rel="standout"></atom:link>
+      <description>The international airport in Muscat, the Omani capital, has remained open while fighting in the region has escalated.</description>
+      <dc:creator>Turki Al-Balushi and Ismaeel Naar</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 01:58:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-oman-fkhv/09israel-iran-oman-fkhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vadim Ghirda/Associated Press</media:credit>
+      <media:description>Passengers from an evacuation flight from Muscat, Oman, at Henri Coanda International Airport, just north of Bucharest, Romania, last week.</media:description>
+    </item>
+    <item>
+      <title>France Is Sending a Large Naval Force to the Middle East</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html" rel="standout"></atom:link>
+      <description>President Emmanuel Macron said the warships would help protect France’s allies in the region, and could be part of a force to escort ships through the Strait of Hormuz. He said the war could continue for “several days, maybe several weeks.”</description>
+      <dc:creator>Catherine Porter and Ana Castelain</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 21:02:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cyprus</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-macron-zklc/09israel-iran-macron-zklc-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Gonzalo Fuentes</media:credit>
+      <media:description>President Emmanuel Macron, center right, visiting the French aircraft carrier Charles de Gaulle during a visit to Cyprus on Monday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Reaches Tentative Deal Ending Prosecution of Turkish Bank</title>
+      <link>https://www.nytimes.com/2026/03/09/us/politics/us-turkey-halkbank-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/us/politics/us-turkey-halkbank-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/us/politics/us-turkey-halkbank-deal.html" rel="standout"></atom:link>
+      <description>Court papers submitted as part of the agreement with Halkbank, which was accused of doing business with Iranian entities, said Turkey’s assistance “was instrumental” in the Israel-Hamas cease-fire.</description>
+      <dc:creator>Devlin Barrett</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 02:01:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Halkbank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/dc-turkey-1-kfcv/dc-turkey-1-kfcv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Umit Bektas/Reuters</media:credit>
+      <media:description>President Recep Tayyip Erdogan of Turkey has long pressed President Trump to quash the case against the Turkish bank.</media:description>
+    </item>
+    <item>
+      <title>Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html" rel="standout"></atom:link>
+      <description>Supreme Leader Mojtaba Khamenei could prove to be even more radical than his father and predecessor, Ayatollah Ali Khamenei, who was killed by the U.S. and Israel at the start of the war.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 01:05:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-leader-1-bcjp/09int-iran-leader-1-bcjp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>People gathered in Tehran on Monday, carrying flags and posters of Mojtaba Khamenei, to show support for Iran’s supreme leader.</media:description>
+    </item>
+    <item>
+      <title>At a cemetery in Tehran, there are fresh graves and angry slogans.</title>
+      <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/at-a-cemetery-in-tehran-fresh-graves-and-angry-slogans</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/at-a-cemetery-in-tehran-fresh-graves-and-angry-slogans</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/at-a-cemetery-in-tehran-fresh-graves-and-angry-slogans" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 18:55:17 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-iran-funerals-visual-01-wvfk/09israel-iran-iran-funerals-visual-01-wvfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Women crying at the burial of a relative who was killed by U.S.-Israeli airstrikes, in Tehran, Iran’s capital.</media:description>
+    </item>
+    <item>
+      <title>Police Rescue 23 People Stranded on Moving Ice in Canada</title>
+      <link>https://www.nytimes.com/2026/03/09/world/canada/fishermen-ice-shelf-rescue-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/canada/fishermen-ice-shelf-rescue-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/canada/fishermen-ice-shelf-rescue-canada.html" rel="standout"></atom:link>
+      <description>Nearly two dozen people in Canada were stranded on ice that separated from shore. “We honestly thought we were doomed,” one fisherman said.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 16:51:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Sport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Huron</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09xp-fishing1/09xp-fishing-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ontario Provincial Police</media:credit>
+      <media:description>Nearly two dozen people were rescued after they were stranded on breakaway ice by Georgian Bay, north of Toronto, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Video Captures Apparent Strike Near Boys’ School in Iran</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-video-explosion-boys-school.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-video-explosion-boys-school.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-video-explosion-boys-school.html" rel="standout"></atom:link>
+      <description>A communications tower seemed to be the intended target, according to satellite imagery analysis. Iranian state media reported that a boy had been killed in the explosion.</description>
+      <dc:creator>Christiaan Triebert and Parin Behrooz</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 18:34:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>How The New York Times Reports on War in Iran</title>
+      <link>https://www.nytimes.com/2026/03/09/insider/07iran-israel-united-states-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/insider/07iran-israel-united-states-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/insider/07iran-israel-united-states-war.html" rel="standout"></atom:link>
+      <description>Staying safe and corroborating facts are among the challenges for journalists working under intense pressure around the clock and the world.</description>
+      <dc:creator>Mike Abrams</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 17:57:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/07insider-iran-war2/01israel-operation-thkv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>A rally to mourn the supreme leader, Ayatollah Ali Khamenei, in Tehran.</media:description>
+    </item>
+    <item>
+      <title>Countries in Asia Try to Contain the Economic Fallout of the Mideast Conflict</title>
+      <link>https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html" rel="standout"></atom:link>
+      <description>Across Asia, where countries are highly exposed to rising oil and gas costs and tightening supply, governments are acting to mitigate economic harm.</description>
+      <dc:creator>Aaron Krolik, Choe Sang-Hun, Sui-Lee Wee, Meaghan Tobin and Damien Cave</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 18:44:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10biz-iran-asia-scramble-B1/09biz-iran-asia-scramble-01-fcqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>The Strait of Hormuz is a narrow passage between Iran and Oman. Historically 20 million barrels pass through it each day, most of it bound for Asia.</media:description>
+    </item>
+    <item>
+      <title>NATO Intercepts Second Iranian Missile Entering Turkey’s Airspace, Defense Ministry Says</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/turkey-iranian-missile-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/turkey-iranian-missile-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/turkey-iranian-missile-nato.html" rel="standout"></atom:link>
+      <description>It was the second time in six days that Turkey announced the interception of a missile from Iran.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 14:08:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaziantep (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-turkey-phlj/09israel-iran-turkey-phlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michaela Stache/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mark Rutte, NATO’s secretary general, said the alliance did not need to activate its mutual defense clause.</media:description>
+    </item>
+    <item>
+      <title>Explosion Damages Synagogue in Belgium</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html" rel="standout"></atom:link>
+      <description>Officials described the blast, which caused no injuries, as an antisemitic act, but the exact circumstances were still under investigation.</description>
+      <dc:creator>Koba Ryckewaert</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 15:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synagogues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liege (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09Belgium-synagogue-hgjk/09Belgium-synagogue-hgjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Thys/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers guarding the area near a synagogue that was damaged by an explosion in Liège, Belgium, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Dozens Wounded in Bahrain as Arab States Condemn Iranian Strikes</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/bahrain-iran-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/bahrain-iran-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/bahrain-iran-strikes.html" rel="standout"></atom:link>
+      <description>Key U.S. allies in the Persian Gulf have stepped up their criticism of Iran after facing a barrage of missiles and drone attacks over the past week.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 14:30:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-bahrain-gulf-thcz/09israel-iran-bahrain-gulf-thcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Smoke rising from a refinery operated by Bapco Energies, Bahrain’s state-owned energy company, on Sitra Island, Bahrain, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Ed Davey Wants King Charles to Cancel his U.S. State Visit Over Iran War</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/king-charles-iran-war-uk-us-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/europe/king-charles-iran-war-uk-us-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/europe/king-charles-iran-war-uk-us-trump.html" rel="standout"></atom:link>
+      <description>Ed Davey, the leader of the Liberal Democrats in Britain, said President Trump does not deserve the “diplomatic coup” of hosting the king for a state visit.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 14:10:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democrats (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davey, Ed (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-king-charles-cqtf/09israel-iran-king-charles-cqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Matthews/Press Association, via Associated Press</media:credit>
+      <media:description>King Charles III was expected to travel to the United States to meet President Trump next month, as part of celebrations for the 250th anniversary of independence.</media:description>
+    </item>
+    <item>
+      <title>Israeli Forces Raid New Area in Southern Lebanon, Bombard Near Beirut</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/israeli-forces-raid-southern-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/israeli-forces-raid-southern-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/israeli-forces-raid-southern-lebanon.html" rel="standout"></atom:link>
+      <description>Joseph Aoun, the Lebanese president, called for direct talks with Israel to end the fighting. He also leveled blame at Hezbollah, the Iran-backed group, for igniting the war.</description>
+      <dc:creator>Aaron Boxerman and Christina Goldbaum</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 19:13:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Lebanon-wlpk/09israel-iran-Lebanon-wlpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>An airstrike in the Dahiya neighborhood in the southern outskirts of Beirut, in Lebanon, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Australia Urged to Protect Members of the Iranian Women’s Soccer Team</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-women-soccer-football-team-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/world/middleeast/iran-women-soccer-football-team-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/world/middleeast/iran-women-soccer-football-team-australia.html" rel="standout"></atom:link>
+      <description>The athletes, who are set to head home, were called “traitors” by Iran’s state media after they didn’t sing their national anthem during a match in Australia.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 01:41:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Anthems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-soccer-team-jbkw/09israel-iran-soccer-team-jbkw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Hunt/Australian Associated Press, via Reuters</media:credit>
+      <media:description>Members of Iran’s women’s soccer team before a match on Sunday night in Australia.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Chris Cameron, Farnaz Fassihi, Aaron Boxerman, Anton Troianovski and Richard Pérez-Peña</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 02:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stocks Rebound After Trump Says Iran War Is ‘Very Complete’</title>
+      <link>https://www.nytimes.com/2026/03/09/business/stocks-iran-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/business/stocks-iran-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/business/stocks-iran-oil.html" rel="standout"></atom:link>
+      <description>The S&amp;P 500 ended slightly higher on Monday as investors interpreted President Trump’s comments as a signal that the conflict could end soon.</description>
+      <dc:creator>Joe Rennison, River Akira Davis, Meaghan Tobin and Eshe Nelson</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 20:21:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09Biz-Iran-Stocks-promo-gmck/09Biz-Iran-Stocks-promo-gmck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kazuhiro Nogi/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>For China, Billions of Dollars Are at Risk From a Widening War</title>
+      <link>https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html" rel="standout"></atom:link>
+      <description>The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.</description>
+      <dc:creator>Alexandra Stevenson and Murphy Zhao</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 18:55:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/06/multimedia/00biz-iran-china-gulf-01-zlfb/00biz-iran-china-gulf-01-zlfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Beilun Port in China. The Middle East became even more important to China after China’s trade rivalry with the United States escalated. </media:description>
+    </item>
+    <item>
+      <title>Glasgow Train Station Is Shut Down After Fire Tears Through Neighboring Shop</title>
+      <link>https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html" rel="standout"></atom:link>
+      <description>The fire started in a commercial building on Sunday afternoon, and firefighters worked through the night to contain it. Train service was disrupted on Monday.</description>
+      <dc:creator>Yan Zhuang and Claire Moses</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 14:39:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glasgow (Scotland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Network Rail Ltd</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/08/multimedia/08xp-fire-kwlz/08xp-fire-kwlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff J Mitchell/Getty Images</media:credit>
+      <media:description>More than 60 firefighters battled the blaze after it began at a shop near Glasgow’s main train station on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Democrats Seize on Oil Topping $100 a Barrel, as Trump Downplays Jump</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/democrats-republicans-trump-oil-prices-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/08/world/middleeast/democrats-republicans-trump-oil-prices-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/08/world/middleeast/democrats-republicans-trump-oil-prices-midterms.html" rel="standout"></atom:link>
+      <description>The global oil benchmark topped $100 a barrel late Sunday, putting Republicans on the defensive on an issue at the center of this year’s midterm elections.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 02:58:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suozzi, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-oil-pol-reaction/08biz-iran-oil-price-qctl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ken Cedeno/Reuters</media:credit>
+      <media:description>President Trump immediately sought to downplay the spike in oil prices.</media:description>
+    </item>
+    <item>
+      <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html" rel="standout"></atom:link>
+      <description>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</description>
+      <dc:creator>Malachy Browne and John Ismay</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 09:02:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shajarah Tayyebeh (Minab, Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caine, John Daniel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Iran’s Security Establishment Celebrates Mojtaba Khamenei’s Selection</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-mojtaba-khamenei-supreme-leader-reactions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/08/world/middleeast/iran-mojtaba-khamenei-supreme-leader-reactions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/08/world/middleeast/iran-mojtaba-khamenei-supreme-leader-reactions.html" rel="standout"></atom:link>
+      <description>Opponents of the government, however, worried the new supreme leader, a son of the recently killed Ayatollah Ali Khamenei, would rule with an iron fist like his father.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 05:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Larijani, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/08/multimedia/08iran-live-mojtaba-reax-mpkv/08iran-live-mojtaba-reax-mpkv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>A poster of Ayatollah Mojtaba Khamenei in Tehran on the night he was announced as the new supreme leader of Iran.</media:description>
+    </item>
+  </channel>
+</rss>

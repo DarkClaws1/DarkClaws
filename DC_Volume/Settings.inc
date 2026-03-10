@@ -8,7 +8,7 @@ InputSize = (17 * #scale#)
 Settings = #CURRENTPATH#Settings.inc
 
 barStartX =(#SkinWidth# * 0.25)
-barX = (#SkinWidth# * 0.019)
+barX = (#SkinWidth# * 0.0186)
 barY = (#SkinHeight# * 0.15)
 barW = (#SkinWidth# * 0.01)
 barH = (#SkinHeight# * 0.7)

@@ -121,6 +121,24 @@ String = #CURRENTCONFIG#
 RegExpSubstitute=1
 Substitute="DarkClaws\\":""
 
+[CloseButton]
+X = (#SkinWidth# * 0.94)
+Y = (#SkinHeight# * 0.031)
+Shape= Path MyPath | Extend Outline , Fill
+MyPath=0,3 | LineTo 3,0| LineTo 9,6| LineTo 15,0| LineTo 18,3| LineTo 12,9| LineTo 18,15| LineTo 15,18| LineTo 9,12| LineTo 3,18| LineTo 0,15| LineTo 6,9 |ClosePath 1
+Outline = StrokeWidth 1.5 | Stroke Color #olColor# | Scale 1,1 
+Fill = Fill Color #bgColor#
+Hover = FillColor #hlColor#
+Click = FillColor = #clColor#
+MouseOverAction=[!SetOption #CURRENTSECTION# Fill "Fill Color #hlColor#"] 
+MouseLeaveAction=[!SetOption #CURRENTSECTION# Fill "Fill Color #bgColor#"] 
+
+[TurnOff]
+LeftMouseUpAction = [!DeactivateConfig #CURRENTCONFIG#]
+
+[CloseWindow]
+LeftMouseUpAction= [!ActivateConfig #CURRENTCONFIG# "[MeasureConfig].ini"]
+
 [CloseSettings]
 FontSize=20
 FontWeight = 700

@@ -21,13 +21,13 @@ UsedX = (#SkinWidth# * 0.93)
 
 disk1 =C:
 disk2 =D:
-disk3 =B:
-disk4 =A:
+disk3 =E:
+disk4 =F:
 
-index1 =2
-index2 =2
-index3 =0
-index4 =3
+index1 =4
+index2 =3
+index3 =2
+index4 =1
 
 ;==================================================
 [MeasureTemp1]
