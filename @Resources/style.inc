@@ -56,7 +56,6 @@ Hidden = 1
 Meter = Shape
 Shape = Rectangle X,Y,W,H | Fill Color #bgColor# | StrokeWidth #stroke# | Stroke Color #olColor#
 
-
 [styleText]
 FontSize = (22 * #scale#)
 FontFace= #font#
