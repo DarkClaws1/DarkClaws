@@ -7,7 +7,7 @@ Settings = #CURRENTPATH#Settings.inc
 gapY = (#SkinHeight# * 0.1)
 min = -345
 max = 0
-topY =-40
+topY =-120
 scrollSpeed = 20
 
 [styleSkinButton]

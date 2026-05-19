@@ -60,9 +60,9 @@ name14=Ark Devkits
 img14=empty
 dir14=C:\Users\Andy Banks\Desktop\ARK DevKit.url
 
-name15=
-img15=empty
-dir15=	
+name15=HWInfo
+img15=logo-sm.png
+dir15=C:\Program Files\HWiNFO64\HWiNFO64.EXE	
 
 name16=TEST
 img16=empty

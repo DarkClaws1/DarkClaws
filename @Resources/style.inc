@@ -147,13 +147,15 @@ LeftMouseUpAction= [!ActivateConfig #CURRENTCONFIG# "[MeasureConfig].ini"]
 DynamicVariables=1
 
 [Settings]
+X=(#SkinWidth# * 0.94)
+Y=(#SkinHeight# * 0.03)
 W=(#SkinWidth# * 0.05)
-ImageTint = #txColor#
+ImageTint = 255,255,255
 ImageName=#@#/Icons/Settings
 LeftMouseDownAction = [!SetOption #CURRENTSECTION# ImageTint #clColor#]
 LeftMouseUpAction=!Execute  [!ActivateConfig "#CURRENTCONFIG#" "#Editor#"]
 MouseOverAction =  [!SetOption #CURRENTSECTION# ImageTint #hlColor#]
-MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint #txColor#]
+MouseLeaveAction = [!SetOption #CURRENTSECTION# ImageTint 255,255,255]
 PreserveAspectRatio = 1
 
 [Bordered]
